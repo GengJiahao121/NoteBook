@@ -28,7 +28,7 @@
 
 ## 数据集
 
-1. TCMRel:
+1. TCMRel: https://www.aminer.org/tcmrelextr
 
     已下载
 

@@ -1,0 +1,797 @@
+herb_id	herb_pinyin_name	herb_Latin_Name	spectrum_name	herb_origin	herb_origin_pinyin	spectrum_description
+7629	AI DI CHA	Ardisiae japonicae	HPLC	贵州	 GUI ZHOU	6.gallic acid;17.bergenin;20.chlorogenic acid;31.quercitrin
+7069	BAI GUO	Ginkgo biloba	HPLC	5个不同产地(山东省济南市长清区、临沂市、泰安市、广西省桂林市、江苏省泰兴市）	  SHANDONG PRONVINCE,GUANGXI PROVINCE, JIANGSU PROVINCE	1.bilobalide;2.ginkgolide C;3.ginkgolide A;4.ginkgolide B
+7081	BAI HE LING ZHI	Rhinacanthus nasutus	HPLC	广西南宁	 GUANG XI NAN NING	1.umbelliferone
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	江西樟树(黄花败酱草）	 JIANG XI ZHANG SHU	PSF01
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	湖北恩施(黄花败酱草）	 HU BEI EN SHI	PSF02
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	河南信阳(黄花败酱草）	 HE NAN XIN YANG	PSF03
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	广西玉林(黄花败酱草）	 GUANG XI YU LIN	PSF04
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	江苏淮安(黄花败酱草）	 JIANG SU HUAI AN	PSF05
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	西藏林芝(黄花败酱草）	 XI CANG LIN ZHI	PSF06
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	四川成都(黄花败酱草）	 SI CHUAN CHENG DU	PSF07
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	甘肃庆阳(黄花败酱草）	 GAN SU QING YANG	PSF08
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	广西桂林(黄花败酱草）	 GUANG XI GUI LIN	PSF09
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	江西上饶(黄花败酱草）	 JIANG XI SHANG RAO	PSF10
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	安徽亳州(白花败酱草）	 AN HUI BO ZHOU	PVJ01: 3.isovitexin; 2.isoorientin
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	湖北襄樊(白花败酱草）	 HU BEI XIANG FAN	PVJ02: 3.isovitexin; 2.isoorientin
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	安徽太和(白花败酱草）	 AN HUI TAI HE	PVJ03: 3.isovitexin; 2.isoorientin
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	广西玉林(白花败酱草）	 GUANG XI YU LIN	PVJ04: 3.isovitexin; 2.isoorientin
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	江西赣州(白花败酱草）	 JIANG XI GAN ZHOU	PVJ05: 3.isovitexin; 2.isoorientin
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	湖北恩施(白花败酱草）	 HU BEI EN SHI	PVJ06: 3.isovitexin; 2.isoorientin
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	山东菏泽(白花败酱草）	 SHAN DONG HE ZE	PVJ07: 3.isovitexin; 2.isoorientin
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	四川南充(白花败酱草）	 SI CHUAN NAN CHONG	PVJ08: 3.isovitexin; 2.isoorientin
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	湖北武汉(白花败酱草）	 HU BEI WU HAN	PVJ09: 3.isovitexin; 2.isoorientin
+5328	BAI JIANG CAO	Herba Patriniae	HPLC	河南确山(白花败酱草）	 HE NAN QUE SHAN	PVJ10: 3.isovitexin; 2.isoorientin
+7294	BAI ZHI	Angelica dahurica  [Syn.  Angelica porphyrocaulis]	HPLC	江苏南通	 JIANG SU NAN TONG	S1:9.bergapten;14.imperatorin;15.cnidilin;16.osthole;17.isoimperatorin
+7294	BAI ZHI	Angelica dahurica  [Syn.  Angelica porphyrocaulis]	HPLC	山西太原	 SHAN XI TAI YUAN	S11:9.bergapten;14.imperatorin;15.cnidilin;16.osthole;17.isoimperatorin
+7294	BAI ZHI	Angelica dahurica  [Syn.  Angelica porphyrocaulis]	HPLC	山西大同	 SHAN XI DA TONG	S12:9.bergapten;14.imperatorin;15.cnidilin;16.osthole;17.isoimperatorin
+7294	BAI ZHI	Angelica dahurica  [Syn.  Angelica porphyrocaulis]	HPLC	浙江绍兴	 ZHE JIANG SHAO XING	S13:9.bergapten;14.imperatorin;15.cnidilin;16.osthole;17.isoimperatorin
+7294	BAI ZHI	Angelica dahurica  [Syn.  Angelica porphyrocaulis]	HPLC	浙江宁波	 ZHE JIANG NING BO	S14:9.bergapten;14.imperatorin;15.cnidilin;16.osthole;17.isoimperatorin
+7294	BAI ZHI	Angelica dahurica  [Syn.  Angelica porphyrocaulis]	HPLC	四川遂宁(道地药材）	 SI CHUAN SUI NING (AUTHENTIC HERBS)	S15:9.bergapten;14.imperatorin;15.cnidilin;16.osthole;17.isoimperatorin
+7294	BAI ZHI	Angelica dahurica  [Syn.  Angelica porphyrocaulis]	HPLC	四川荷花池	 SI CHUAN HE HUA CHI	S18:9.bergapten;14.imperatorin;15.cnidilin;16.osthole;17.isoimperatorin
+7294	BAI ZHI	Angelica dahurica  [Syn.  Angelica porphyrocaulis]	HPLC	安徽亳州	 AN HUI BO ZHOU	S20:9.bergapten;14.imperatorin;15.cnidilin;16.osthole;17.isoimperatorin
+7294	BAI ZHI	Angelica dahurica  [Syn.  Angelica porphyrocaulis]	HPLC	辽宁辽阳	 LIAO NING LIAO YANG	S21:9.bergapten;14.imperatorin;15.cnidilin;16.osthole;17.isoimperatorin
+7294	BAI ZHI	Angelica dahurica  [Syn.  Angelica porphyrocaulis]	HPLC	浙江杭州(道地药材）	 ZHE JIANG HANG ZHOU (AUTHENTIC HERBS)	S4:9.bergapten;14.imperatorin;15.cnidilin;16.osthole;17.isoimperatorin
+7294	BAI ZHI	Angelica dahurica  [Syn.  Angelica porphyrocaulis]	HPLC	四川茂文	 SI CHUAN MAO WEN	S6:9.bergapten;14.imperatorin;15.cnidilin;16.osthole;17.isoimperatorin
+7301	BAI ZHU	Atractylodes macrocephala  [Syn.  Atractylis macrocephala ]	HPLC	江西	 JIANG XI	none
+7301	BAI ZHU	Atractylodes macrocephala  [Syn.  Atractylis macrocephala ]	HPLC	浙江(道地药材）	 ZHE JIANG (AUTHENTIC HERBS)	none
+7301	BAI ZHU	Atractylodes macrocephala  [Syn.  Atractylis macrocephala ]	HPLC	湖南	 HU NAN	none
+7301	BAI ZHU	Atractylodes macrocephala  [Syn.  Atractylis macrocephala ]	HPLC	湖北	 HU BEI	none
+7608	BAN BIAN LIAN	Lobelia chinensis  [Syn.  Lobelia radicans]	HPLC	安徽	 AN HUI	none
+7608	BAN BIAN LIAN	Lobelia chinensis  [Syn.  Lobelia radicans]	HPLC	江苏	 JIANG SU	none
+7608	BAN BIAN LIAN	Lobelia chinensis  [Syn.  Lobelia radicans]	HPLC	浙江	 ZHE JIANG	none
+7608	BAN BIAN LIAN	Lobelia chinensis  [Syn.  Lobelia radicans]	HPLC	湖北	 HU BEI	none
+7608	BAN BIAN LIAN	Lobelia chinensis  [Syn.  Lobelia radicans]	HPLC	广西	 GUANG XI	none
+5800	BAN XIA	Pinellia ternata	HPLC	重庆沙坪坝	 ZHONG QING SHA PING BA	Ⅰ:10.guanosine
+5800	BAN XIA	Pinellia ternata	HPLC	四川宣汉	 SI CHUAN XUAN HAN	Ⅱ:10.guanosine
+5800	BAN XIA	Pinellia ternata	HPLC	重庆垫江沙河	 ZHONG QING DIAN JIANG SHA HE	Ⅲ:10.guanosine
+5800	BAN XIA	Pinellia ternata	HPLC	山东高密	 SHAN DONG GAO MI	Ⅳ:10.guanosine
+5800	BAN XIA	Pinellia ternata	HPLC	四川遂宁	 SI CHUAN SUI NING	Ⅴ:10.guanosine
+5800	BAN XIA	Pinellia ternata	HPLC	重庆垫江高安	 ZHONG QING DIAN JIANG GAO AN	Ⅵ:10.guanosine
+5800	BAN XIA	Pinellia ternata	HPLC	山西新降	 SHAN XI XIN JIANG	Ⅶ:10.guanosine
+5800	BAN XIA	Pinellia ternata	HPLC	四川泸州	 SI CHUAN LU ZHOU	Ⅷ:10.guanosine
+5800	BAN XIA	Pinellia ternata	HPLC	贵州贵阳	 GUI ZHOU GUI YANG	Ⅸ:10.guanosine
+5800	BAN XIA	Pinellia ternata	HPLC	云南大理(道地药材）	 YUN NAN DA LI (AUTHENTIC HERBS)	Ⅹ:10.guanosine
+5800	BAN XIA	Pinellia ternata	HPLC	贵州	 GUI ZHOU	S1-S6,S8-S10: 5.guanosine
+5800	BAN XIA	Pinellia ternata	HPLC	四川	 SI CHUAN	S7: 5.guanosine
+5541	BAN ZHI LIAN	Scutellaria barbata  [Syn.  Scutellaria rivularis]	HPLC	陕西	 SHAN XI	S1：3.scutellarin
+5541	BAN ZHI LIAN	Scutellaria barbata  [Syn.  Scutellaria rivularis]	HPLC	山东	 SHAN DONG	S10：3.scutellarin
+5541	BAN ZHI LIAN	Scutellaria barbata  [Syn.  Scutellaria rivularis]	HPLC	湖南	 HU NAN	S2：3.scutellarin
+5541	BAN ZHI LIAN	Scutellaria barbata  [Syn.  Scutellaria rivularis]	HPLC	河南	 HE NAN	S3,S7：3.scutellarin
+5541	BAN ZHI LIAN	Scutellaria barbata  [Syn.  Scutellaria rivularis]	HPLC	湖北	 HU BEI	S4：3.scutellarin
+5541	BAN ZHI LIAN	Scutellaria barbata  [Syn.  Scutellaria rivularis]	HPLC	安徽(道地药材）	 AN HUI (AUTHENTIC HERBS)	S5：3.scutellarin
+5541	BAN ZHI LIAN	Scutellaria barbata  [Syn.  Scutellaria rivularis]	HPLC	四川	 SI CHUAN	S6：3.scutellarin
+5541	BAN ZHI LIAN	Scutellaria barbata  [Syn.  Scutellaria rivularis]	HPLC	市售	 SHI SHOU	S8：3.scutellarin
+5541	BAN ZHI LIAN	Scutellaria barbata  [Syn.  Scutellaria rivularis]	HPLC	山西	 SHAN XI	S9：3.scutellarin
+1328	BEI SHA SHEN	Glehnia littoralis	HPLC － PDA	内蒙古	 NEI MENG GU	S17:11.psoralen; 12.xanthotoxin; 13.bergapten; 15.imperatorin; 16.isoimperatorin 
+1328	BEI SHA SHEN	Glehnia littoralis	HPLC － PDA	辽宁	 LIAO NING	S18:11.psoralen; 12.xanthotoxin; 13.bergapten; 15.imperatorin; 16.isoimperatorin 
+1328	BEI SHA SHEN	Glehnia littoralis	HPLC － PDA	山东	 SHAN DONG	S19:11.psoralen; 12.xanthotoxin; 13.bergapten; 15.imperatorin; 16.isoimperatorin 
+1328	BEI SHA SHEN	Glehnia littoralis	HPLC － PDA	河北(道地药材）	 HE BEI (AUTHENTIC HERBS)	S1-S16:11.psoralen; 12.xanthotoxin; 13.bergapten; 15.imperatorin; 16.isoimperatorin  
+7426	BIAN XU	Polygonum aviculare	HPLC	安徽	 AN HUI	S1,S2：2.chlorogenic acid; 8.myricitrin; 9.Hyperoside; 10.luteolin; 11.avicularin; 12.quercitrin; juglanin; 18.luteolin.
+7426	BIAN XU	Polygonum aviculare	HPLC	湖北	 HU BEI	S10：2.chlorogenic acid; 8.myricitrin; 9.Hyperoside; 10.luteolin; 11.avicularin; 12.quercitrin; juglanin; 18.luteolin.
+7426	BIAN XU	Polygonum aviculare	HPLC	福建福州	 FU JIAN FU ZHOU	S3：2.chlorogenic acid; 8.myricitrin; 9.Hyperoside; 10.luteolin; 11.avicularin; 12.quercitrin; juglanin; 18.luteolin.
+7426	BIAN XU	Polygonum aviculare	HPLC	湖南	 HU NAN	S4：2.chlorogenic acid; 8.myricitrin; 9.Hyperoside; 10.luteolin; 11.avicularin; 12.quercitrin; juglanin; 18.luteolin.
+7426	BIAN XU	Polygonum aviculare	HPLC	广西	 GUANG XI	S5：2.chlorogenic acid; 8.myricitrin; 9.Hyperoside; 10.luteolin; 11.avicularin; 12.quercitrin; juglanin; 18.luteolin.
+7426	BIAN XU	Polygonum aviculare	HPLC	广东	 GUANG DONG	S6：2.chlorogenic acid; 8.myricitrin; 9.Hyperoside; 10.luteolin; 11.avicularin; 12.quercitrin; juglanin; 18.luteolin.
+7426	BIAN XU	Polygonum aviculare	HPLC	河南	 HE NAN	S7：2.chlorogenic acid; 8.myricitrin; 9.Hyperoside; 10.luteolin; 11.avicularin; 12.quercitrin; juglanin; 18.luteolin.
+7426	BIAN XU	Polygonum aviculare	HPLC	云南	 YUN NAN	S8：2.chlorogenic acid; 8.myricitrin; 9.Hyperoside; 10.luteolin; 11.avicularin; 12.quercitrin; juglanin; 18.luteolin.
+7426	BIAN XU	Polygonum aviculare	HPLC	浙江	 ZHE JIANG	S9：2.chlorogenic acid; 8.myricitrin; 9.Hyperoside; 10.luteolin; 11.avicularin; 12.quercitrin; juglanin; 18.luteolin.
+5534	BO HE	Mentha haplocalyx	HP-GC	安徽	 AN HUI	S1,S2,S5：5.menthol
+5534	BO HE	Mentha haplocalyx	HP-GC	江苏	 JIANG SU	S3,S4,S7-S11：5.menthol
+5534	BO HE	Mentha haplocalyx	HP-GC	江西	 JIANG XI	S6：5.menthol
+7079	CAO MEI	Fragaria ananassa	HPLC	江苏南京	 JIANG SU NAN JING	VC
+7531	CHENG LIU	Tamarix chinensis	HPLC	山东东营	 SHAN DONG DONG YING	none
+1957	CHI SHAO	Radix Paeoniae Rubra	HPLC-MS	黑龙江黑河	 HEI LONG JIANG HEI HE	S1：1.gallic acid; 3.albiflorin; 4.paeoniflorin; 8.benzoylpaeoniflorin; 9.paeonol
+1957	CHI SHAO	Radix Paeoniae Rubra	HPLC-MS	湖北恩施	 HU BEI EN SHI	S10：1.gallic acid; 3.albiflorin; 4.paeoniflorin; 8.benzoylpaeoniflorin; 9.paeonol
+1957	CHI SHAO	Radix Paeoniae Rubra	HPLC-MS	黑龙江克山	 HEI LONG JIANG KE SHAN	S2：1.gallic acid; 3.albiflorin; 4.paeoniflorin; 8.benzoylpaeoniflorin; 9.paeonol
+1957	CHI SHAO	Radix Paeoniae Rubra	HPLC-MS	黑龙江桦南	 HEI LONG JIANG HUA NAN	S3：1.gallic acid; 3.albiflorin; 4.paeoniflorin; 8.benzoylpaeoniflorin; 9.paeonol
+1957	CHI SHAO	Radix Paeoniae Rubra	HPLC-MS	辽宁西丰	 LIAO NING XI FENG	S4：1.gallic acid; 3.albiflorin; 4.paeoniflorin; 8.benzoylpaeoniflorin; 9.paeonol
+1957	CHI SHAO	Radix Paeoniae Rubra	HPLC-MS	内蒙古多伦(道地药材）	 NEI MENG GU DUO LUN (AUTHENTIC HERBS)	S5：1.gallic acid; 3.albiflorin; 4.paeoniflorin; 8.benzoylpaeoniflorin; 9.paeonol
+1957	CHI SHAO	Radix Paeoniae Rubra	HPLC-MS	克什克腾	 KE SHI KE TENG	S6：1.gallic acid; 3.albiflorin; 4.paeoniflorin; 8.benzoylpaeoniflorin; 9.paeonol
+1957	CHI SHAO	Radix Paeoniae Rubra	HPLC-MS	河北围场	 HE BEI WEI CHANG	S7：1.gallic acid; 3.albiflorin; 4.paeoniflorin; 8.benzoylpaeoniflorin; 9.paeonol
+1957	CHI SHAO	Radix Paeoniae Rubra	HPLC-MS	陕西黄龙	 SHAN XI HUANG LONG	S8：1.gallic acid; 3.albiflorin; 4.paeoniflorin; 8.benzoylpaeoniflorin; 9.paeonol
+1957	CHI SHAO	Radix Paeoniae Rubra	HPLC-MS	陕西旬邑	 SHAN XI XUN YI	S9：1.gallic acid; 3.albiflorin; 4.paeoniflorin; 8.benzoylpaeoniflorin; 9.paeonol
+5703	CHUAN XIN LIAN	Andrographis paniculata  [Syn.  Justicia paniculata ]	HPLC	广东(道地药材）	 GUANG DONG (AUTHENTIC HERBS)	8.andrographolide
+5703	CHUAN XIN LIAN	Andrographis paniculata  [Syn.  Justicia paniculata ]	HPLC	海南	 HAI NAN	8.andrographolide
+5703	CHUAN XIN LIAN	Andrographis paniculata  [Syn.  Justicia paniculata ]	HPLC	安徽临泉	 AN HUI LIN QUAN	8.andrographolide
+5703	CHUAN XIN LIAN	Andrographis paniculata  [Syn.  Justicia paniculata ]	HPLC	湖南邵东	 HU NAN SHAO DONG	8.andrographolide
+5703	CHUAN XIN LIAN	Andrographis paniculata  [Syn.  Justicia paniculata ]	HPLC	广西(道地药材）	 GUANG XI (AUTHENTIC HERBS)	S1,S4,S10:2.andrographolide
+7144	CI WU JIA PI	Acanthopanax senticosus  [Syn.  Eleutherococcus senticosus ]	HPLC	市售(安国一方中药材有限公司）	 SHI SHOU	1.protocatechuic acid；2.Syringin；3.chlorogenic acid
+7144	CI WU JIA PI	Acanthopanax senticosus  [Syn.  Eleutherococcus senticosus ]	RP-HPLC	市售	 SHI SHOU	12min处：chlorogenic acid
+7047	DA HUANG	Rheum officinale	HPLC	四川康定	 SI CHUAN KANG DING	1.gallic acid; 2.gallic acid; 3.epicatechin; 4.rhein; 5.aloe-emodin; 6.emodin; 7.chrysophano; 8.physcion; 
+7047	DA HUANG	Rheum officinale	HPLC	甘肃(道地药材）	 GAN SU (AUTHENTIC HERBS)	1.gallic acid; 2.gallic acid; 3.epicatechin; 4.rhein; 5.aloe-emodin; 6.emodin; 7.chrysophano; 8.physcion; 
+7047	DA HUANG	Rheum officinale	HPLC	甘孜州	 GAN ZI ZHOU	1.gallic acid; 2.gallic acid; 3.epicatechin; 4.rhein; 5.aloe-emodin; 6.emodin; 7.chrysophano; 8.physcion; 
+7047	DA HUANG	Rheum officinale	HPLC	阿坝州	 A BA ZHOU	1.gallic acid; 2.gallic acid; 3.epicatechin; 4.rhein; 5.aloe-emodin; 6.emodin; 7.chrysophano; 8.physcion; 
+7047	DA HUANG	Rheum officinale	HPLC	唐古特	 TANG GU TE	1.gallic acid; 2.gallic acid; 3.epicatechin; 4.rhein; 5.aloe-emodin; 6.emodin; 7.chrysophano; 8.physcion; 
+7869	DA QING YE	Isatis indigotica	HPLC	江苏泰兴	 JIANG SU TAI XING	S13:21.benzoic acid; 24.salicylic acid; 27.indigotin; 28.indirubin
+7869	DA QING YE	Isatis indigotica	HPLC	甘肃陇南	 GAN SU LONG NAN	S14：21.benzoic acid; 24.salicylic acid; 27.indigotin; 28.indirubin
+7869	DA QING YE	Isatis indigotica	HPLC	陕西安定	 SHAN XI AN DING	S15：21.benzoic acid; 24.salicylic acid; 27.indigotin; 28.indirubin
+7869	DA QING YE	Isatis indigotica	HPLC	河北安国	 HE BEI AN GUO	S1-S4：21.benzoic acid; 24.salicylic acid; 27.indigotin; 28.indirubin
+7869	DA QING YE	Isatis indigotica	HPLC	黑龙江大庆	 HEI LONG JIANG DA QING	S5-S8：21.benzoic acid; 24.salicylic acid; 27.indigotin; 28.indirubin
+7869	DA QING YE	Isatis indigotica	HPLC	安徽阜阳	 AN HUI FU YANG	S9-S12：21.benzoic acid; 24.salicylic acid; 27.indigotin; 28.indirubin
+7052	DA TU SI ZI	Cuscuta japonica	HPLC	四川广汉	 SI CHUAN GUANG HAN	S1,S9:1.neochlorogenic acid; 2.chlorogenic acid; 3.cryptochlorogenic acid; 4.coffeic acid;5.3,4 － dicaffeoylquinic acid;6.3,5 － dicaffeoylquinic acid;7.4,5 － dicaffeoylquinic acid
+7052	DA TU SI ZI	Cuscuta japonica	HPLC	四川	 SI CHUAN	S2,S6,S8,S10,S14,S16:1.neochlorogenic acid; 2.chlorogenic acid; 3.cryptochlorogenic acid; 4.coffeic acid;5.3,4 － dicaffeoylquinic acid;6.3,5 － dicaffeoylquinic acid;7.4,5 － dicaffeoylquinic acid
+7052	DA TU SI ZI	Cuscuta japonica	HPLC	四川遂宁	 SI CHUAN SUI NING	S23:1.neochlorogenic acid; 2.chlorogenic acid; 3.cryptochlorogenic acid; 4.coffeic acid;5.3,4 － dicaffeoylquinic acid;6.3,5 － dicaffeoylquinic acid;7.4,5 － dicaffeoylquinic acid
+7052	DA TU SI ZI	Cuscuta japonica	HPLC	新荷花	 XIN HE HUA	S24,S25:1.neochlorogenic acid; 2.chlorogenic acid; 3.cryptochlorogenic acid; 4.coffeic acid;5.3,4 － dicaffeoylquinic acid;6.3,5 － dicaffeoylquinic acid;7.4,5 － dicaffeoylquinic acid
+7052	DA TU SI ZI	Cuscuta japonica	HPLC	重庆	 ZHONG QING	S3,S4,S11,S12:1.neochlorogenic acid; 2.chlorogenic acid; 3.cryptochlorogenic acid; 4.coffeic acid;5.3,4 － dicaffeoylquinic acid;6.3,5 － dicaffeoylquinic acid;7.4,5 － dicaffeoylquinic acid
+7052	DA TU SI ZI	Cuscuta japonica	HPLC	四川广元	 SI CHUAN GUANG YUAN	S5,S13:1.neochlorogenic acid; 2.chlorogenic acid; 3.cryptochlorogenic acid; 4.coffeic acid;5.3,4 － dicaffeoylquinic acid;6.3,5 － dicaffeoylquinic acid;7.4,5 － dicaffeoylquinic acid
+7052	DA TU SI ZI	Cuscuta japonica	HPLC	四川绵阳	 SI CHUAN MIAN YANG	S7,S15:1.neochlorogenic acid; 2.chlorogenic acid; 3.cryptochlorogenic acid; 4.coffeic acid;5.3,4 － dicaffeoylquinic acid;6.3,5 － dicaffeoylquinic acid;7.4,5 － dicaffeoylquinic acid
+7141	DA XUE TENG	Sargentodoxa cuneata	HPLC	市售	 SHI SHOU	1.chlorogenic acid;2.caffeic acid;3.vanillic acid
+7141	DA XUE TENG	Sargentodoxa cuneata	HPLC	贵州等地	 GUI ZHOU DENG DI	8.protocatechuic acid;9.salidroside;22.rhein
+7296	DAN SHEN	Salvia miltiorrhiza	HPLC	安徽	 AN HUI	ANHUI:4.dihydrotanshinone Ⅰ;5.tanshinoneⅠ;6.cryptotanshinone; 7.tanshinone ⅡA
+7296	DAN SHEN	Salvia miltiorrhiza	HPLC	甘肃	 GAN SU	GANSU:4.dihydrotanshinone Ⅰ;5.tanshinoneⅠ;6.cryptotanshinone; 7.tanshinone ⅡA
+7296	DAN SHEN	Salvia miltiorrhiza	HPLC	河北	 HE BEI	HEBEI:4.dihydrotanshinone Ⅰ;5.tanshinoneⅠ;6.cryptotanshinone; 7.tanshinone ⅡA
+7296	DAN SHEN	Salvia miltiorrhiza	HPLC	河南	 HE NAN	HENAN:4.dihydrotanshinone Ⅰ;5.tanshinoneⅠ;6.cryptotanshinone; 7.tanshinone ⅡA
+7296	DAN SHEN	Salvia miltiorrhiza	HPLC	陕西	 SHAN XI	SHAANXI:4.dihydrotanshinone Ⅰ;5.tanshinoneⅠ;6.cryptotanshinone; 7.tanshinone ⅡA
+7296	DAN SHEN	Salvia miltiorrhiza	HPLC	山东	 SHAN DONG	SHANDONG:4.dihydrotanshinone Ⅰ;5.tanshinoneⅠ;6.cryptotanshinone; 7.tanshinone ⅡA
+7296	DAN SHEN	Salvia miltiorrhiza	HPLC	四川	 SI CHUAN	SICHUAN:4.dihydrotanshinone Ⅰ;5.tanshinoneⅠ;6.cryptotanshinone; 7.tanshinone ⅡA
+7880	DI JIN CAO	Euphorbia humifusa	HPLC	湖南	 HU NAN	S1-S4,S6-S8,S10:2.gallic acid
+7880	DI JIN CAO	Euphorbia humifusa	HPLC	山东	 SHAN DONG	S5,S9:2.gallic acid
+5374	DING XIANG	Syzygium aromaticum  [Syn.  Eugenia caryophyllata]	HP-FFAP	广西	 GUANG XI	S1,S5：1.α-cubebene; 2.caryophyllene; 3. cyclohexane, 1-ethenyl-1-methyl-2-(1-methylethenyl)-4-(1-methylethylidene); 4.naphthalene,1,2,3,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-,(1S-cis); 5.copaene; 6.eugenol; 7.2-hydroxy-4,6-dimethoxy-5-methylacetophenone
+5374	DING XIANG	Syzygium aromaticum  [Syn.  Eugenia caryophyllata]	HP-FFAP	广东	 GUANG DONG	S2：1.α-cubebene; 2.caryophyllene; 3. cyclohexane, 1-ethenyl-1-methyl-2-(1-methylethenyl)-4-(1-methylethylidene); 4.naphthalene,1,2,3,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-,(1S-cis); 5.copaene; 6.eugenol; 7.2-hydroxy-4,6-dimethoxy-5-methylacetophenone
+5374	DING XIANG	Syzygium aromaticum  [Syn.  Eugenia caryophyllata]	HP-FFAP	马达加斯加	 MADAGASCAR	S3,S4,S7:1.α-cubebene; 2.caryophyllene; 3. cyclohexane, 1-ethenyl-1-methyl-2-(1-methylethenyl)-4-(1-methylethylidene); 4.naphthalene,1,2,3,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-,(1S-cis); 5.copaene; 6.eugenol; 7.2-hydroxy-4,6-dimethoxy-5-methylacetophenone
+5374	DING XIANG	Syzygium aromaticum  [Syn.  Eugenia caryophyllata]	HP-FFAP	市售	 SHI SHOU	S6,SS,S10:1.α-cubebene; 2.caryophyllene; 3. cyclohexane, 1-ethenyl-1-methyl-2-(1-methylethenyl)-4-(1-methylethylidene); 4.naphthalene,1,2,3,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-,(1S-cis); 5.copaene; 6.eugenol; 7.2-hydroxy-4,6-dimethoxy-5-methylacetophenone
+5374	DING XIANG	Syzygium aromaticum  [Syn.  Eugenia caryophyllata]	HP-FFAP	海南	 HAI NAN	S8:1.α-cubebene; 2.caryophyllene; 3. cyclohexane, 1-ethenyl-1-methyl-2-(1-methylethenyl)-4-(1-methylethylidene); 4.naphthalene,1,2,3,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-,(1S-cis); 5.copaene; 6.eugenol; 7.2-hydroxy-4,6-dimethoxy-5-methylacetophenone
+6430	DU ZHONG	Eucommia ulmoides	HPCE	湖北	 HU BEI	S1:1.aucubin; 2.geniposidic; 3.pinoresinol diglucoside; 4.harpagide;  5.chlorogenic acid
+6430	DU ZHONG	Eucommia ulmoides	HPCE	贵州	 GUI ZHOU	S2:1.aucubin; 2.geniposidic; 3.pinoresinol diglucoside; 4.harpagide;  5.chlorogenic acid
+6430	DU ZHONG	Eucommia ulmoides	HPCE	四川(道地药材)	 SI CHUAN (AUTHENTIC HERBS)	S3-S6,S8,S9:1.aucubin; 2.geniposidic; 3.pinoresinol diglucoside; 4.harpagide;  5.chlorogenic acid
+6430	DU ZHONG	Eucommia ulmoides	HPCE	江西	 JIANG XI	S7,S10:1.aucubin; 2.geniposidic; 3.pinoresinol diglucoside; 4.harpagide;  5.chlorogenic acid
+5621	DU ZHONG YE	Eucommia ulmoides	HPLC	重庆(道地药材）	 ZHONG QING (AUTHENTIC HERBS)	S1-S10
+7847	FANG FENG	Saposhnikovia divaricata  [Syn.  Ledebouriella seseloides]	HPLC	吉林	 JI LIN	S11-S14:1.prim-O-glucosylcimifugin; 2.cimifugin; 3.4'-O-beta-glucopyranosyl-5-O-methylvisamminol; 5.bergapten ;  7.sec-O-glucosylhamaudol 
+7847	FANG FENG	Saposhnikovia divaricata  [Syn.  Ledebouriella seseloides]	HPLC	河北	 HE BEI	S15,S16:1.prim-O-glucosylcimifugin; 2.cimifugin; 3.4'-O-beta-glucopyranosyl-5-O-methylvisamminol; 5.bergapten ;  7.sec-O-glucosylhamaudol 
+7847	FANG FENG	Saposhnikovia divaricata  [Syn.  Ledebouriella seseloides]	HPLC	陕西	 SHAN XI	S17:1.prim-O-glucosylcimifugin; 2.cimifugin; 3.4'-O-beta-glucopyranosyl-5-O-methylvisamminol; 5.bergapten ;  7.sec-O-glucosylhamaudol 
+7847	FANG FENG	Saposhnikovia divaricata  [Syn.  Ledebouriella seseloides]	HPLC	云南	 YUN NAN	S18:1.prim-O-glucosylcimifugin; 2.cimifugin; 3.4'-O-beta-glucopyranosyl-5-O-methylvisamminol; 5.bergapten ;  7.sec-O-glucosylhamaudol 
+7847	FANG FENG	Saposhnikovia divaricata  [Syn.  Ledebouriella seseloides]	HPLC	重庆	 ZHONG QING	S19:1.prim-O-glucosylcimifugin; 2.cimifugin; 3.4'-O-beta-glucopyranosyl-5-O-methylvisamminol; 5.bergapten ;  7.sec-O-glucosylhamaudol 
+7847	FANG FENG	Saposhnikovia divaricata  [Syn.  Ledebouriella seseloides]	HPLC	内蒙古	 NEI MENG GU	S1-S4:1.prim-O-glucosylcimifugin; 2.cimifugin; 3.4'-O-beta-glucopyranosyl-5-O-methylvisamminol; 5.bergapten ;  7.sec-O-glucosylhamaudol 
+7847	FANG FENG	Saposhnikovia divaricata  [Syn.  Ledebouriella seseloides]	HPLC	辽宁(道地药材）	 LIAO NING (AUTHENTIC HERBS)	S5,S6:1.prim-O-glucosylcimifugin; 2.cimifugin; 3.4'-O-beta-glucopyranosyl-5-O-methylvisamminol; 5.bergapten ;  7.sec-O-glucosylhamaudol 
+7847	FANG FENG	Saposhnikovia divaricata  [Syn.  Ledebouriella seseloides]	HPLC	黑龙江	 HEI LONG JIANG	S7-S10:1.prim-O-glucosylcimifugin; 2.cimifugin; 3.4'-O-beta-glucopyranosyl-5-O-methylvisamminol; 5.bergapten ;  7.sec-O-glucosylhamaudol 
+5009	FU PEN ZI	Rubus idaeus	HPLC	浙江	 ZHE JIANG	none
+5009	FU PEN ZI	Rubus idaeus	HPLC	四川	 SI CHUAN	none
+5009	FU PEN ZI	Rubus idaeus	HPLC	福建	 FU JIAN	none
+5009	FU PEN ZI	Rubus idaeus	HPLC	陕西	 SHAN XI	none
+5009	FU PEN ZI	Rubus idaeus	HPLC	安徽	 AN HUI	none
+5009	FU PEN ZI	Rubus idaeus	HPLC	江西	 JIANG XI	none
+5009	FU PEN ZI	Rubus idaeus	HPLC	贵州	 GUI ZHOU	none
+1656	GAN JIANG	Zingiber officinale	HPLC	石家庄柏林	 SHI JIA ZHUANG BAI LIN	S1:6- gingerols
+1656	GAN JIANG	Zingiber officinale	HPLC	河北安国	 HE BEI AN GUO	S2,S4:6- gingerols
+1656	GAN JIANG	Zingiber officinale	HPLC	北京	 BEI JING	S3,S5-S8:6- gingerols
+1656	GAN JIANG	Zingiber officinale	HPLC	张家口	 ZHANG JIA KOU	S9:6- gingerols
+7662	GAN SONG	Nardostachys chinensis	HPLC	四川	 SI CHUAN	none
+7662	GAN SONG	Nardostachys chinensis	HPLC	甘肃	 GAN SU	none
+7305	GOU TENG	Uncaria rhynchophylla  [Syn.  Nauclea rhynchophylla]	HPLC	广西桂林	 GUANG XI GUI LIN	S1：11.rhynchophylline;12.isorhy
+7305	GOU TENG	Uncaria rhynchophylla  [Syn.  Nauclea rhynchophylla]	HPLC	云南	 YUN NAN	S10：11.rhynchophylline;12.isorhy
+7305	GOU TENG	Uncaria rhynchophylla  [Syn.  Nauclea rhynchophylla]	HPLC	福建龙岩	 FU JIAN LONG YAN	S11：11.rhynchophylline;12.isorhy
+7305	GOU TENG	Uncaria rhynchophylla  [Syn.  Nauclea rhynchophylla]	HPLC	江西九江	 JIANG XI JIU JIANG	S12：11.rhynchophylline;12.isorhy
+7305	GOU TENG	Uncaria rhynchophylla  [Syn.  Nauclea rhynchophylla]	HPLC	广西河池	 GUANG XI HE CHI	S2：11.rhynchophylline;12.isorhy
+7305	GOU TENG	Uncaria rhynchophylla  [Syn.  Nauclea rhynchophylla]	HPLC	江西赣州	 JIANG XI GAN ZHOU	S3：11.rhynchophylline;12.isorhy
+7305	GOU TENG	Uncaria rhynchophylla  [Syn.  Nauclea rhynchophylla]	HPLC	广东韶关	 GUANG DONG SHAO GUAN	S4：11.rhynchophylline;12.isorhy
+7305	GOU TENG	Uncaria rhynchophylla  [Syn.  Nauclea rhynchophylla]	HPLC	湖南	 HU NAN	S5：11.rhynchophylline;12.isorhy
+7305	GOU TENG	Uncaria rhynchophylla  [Syn.  Nauclea rhynchophylla]	HPLC	贵州凯里(道地药材）	 GUI ZHOU KAI LI (AUTHENTIC HERBS)	S6：11.rhynchophylline;12.isorhy
+7305	GOU TENG	Uncaria rhynchophylla  [Syn.  Nauclea rhynchophylla]	HPLC	四川	 SI CHUAN	S7：11.rhynchophylline;12.isorhy
+7305	GOU TENG	Uncaria rhynchophylla  [Syn.  Nauclea rhynchophylla]	HPLC	贵州(道地药材）	 GUI ZHOU (AUTHENTIC HERBS)	S8：11.rhynchophylline;12.isorhy
+7305	GOU TENG	Uncaria rhynchophylla  [Syn.  Nauclea rhynchophylla]	HPLC	广东清远	 GUANG DONG QING YUAN	S9：11.rhynchophylline;12.isorhy
+7151	GUANG DONG TU NIU XI	NA	GC-MS	市售	 SHI SHOU	1.2-methyl-2-1.propenoic acid; 2.2-methyl-2-butenoic acid; 3.naphthalene; 4.hexahydro-2H-azepin-2-one; 5.2,3-dihydro-4,7-dimethyl-1H-indene; 6.1-methylnaphthalene; 7.longipinene; 8.1-ethylnaphthalene; 9.2,7-dimethylnaphthalene; 10. 1,7-dimethylnaphthalene; 11.1,4- dimethylnaphthalene; 12. camphene; 13. α-guaiene;14. ethanone, 1-(2,5-dimethoxyphenyl); 15.caryophyllene oxide; 16. 7,8-dihydroxy-4,5-dimethyl-3,4-dihydronaphthalen-1(2H)-one; 17.caryophyllenol; 18.2-isopropenyl-5-acetyl-2,3-dihydrobenzofuran; 19.diisobutylphthalate; 20. 5,5,9-trimethyltricycl[7.2.2.0]trideca-6,10,diene; 21. 5H-benzocyclohepten-1-ol,6,7,8,9-tetrahydro-3,5,5,9-tetramethyl; 22.dibutylphthalate; 23.2,3-dicyano-5-methyl-7-phenyl-1,4,6H-diazepine; 24. palmitic acid; 25.ethyllinoleate; 26.stearic acid; 27. ethylstearate;  28. 5-hydroxy-6-methoxy-2-methyl-3-phenylbenzofuran; 29. α-santalol; 30. phenol,3-pentadecyl; 31. di-(2-ethylhexyl)phthalate; 32.aristolone 
+1606	GUANG GUO GAN CAO	Glycyrrhiza glabra	HPLC	新疆伽师	 XIN JIANG QIE SHI	17.monoammonium glycyrrhizinate
+1606	GUANG GUO GAN CAO	Glycyrrhiza glabra	HPLC	新疆和田墨玉	 XIN JIANG HE TIAN MO YU	17.monoammonium glycyrrhizinate
+1606	GUANG GUO GAN CAO	Glycyrrhiza glabra	HPLC	新疆疏勒	 XIN JIANG SHU LE	17.monoammonium glycyrrhizinate
+1606	GUANG GUO GAN CAO	Glycyrrhiza glabra	HPLC	新疆沙河镇	 XIN JIANG SHA HE ZHEN	17.monoammonium glycyrrhizinate
+1606	GUANG GUO GAN CAO	Glycyrrhiza glabra	HPLC	新疆岳普湖	 XIN JIANG YUE PU HU	17.monoammonium glycyrrhizinate
+1606	GUANG GUO GAN CAO	Glycyrrhiza glabra	HPLC	新疆巴楚	 XIN JIANG BA CHU	17.monoammonium glycyrrhizinate
+1606	GUANG GUO GAN CAO	Glycyrrhiza glabra	HPLC	新疆色利比亚	 XIN JIANG SE LI BI YA	17.monoammonium glycyrrhizinate
+1606	GUANG GUO GAN CAO	Glycyrrhiza glabra	HPLC	新疆买盖提	 XIN JIANG MAI GAI TI	17.monoammonium glycyrrhizinate
+1606	GUANG GUO GAN CAO	Glycyrrhiza glabra	HPLC	新疆阿瓦提	 XIN JIANG A WA TI	17.monoammonium glycyrrhizinate
+7750	GUANG ZHI GOU ER CHA	Berchemia polyphylla var. leioclada	HPLC	广西南宁	 GUANG XI NAN NING	S11.quercetin
+5255	GUI JIAN YU	Euonymus alatus	HPLC	河北	 HE BEI	S1,S2：2.protocatechuic acid; 3.catechinic acid； 8.hesperidin； 11.kaempferol 3,7-O-α-L- rhamnoside; 15.dehydrodicatechin A; 16. aromadendrin; 18.kaempferol;19.naringenin
+5255	GUI JIAN YU	Euonymus alatus	HPLC	江苏	 JIANG SU	S3：2.protocatechuic acid; 3.catechinic acid； 8.hesperidin； 11.kaempferol 3,7-O-α-L- rhamnoside; 15.dehydrodicatechin A; 16. aromadendrin; 18.kaempferol;19.naringenin
+5255	GUI JIAN YU	Euonymus alatus	HPLC	湖北	 HU BEI	S4：2.protocatechuic acid; 3.catechinic acid； 8.hesperidin； 11.kaempferol 3,7-O-α-L- rhamnoside; 15.dehydrodicatechin A; 16. aromadendrin; 18.kaempferol;19.naringenin
+5255	GUI JIAN YU	Euonymus alatus	HPLC	贵州	 GUI ZHOU	S5：2.protocatechuic acid; 3.catechinic acid； 8.hesperidin； 11.kaempferol 3,7-O-α-L- rhamnoside; 15.dehydrodicatechin A; 16. aromadendrin; 18.kaempferol;19.naringenin
+5255	GUI JIAN YU	Euonymus alatus	HPLC	辽宁	 LIAO NING	S6：2.protocatechuic acid; 3.catechinic acid； 8.hesperidin； 11.kaempferol 3,7-O-α-L- rhamnoside; 15.dehydrodicatechin A; 16. aromadendrin; 18.kaempferol;19.naringenin
+5255	GUI JIAN YU	Euonymus alatus	HPLC	浙江	 ZHE JIANG	S7：2.protocatechuic acid; 3.catechinic acid； 8.hesperidin； 11.kaempferol 3,7-O-α-L- rhamnoside; 15.dehydrodicatechin A; 16. aromadendrin; 18.kaempferol;19.naringenin
+5255	GUI JIAN YU	Euonymus alatus	HPLC	安徽	 AN HUI	S8：2.protocatechuic acid; 3.catechinic acid； 8.hesperidin； 11.kaempferol 3,7-O-α-L- rhamnoside; 15.dehydrodicatechin A; 16. aromadendrin; 18.kaempferol;19.naringenin
+5255	GUI JIAN YU	Euonymus alatus	HPLC	广西	 GUANG XI	S9：2.protocatechuic acid; 3.catechinic acid； 8.hesperidin； 11.kaempferol 3,7-O-α-L- rhamnoside; 15.dehydrodicatechin A; 16. aromadendrin; 18.kaempferol;19.naringenin
+5255	GUI JIAN YU	Euonymus alatus	HPLC	福建	 FU JIAN	S9：2.protocatechuic acid; 3.catechinic acid； 8.hesperidin； 11.kaempferol 3,7-O-α-L- rhamnoside; 15.dehydrodicatechin A; 16. aromadendrin; 18.kaempferol;19.naringenin
+5255	GUI JIAN YU	Euonymus alatus	HPLC	四川	 SI CHUAN	S9：2.protocatechuic acid; 3.catechinic acid； 8.hesperidin； 11.kaempferol 3,7-O-α-L- rhamnoside; 15.dehydrodicatechin A; 16. aromadendrin; 18.kaempferol;19.naringenin
+7221	HAI FENG TENG	Piper kadsura [Syn.  Piper futokadsura]	HPLC	江西	 JIANG XI	S1,S2
+7221	HAI FENG TENG	Piper kadsura [Syn.  Piper futokadsura]	HPLC	浙江	 ZHE JIANG	S3
+7221	HAI FENG TENG	Piper kadsura [Syn.  Piper futokadsura]	HPLC	湖北	 HU BEI	S4,S8
+7221	HAI FENG TENG	Piper kadsura [Syn.  Piper futokadsura]	HPLC	江苏	 JIANG SU	S5
+7221	HAI FENG TENG	Piper kadsura [Syn.  Piper futokadsura]	HPLC	湖南	 HU NAN	S6
+7221	HAI FENG TENG	Piper kadsura [Syn.  Piper futokadsura]	HPLC	上海	 SHANG HAI	S7
+7221	HAI FENG TENG	Piper kadsura [Syn.  Piper futokadsura]	HPLC	福建	 FU JIAN	S9,S10
+7149	HAN FANG JI	Aristolochia heterophylla	HPLC	江西	 JIANG XI	none
+7250	HANG JU	Flos Chrysanthemi	HPLC	浙江杭州(道地药材）	 ZHE JIANG HANG ZHOU (AUTHENTIC HERBS)	S1,S3,S4,S6,S7,S8,S9,S11,S12,S13,S14: 2.chlorogenic acid; 6.luteolin-7-O-glucoside; 10.3,5-dicaffeoyl quinic acid; 20.luteolin
+7250	HANG JU	Flos Chrysanthemi	HPLC	市售	 SHI SHOU	S10: 2.chlorogenic acid; 6.luteolin-7-O-glucoside; 10.3,5-dicaffeoyl quinic acid; 20.luteolin
+7250	HANG JU	Flos Chrysanthemi	HPLC	浙江桐乡	 ZHE JIANG TONG XIANG	S2,S5: 2.chlorogenic acid; 6.luteolin-7-O-glucoside; 10.3,5-dicaffeoyl quinic acid; 20.luteolin
+6281	HE SHOU WU	Polygonum multiflorum	HPLC	湖北	 HU BEI	S1,S5,S6:5(S）.2, 3, 5, 4 '- tetrahydroxy stilbene -7-O-β -D- glucoside
+6281	HE SHOU WU	Polygonum multiflorum	HPLC	广西	 GUANG XI	S10:5(S）.2, 3, 5, 4 '- tetrahydroxy stilbene -7-O-β -D- glucoside
+6281	HE SHOU WU	Polygonum multiflorum	HPLC	浙江	 ZHE JIANG	S2:5(S）.2, 3, 5, 4 '- tetrahydroxy stilbene -7-O-β -D- glucoside
+6281	HE SHOU WU	Polygonum multiflorum	HPLC	四川	 SI CHUAN	S3,S7:5(S）.2, 3, 5, 4 '- tetrahydroxy stilbene -7-O-β -D- glucoside
+6281	HE SHOU WU	Polygonum multiflorum	HPLC	云南	 YUN NAN	S4:5(S）.2, 3, 5, 4 '- tetrahydroxy stilbene -7-O-β -D- glucoside
+6281	HE SHOU WU	Polygonum multiflorum	HPLC	湖南	 HU NAN	S8:5(S）.2, 3, 5, 4 '- tetrahydroxy stilbene -7-O-β -D- glucoside
+6281	HE SHOU WU	Polygonum multiflorum	HPLC	贵州	 GUI ZHOU	S9:5(S）.2, 3, 5, 4 '- tetrahydroxy stilbene -7-O-β -D- glucoside
+7932	HE ZI	Terminalia chebula	HPLC	天津	 TIAN JIN	7.chebulagic acid; 10.chebulinic acid
+7145	HUA JU HONG	Exocarpium Citri grandis	HPLC	广东化州(道地药材)	 GUANG DONG HUA ZHOU (AUTHENTIC HERBS)	7.naringin;8. rhoifolin; 13.naringenin; 14.apigenin
+7275	HUA NAN REN DONG	Lonicera confusa	HPLC	广西	 GUANG XI	S1,S2,S3,S4,S5,S6,S7：4.chlorogenic acid; 7. caffeic acid; 8.loganin
+7275	HUA NAN REN DONG	Lonicera confusa	HPLC	重庆	 ZHONG QING	S10：4.chlorogenic acid; 7. caffeic acid; 8.loganin
+7275	HUA NAN REN DONG	Lonicera confusa	HPLC	福建	 FU JIAN	S8：4.chlorogenic acid; 7. caffeic acid; 8.loganin
+7275	HUA NAN REN DONG	Lonicera confusa	HPLC	云南	 YUN NAN	S9：4.chlorogenic acid; 7. caffeic acid; 8.loganin
+8114	HUANG BAI	Phellodendron amurense	HPLC	四川(道地药材)	 SI CHUAN (AUTHENTIC HERBS)	S1,S2,S6,S8,S9:1.chlorogenic acid; 2. phellodendrine; 3.magnoflorin; 4.jatrorrhizine; 5.berberrubine; 6.palmatine chloride; 7.berberine; 8.obaculactone
+8114	HUANG BAI	Phellodendron amurense	HPLC	广西	 GUANG XI	S10:1.chlorogenic acid; 2. phellodendrine; 3.magnoflorin; 4.jatrorrhizine; 5.berberrubine; 6.palmatine chloride; 7.berberine; 8.obaculactone
+8114	HUANG BAI	Phellodendron amurense	HPLC	贵州(道地药材）	 GUI ZHOU (AUTHENTIC HERBS)	S3:1.chlorogenic acid; 2. phellodendrine; 3.magnoflorin; 4.jatrorrhizine; 5.berberrubine; 6.palmatine chloride; 7.berberine; 8.obaculactone
+8114	HUANG BAI	Phellodendron amurense	HPLC	广东	 GUANG DONG	S4:1.chlorogenic acid; 2. phellodendrine; 3.magnoflorin; 4.jatrorrhizine; 5.berberrubine; 6.palmatine chloride; 7.berberine; 8.obaculactone
+8114	HUANG BAI	Phellodendron amurense	HPLC	北京	 BEI JING	S5:1.chlorogenic acid; 2. phellodendrine; 3.magnoflorin; 4.jatrorrhizine; 5.berberrubine; 6.palmatine chloride; 7.berberine; 8.obaculactone
+7648	HUANG LIAN	Coptis chinensis	HPLC	湖北	 HU BEI	S13:1.berberine; 2.palmatine; 3.coptisine; 4.epiberberine; 5.jatrorrhizine; 6.columbamine; 8.groenlandieine; 9.magnoflorine
+7648	HUANG LIAN	Coptis chinensis	HPLC	重庆	 ZHONG QING	S15:1.berberine; 2.palmatine; 3.coptisine; 4.epiberberine; 5.jatrorrhizine; 6.columbamine; 8.groenlandieine; 9.magnoflorine
+7648	HUANG LIAN	Coptis chinensis	HPLC	四川(道地药材）	 SI CHUAN (AUTHENTIC HERBS)	S1-S12,S14: 1.berberine; 2.palmatine; 3.coptisine; 4.epiberberine; 5.jatrorrhizine; 6.columbamine; 8.groenlandieine; 9.magnoflorine
+5861	HUO XIANG	Agastache rugosus	HPLC	广州黄村(道地药材）	 GUANG ZHOU HUANG CUN (AUTHENTIC HERBS)	S1
+5861	HUO XIANG	Agastache rugosus	HPLC	海南万宁	 HAI NAN WAN NING	S2
+5861	HUO XIANG	Agastache rugosus	HPLC	广东吴川	 GUANG DONG WU CHUAN	S3
+5861	HUO XIANG	Agastache rugosus	HPLC	广东高要	 GUANG DONG GAO YAO	S4
+7543	JI AN HONG SHEN	NA	HPLC	吉林集安	 JI LIN JI AN	6.cytidine; 8.uridine; 9.guanosine; 13.adenosine; 16.ginsenosides Rg1; 19.ginsenoside Rb1
+5658	JI GU CAO	Abrus fruticulosus  [Syn.  Abrus cantoniensis ]	HPLC	广西(道地药材）	 GUANG XI (AUTHENTIC HERBS)	3.abrine
+7238	JIN QIAN CAO	Herba Glechomae Longitubae	HPLC	广东	 GUANG DONG	11.rutin
+7238	JIN QIAN CAO	Herba Glechomae Longitubae	HPLC	重庆	 ZHONG QING	none
+7741	KU SHEN	Sophora flavescens [Syn.  Sophora angustfolia]	HPLC	山西长治	 SHAN XI CHANG ZHI	S1: 1.oxymatrine; 2.oxysophocarpine; 9.sophoridine; 11.matrine
+7741	KU SHEN	Sophora flavescens [Syn.  Sophora angustfolia]	HPLC	广东广州	 GUANG DONG GUANG ZHOU	S10: 1.oxymatrine; 2.oxysophocarpine; 9.sophoridine; 11.matrine
+7741	KU SHEN	Sophora flavescens [Syn.  Sophora angustfolia]	HPLC	山西太原	 SHAN XI TAI YUAN	S11: 1.oxymatrine; 2.oxysophocarpine; 9.sophoridine; 11.matrine
+7741	KU SHEN	Sophora flavescens [Syn.  Sophora angustfolia]	HPLC	山西沁县	 SHAN XI QIN XIAN	S12: 1.oxymatrine; 2.oxysophocarpine; 9.sophoridine; 11.matrine
+7741	KU SHEN	Sophora flavescens [Syn.  Sophora angustfolia]	HPLC	黑龙江牡丹江	 HEI LONG JIANG MU DAN JIANG	S2: 1.oxymatrine; 2.oxysophocarpine; 9.sophoridine; 11.matrine
+7741	KU SHEN	Sophora flavescens [Syn.  Sophora angustfolia]	HPLC	内蒙古赤峰	 NEI MENG GU CHI FENG	S3: 1.oxymatrine; 2.oxysophocarpine; 9.sophoridine; 11.matrine
+7741	KU SHEN	Sophora flavescens [Syn.  Sophora angustfolia]	HPLC	甘肃岷县	 GAN SU MIN XIAN	S4: 1.oxymatrine; 2.oxysophocarpine; 9.sophoridine; 11.matrine
+7741	KU SHEN	Sophora flavescens [Syn.  Sophora angustfolia]	HPLC	湖北房县	 HU BEI FANG XIAN	S5: 1.oxymatrine; 2.oxysophocarpine; 9.sophoridine; 11.matrine
+7741	KU SHEN	Sophora flavescens [Syn.  Sophora angustfolia]	HPLC	大兴安岭	 DA XING AN LING	S6: 1.oxymatrine; 2.oxysophocarpine; 9.sophoridine; 11.matrine
+7741	KU SHEN	Sophora flavescens [Syn.  Sophora angustfolia]	HPLC	贵州平坝县	 GUI ZHOU PING BA XIAN	S7: 1.oxymatrine; 2.oxysophocarpine; 9.sophoridine; 11.matrine
+7741	KU SHEN	Sophora flavescens [Syn.  Sophora angustfolia]	HPLC	湖南	 HU NAN	S8: 1.oxymatrine; 2.oxysophocarpine; 9.sophoridine; 11.matrine
+7741	KU SHEN	Sophora flavescens [Syn.  Sophora angustfolia]	HPLC	广西南宁	 GUANG XI NAN NING	S9: 1.oxymatrine; 2.oxysophocarpine; 9.sophoridine; 11.matrine
+7091	LIANG MIAN ZHEN	Radix Zanthoxyli	HPLC	广东	 GUANG DONG	17.nitidine chloride; 19.chelerythrine
+7091	LIANG MIAN ZHEN	Radix Zanthoxyli	HPLC	广西(道地药材）	 GUANG XI (AUTHENTIC HERBS)	5.liriodenine; 9.nitidine chloride; 10.ethoxychelerythrine; 18.L-sesamin
+7064	LIU SHEN QU	Massa Medicata Fermentata	HPLC	湖北	 HU BEI	none
+7064	LIU SHEN QU	Massa Medicata Fermentata	HPLC	吉林	 JI LIN	none
+7064	LIU SHEN QU	Massa Medicata Fermentata	HPLC	辽宁	 LIAO NING	none
+7064	LIU SHEN QU	Massa Medicata Fermentata	HPLC	山西	 SHAN XI	none
+7064	LIU SHEN QU	Massa Medicata Fermentata	HPLC	江苏	 JIANG SU	none
+7064	LIU SHEN QU	Massa Medicata Fermentata	HPLC	上海	 SHANG HAI	none
+7064	LIU SHEN QU	Massa Medicata Fermentata	HPLC	北京	 BEI JING	none
+7064	LIU SHEN QU	Massa Medicata Fermentata	HPLC	四川	 SI CHUAN	none
+7064	LIU SHEN QU	Massa Medicata Fermentata	HPLC	河南	 HE NAN	none
+7064	LIU SHEN QU	Massa Medicata Fermentata	HPLC	安徽	 AN HUI	none
+7064	LIU SHEN QU	Massa Medicata Fermentata	HPLC	河北	 HE BEI	none
+7171	LU YING	Herba Sambuci Chinensis	HPLC	广东清远	 GUANG DONG QING YUAN	S1:8.oleanolic acid; 9.ursolic
+7171	LU YING	Herba Sambuci Chinensis	HPLC	湖南岳阳	 HU NAN YUE YANG	S10:8.oleanolic acid; 9.ursolic
+7171	LU YING	Herba Sambuci Chinensis	HPLC	江西奉新	 JIANG XI FENG XIN	S11:8.oleanolic acid; 9.ursolic
+7171	LU YING	Herba Sambuci Chinensis	HPLC	江西宜春	 JIANG XI YI CHUN	S12,S13:8.oleanolic acid; 9.ursolic
+7171	LU YING	Herba Sambuci Chinensis	HPLC	江西南昌	 JIANG XI NAN CHANG	S2:8.oleanolic acid; 9.ursolic
+7171	LU YING	Herba Sambuci Chinensis	HPLC	湖北荆门	 HU BEI JING MEN	S3:8.oleanolic acid; 9.ursolic
+7171	LU YING	Herba Sambuci Chinensis	HPLC	湖北武汉	 HU BEI WU HAN	S4:8.oleanolic acid; 9.ursolic
+7171	LU YING	Herba Sambuci Chinensis	HPLC	江西九江	 JIANG XI JIU JIANG	S5:8.oleanolic acid; 9.ursolic
+7171	LU YING	Herba Sambuci Chinensis	HPLC	江西新余	 JIANG XI XIN YU	S6:8.oleanolic acid; 9.ursolic
+7171	LU YING	Herba Sambuci Chinensis	HPLC	江西宜丰	 JIANG XI YI FENG	S7:8.oleanolic acid; 9.ursolic
+7171	LU YING	Herba Sambuci Chinensis	HPLC	江西萍乡	 JIANG XI PING XIANG	S8:8.oleanolic acid; 9.ursolic
+7171	LU YING	Herba Sambuci Chinensis	HPLC	江西万载	 JIANG XI WAN ZAI	S9:8.oleanolic acid; 9.ursolic
+7962	MA BIAN CAO	Verbena officinalis	HPLC	安徽	 AN HUI	S1-S4:8.1α-(β-D-glucopyranosyloxy)-1,4a,5,6,7,7aα-hexahydro-4aα-hydroxy-7α-methyl-5-oxocyclopenta[c]pyran-4-carboxylic acid methyl ester; 9.cornin; 15.acteoside
+7962	MA BIAN CAO	Verbena officinalis	HPLC	河南	 HE NAN	S5:8.1α-(β-D-glucopyranosyloxy)-1,4a,5,6,7,7aα-hexahydro-4aα-hydroxy-7α-methyl-5-oxocyclopenta[c]pyran-4-carboxylic acid methyl ester; 9.cornin; 15.acteoside
+7962	MA BIAN CAO	Verbena officinalis	HPLC	湖北	 HU BEI	S6:8.1α-(β-D-glucopyranosyloxy)-1,4a,5,6,7,7aα-hexahydro-4aα-hydroxy-7α-methyl-5-oxocyclopenta[c]pyran-4-carboxylic acid methyl ester; 9.cornin; 15.acteoside
+7962	MA BIAN CAO	Verbena officinalis	HPLC	湖南	 HU NAN	S7:8.1α-(β-D-glucopyranosyloxy)-1,4a,5,6,7,7aα-hexahydro-4aα-hydroxy-7α-methyl-5-oxocyclopenta[c]pyran-4-carboxylic acid methyl ester; 9.cornin; 15.acteoside
+7962	MA BIAN CAO	Verbena officinalis	HPLC	江西	 JIANG XI	S8:8.1α-(β-D-glucopyranosyloxy)-1,4a,5,6,7,7aα-hexahydro-4aα-hydroxy-7α-methyl-5-oxocyclopenta[c]pyran-4-carboxylic acid methyl ester; 9.cornin; 15.acteoside
+7962	MA BIAN CAO	Verbena officinalis	HPLC	浙江	 ZHE JIANG	S9-S12:8.1α-(β-D-glucopyranosyloxy)-1,4a,5,6,7,7aα-hexahydro-4aα-hydroxy-7α-methyl-5-oxocyclopenta[c]pyran-4-carboxylic acid methyl ester; 9.cornin; 15.acteoside
+1660	MA HUANG	Ephedra sinica	HPLC	甘肃(道地药材）	 GAN SU (AUTHENTIC HERBS)	B：1.ephedrine
+7428	MAN JING ZI	Vitex trifolia	HPLC	福建	 FU JIAN	none
+7782	MANG GUO	Mangifera indica	HPLC	百色	 BAI SE	S10-S12,S17-S20：S25-S28：3.gallic acid; 6.mangiferin; 8.homomangiferin
+7782	MANG GUO	Mangifera indica	HPLC	南宁	 NAN NING	S1-S4,S13-S16,S21-S24：3.gallic acid; 6.mangiferin; 8.homomangiferin
+7782	MANG GUO	Mangifera indica	HPLC	田阳	 TIAN YANG	S5-S8:3.gallic acid; 6.mangiferin; 8.homomangiferin
+5755	MI MENG HUA	Buddleja officinalis	HPLC	青海西宁	 QING HAI XI NING	1：a.verbascoside;b linarin
+5755	MI MENG HUA	Buddleja officinalis	HPLC	广东深圳	 GUANG DONG SHEN ZHEN	10:a.verbascoside;b linarin
+5755	MI MENG HUA	Buddleja officinalis	HPLC	河北宜化	 HE BEI YI HUA	2:a.verbascoside;b linarin
+5755	MI MENG HUA	Buddleja officinalis	HPLC	河北安国	 HE BEI AN GUO	3:a.verbascoside;b linarin
+5755	MI MENG HUA	Buddleja officinalis	HPLC	山西太原	 SHAN XI TAI YUAN	4:a.verbascoside;b linarin
+5755	MI MENG HUA	Buddleja officinalis	HPLC	辽宁锦州	 LIAO NING JIN ZHOU	5:a.verbascoside;b linarin
+5755	MI MENG HUA	Buddleja officinalis	HPLC	云南曲靖	 YUN NAN QU JING	6:a.verbascoside;b linarin
+5755	MI MENG HUA	Buddleja officinalis	HPLC	吉林长春	 JI LIN CHANG CHUN	7:a.verbascoside;b linarin
+5755	MI MENG HUA	Buddleja officinalis	HPLC	湖北黄冈	 HU BEI HUANG GANG	8:a.verbascoside;b linarin
+5755	MI MENG HUA	Buddleja officinalis	HPLC	福建福州	 FU JIAN FU ZHOU	9:a.verbascoside;b linarin
+5813	MU DAN PI	Paeonia moutan [Syn.  Paeonia suffruticosa]	HPLC	安徽亳州(道地药材）	 AN HUI BO ZHOU (AUTHENTIC HERBS)	S1-S5: 1.peonidin; 2.mudanoside B; 3.gallic acid; 4. hydroxy-paeoniflorin; 5.(+)-catechin; 6.paeonollide; 7. apiopaeonoside; 8.paeoniflorin; 9.galloylpaeoniflorin A/B/C/D; 10.galloylpaeoniflorin A/B/C/D; 11.galloylpaeoniflorin A/B/C/D; 12.galloylpaeoniflorin; 13.unknown; 14.pentagalloylglucose;15.mudanpioside H; 16.benzoylpaeoniflorin; 17.mudanpioside C; 18.mudanpioside B; 19.paeonilactone B; 20.paeonol  
+5813	MU DAN PI	Paeonia moutan [Syn.  Paeonia suffruticosa]	HPLC	安徽平邑(道地药材）	 AN HUI PING YI (AUTHENTIC HERBS)	S6: 1.peonidin; 2.mudanoside B; 3.gallic acid; 4. hydroxy-paeoniflorin; 5.(+)-catechin; 6.paeonollide; 7. apiopaeonoside; 8.paeoniflorin; 9.galloylpaeoniflorin A/B/C/D; 10.galloylpaeoniflorin A/B/C/D; 11.galloylpaeoniflorin A/B/C/D; 12.galloylpaeoniflorin; 13.unknown; 14.pentagalloylglucose;15.mudanpioside H; 16.benzoylpaeoniflorin; 17.mudanpioside C; 18.mudanpioside B; 19.paeonilactone B; 20.paeono
+5813	MU DAN PI	Paeonia moutan [Syn.  Paeonia suffruticosa]	HPLC	安徽芜湖(道地药材）	 AN HUI WU HU (AUTHENTIC HERBS)	S7,S8: 1.peonidin; 2.mudanoside B; 3.gallic acid; 4. hydroxy-paeoniflorin; 5.(+)-catechin; 6.paeonollide; 7. apiopaeonoside; 8.paeoniflorin; 9.galloylpaeoniflorin A/B/C/D; 10.galloylpaeoniflorin A/B/C/D; 11.galloylpaeoniflorin A/B/C/D; 12.galloylpaeoniflorin; 13.unknown; 14.pentagalloylglucose;15.mudanpioside H; 16.benzoylpaeoniflorin; 17.mudanpioside C; 18.mudanpioside B; 19.paeonilactone B; 20.paeono
+5813	MU DAN PI	Paeonia moutan [Syn.  Paeonia suffruticosa]	HPLC	河南洛阳	 HE NAN LUO YANG	none
+5476	YI XING NAN WU WEI ZI	Kadsura heteroclita  [Syn.  Uvaria heteroclita]	HPLC	山西长治	 SHAN XI CHANG ZHI	S10:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+5476	YI XING NAN WU WEI ZI	Kadsura heteroclita  [Syn.  Uvaria heteroclita]	HPLC	陕西汉中	 SHAN XI HAN ZHONG	S11:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+5476	YI XING NAN WU WEI ZI	Kadsura heteroclita  [Syn.  Uvaria heteroclita]	HPLC	甘肃定西	 GAN SU DING XI	S12:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+5476	YI XING NAN WU WEI ZI	Kadsura heteroclita  [Syn.  Uvaria heteroclita]	HPLC	陕西大同	 SHAN XI DA TONG	S13:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+5476	YI XING NAN WU WEI ZI	Kadsura heteroclita  [Syn.  Uvaria heteroclita]	HPLC	陕西铜川	 SHAN XI TONG CHUAN	S14:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+5476	YI XING NAN WU WEI ZI	Kadsura heteroclita  [Syn.  Uvaria heteroclita]	HPLC	河南信阳	 HE NAN XIN YANG	S3:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+5476	YI XING NAN WU WEI ZI	Kadsura heteroclita  [Syn.  Uvaria heteroclita]	HPLC	陕西蓝田	 SHAN XI LAN TIAN	S4:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+5476	YI XING NAN WU WEI ZI	Kadsura heteroclita  [Syn.  Uvaria heteroclita]	HPLC	河南平顶山	 HE NAN PING DING SHAN	S5:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+5476	YI XING NAN WU WEI ZI	Kadsura heteroclita  [Syn.  Uvaria heteroclita]	HPLC	陕西商洛	 SHAN XI SHANG LUO	S6:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+5476	YI XING NAN WU WEI ZI	Kadsura heteroclita  [Syn.  Uvaria heteroclita]	HPLC	甘肃甘南	 GAN SU GAN NAN	S7:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+5476	YI XING NAN WU WEI ZI	Kadsura heteroclita  [Syn.  Uvaria heteroclita]	HPLC	山西阳泉	 SHAN XI YANG QUAN	S8:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+5476	YI XING NAN WU WEI ZI	Kadsura heteroclita  [Syn.  Uvaria heteroclita]	HPLC	山西晋中	 SHAN XI JIN ZHONG	S9:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+5736	NIU XI	Achyranthes bidentata	HPLC	河北安国	 HE BEI AN GUO	S18,S19:3.β-ecdysterone
+5736	NIU XI	Achyranthes bidentata	HPLC	河南(道地药材）	 HE NAN (AUTHENTIC HERBS)	S1-S9,S12-S17:3.β-ecdysterone
+5736	NIU XI	Achyranthes bidentata	HPLC	内蒙古赤峰	 NEI MENG GU CHI FENG	S20:3.β-ecdysterone
+5736	NIU XI	Achyranthes bidentata	HPLC	安徽亳州	 AN HUI BO ZHOU	S21:3.β-ecdysterone
+7207	PU HUANG TAN	pollen typhae Preparata	HPLC	辽宁沈阳	 LIAO NING CHEN YANG	S1:9.typhaneoside; 11.isorhamnetin-3-O-neohespeidoside; 15.quercetin; 16.naringenin; 17.kaempferol; 18. isorhamnetin
+7207	PU HUANG TAN	pollen typhae Preparata	HPLC	河北保定	 HE BEI BAO DING	S1:9.typhaneoside; 11.isorhamnetin-3-O-neohespeidoside; 15.quercetin; 16.naringenin; 17.kaempferol; 18. isorhamnetin
+7207	PU HUANG TAN	pollen typhae Preparata	HPLC	内蒙呼和浩特	 NEI MENG HU HE HAO TE	S1:9.typhaneoside; 11.isorhamnetin-3-O-neohespeidoside; 15.quercetin; 16.naringenin; 17.kaempferol; 18. isorhamnetin
+7207	PU HUANG TAN	pollen typhae Preparata	HPLC	河南商丘	 HE NAN SHANG QIU	S1:9.typhaneoside; 11.isorhamnetin-3-O-neohespeidoside; 15.quercetin; 16.naringenin; 17.kaempferol; 18. isorhamnetin
+7207	PU HUANG TAN	pollen typhae Preparata	HPLC	河南南阳	 HE NAN NAN YANG	S1:9.typhaneoside; 11.isorhamnetin-3-O-neohespeidoside; 15.quercetin; 16.naringenin; 17.kaempferol; 18. isorhamnetin
+7207	PU HUANG TAN	pollen typhae Preparata	HPLC	江苏连云港(道地药材）	 JIANG SU LIAN YUN GANG (AUTHENTIC HERBS)	S1:9.typhaneoside; 11.isorhamnetin-3-O-neohespeidoside; 15.quercetin; 16.naringenin; 17.kaempferol; 18. isorhamnetin
+7207	PU HUANG TAN	pollen typhae Preparata	HPLC	内蒙赤峰	 NEI MENG CHI FENG	S1:9.typhaneoside; 11.isorhamnetin-3-O-neohespeidoside; 15.quercetin; 16.naringenin; 17.kaempferol; 18. isorhamnetin
+7207	PU HUANG TAN	pollen typhae Preparata	HPLC	内蒙满洲里	 NEI MENG MAN ZHOU LI	S1:9.typhaneoside; 11.isorhamnetin-3-O-neohespeidoside; 15.quercetin; 16.naringenin; 17.kaempferol; 18. isorhamnetin
+7207	PU HUANG TAN	pollen typhae Preparata	HPLC	宁家银川	 NING JIA YIN CHUAN	S1:9.typhaneoside; 11.isorhamnetin-3-O-neohespeidoside; 15.quercetin; 16.naringenin; 17.kaempferol; 18. isorhamnetin
+7207	PU HUANG TAN	pollen typhae Preparata	HPLC	山东济南	 SHAN DONG JI NAN	S1:9.typhaneoside; 11.isorhamnetin-3-O-neohespeidoside; 15.quercetin; 16.naringenin; 17.kaempferol; 18. isorhamnetin
+7381	QIAN LI GUANG	Senecio scandens  [Syn.  Senecio chinensis]	HPLC	安徽繁昌	 AN HUI FAN CHANG	S1: 6.hyperoside
+7381	QIAN LI GUANG	Senecio scandens  [Syn.  Senecio chinensis]	HPLC	镇江宝华山	 ZHEN JIANG BAO HUA SHAN	S10: 6.hyperoside
+7381	QIAN LI GUANG	Senecio scandens  [Syn.  Senecio chinensis]	HPLC	浙江天目山	 ZHE JIANG TIAN MU SHAN	S11: 6.hyperoside
+7381	QIAN LI GUANG	Senecio scandens  [Syn.  Senecio chinensis]	HPLC	重庆	 ZHONG QING	S12: 6.hyperoside
+7381	QIAN LI GUANG	Senecio scandens  [Syn.  Senecio chinensis]	HPLC	陕西西安	 SHAN XI XI AN	S2: 6.hyperoside
+7381	QIAN LI GUANG	Senecio scandens  [Syn.  Senecio chinensis]	HPLC	河南郑州	 HE NAN ZHENG ZHOU	S3: 6.hyperoside
+7381	QIAN LI GUANG	Senecio scandens  [Syn.  Senecio chinensis]	HPLC	贵州贵阳	 GUI ZHOU GUI YANG	S4: 6.hyperoside
+7381	QIAN LI GUANG	Senecio scandens  [Syn.  Senecio chinensis]	HPLC	四川峨眉山	 SI CHUAN E MEI SHAN	S5: 6.hyperoside
+7381	QIAN LI GUANG	Senecio scandens  [Syn.  Senecio chinensis]	HPLC	安徽芜湖	 AN HUI WU HU	S6: 6.hyperoside
+7381	QIAN LI GUANG	Senecio scandens  [Syn.  Senecio chinensis]	HPLC	云南昆明	 YUN NAN KUN MING	S7: 6.hyperoside
+7381	QIAN LI GUANG	Senecio scandens  [Syn.  Senecio chinensis]	HPLC	安徽亳州	 AN HUI BO ZHOU	S8: 6.hyperoside
+7381	QIAN LI GUANG	Senecio scandens  [Syn.  Senecio chinensis]	HPLC	四川新津	 SI CHUAN XIN JIN	S9: 6.hyperoside
+5466	QING TIAN KUI	Herba Nerviliae	HPLC	广西(道地药材)	 GUANG XI (AUTHENTIC HERBS)	S1-S4,S7-S10：4.complanatoside; 7.rhamnocitrin-3-O-glucoside; 8.rhamnocitrin; 10. aurantiamide acetate
+5466	QING TIAN KUI	Herba Nerviliae	HPLC	广州(市售）	 GUANG ZHOU	S5,S6：4.complanatoside; 7.rhamnocitrin-3-O-glucoside; 8.rhamnocitrin; 10. aurantiamide acetate
+5857	REN DONG TENG	Lonicera japonica	HPLC	广西	 GUANG XI	S1:1.chlorogenic acid
+5857	REN DONG TENG	Lonicera japonica	HPLC	重庆	 ZHONG QING	S10:1.chlorogenic acid
+5857	REN DONG TENG	Lonicera japonica	HPLC	江苏	 JIANG SU	S2,S6:1.chlorogenic acid
+5857	REN DONG TENG	Lonicera japonica	HPLC	山东	 SHAN DONG	S3:1.chlorogenic acid
+5857	REN DONG TENG	Lonicera japonica	HPLC	湖北	 HU BEI	S4:1.chlorogenic acid
+5857	REN DONG TENG	Lonicera japonica	HPLC	河南(道地药材)	 HE NAN (AUTHENTIC HERBS)	S5:1.chlorogenic acid
+5857	REN DONG TENG	Lonicera japonica	HPLC	北京	 BEI JING	S7:1.chlorogenic acid
+5857	REN DONG TENG	Lonicera japonica	HPLC	贵州	 GUI ZHOU	S8:1.chlorogenic acid
+5857	REN DONG TENG	Lonicera japonica	HPLC	云南	 YUN NAN	S9:1.chlorogenic acid
+7736	REN SHEN HUA	NA	HPLC	吉林(道地药材）	 JI LIN (AUTHENTIC HERBS)	S1.ginsenoside Rg1; S2.ginsenoside Re; S3. malonyl ginsenoside Rb1; S4. malonyl ginsenoside Rc; S5.malonyl ginsenoside Rb2; S6.ginsenoside Rg2; S7. ginsenoside Rb1; S8. ginsenoside Rc; S9. malonyl ginsenoside Rd; S10.ginsenoside Rb2; S11. ginsenoside Rd  
+7227	REN SHEN YE	Panax ginseng [Syn.  Panax schinseng ]	HPLC	吉林(道地药材）	 JI LIN (AUTHENTIC HERBS)	none
+7524	ROU GUI	Cinnamomum cassia  [Syn.  Cinnamomum aromaticum ]	HPLC	海南	 HAI NAN	S19：8.3-hydroxy cinnamic acid; 9.2-hydroxy cinnamic acid; 10.4 - hydroxy 3 - methoxy cinnamic aldehyde; 12.2′-hydroxycinnamaldehyde; 13.coumarin; 14.cinnamic alcohol; 15.cinnamic acid; 16.2-methoxy cinnamic acid; 17.cinnamic aldehyde; 18.2-methoxy cinnamic aldehyde
+7524	ROU GUI	Cinnamomum cassia  [Syn.  Cinnamomum aromaticum ]	HPLC	广西	 GUANG XI	S1-S3,S5-S8,S10-S17,S20-S24:8.3-hydroxy cinnamic acid; 9.2-hydroxy cinnamic acid; 10.4 - hydroxy 3 - methoxy cinnamic aldehyde; 12.2′-hydroxycinnamaldehyde; 13.coumarin; 14.cinnamic alcohol; 15.cinnamic acid; 16.2-methoxy cinnamic acid; 17.cinnamic aldehyde; 18.2-methoxy cinnamic aldehyde
+7524	ROU GUI	Cinnamomum cassia  [Syn.  Cinnamomum aromaticum ]	HPLC	广东	 GUANG DONG	S27：8.3-hydroxy cinnamic acid; 9.2-hydroxy cinnamic acid; 10.4 - hydroxy 3 - methoxy cinnamic aldehyde; 12.2′-hydroxycinnamaldehyde; 13.coumarin; 14.cinnamic alcohol; 15.cinnamic acid; 16.2-methoxy cinnamic acid; 17.cinnamic aldehyde; 18.2-methoxy cinnamic aldehyde
+7888	SAN LENG	Sparganium stoloniferum	HPLC	江苏	 JIANG SU	S1,S7：6.ferulic acid
+7888	SAN LENG	Sparganium stoloniferum	HPLC	浙江	 ZHE JIANG	S10-S13:6.ferulic acid
+7888	SAN LENG	Sparganium stoloniferum	HPLC	山东	 SHAN DONG	S14：6.ferulic acid
+7888	SAN LENG	Sparganium stoloniferum	HPLC	河南	 HE NAN	S15：6.ferulic acid
+7888	SAN LENG	Sparganium stoloniferum	HPLC	河北	 HE BEI	S2,S5,S8：6.ferulic acid
+7888	SAN LENG	Sparganium stoloniferum	HPLC	江西	 JIANG XI	S3：6.ferulic acid
+7888	SAN LENG	Sparganium stoloniferum	HPLC	辽宁	 LIAO NING	S4,S6S:6.ferulic acid
+7253	SANG BAI PI	Morus alba	HPLC	陕西合阳	 SHAN XI HE YANG	S10
+7253	SANG BAI PI	Morus alba	HPLC	湖北神农架	 HU BEI SHEN NONG JIA	S11
+7253	SANG BAI PI	Morus alba	HPLC	四川旺苍	 SI CHUAN WANG CANG	S12
+7253	SANG BAI PI	Morus alba	HPLC	河南洛阳	 HE NAN LUO YANG	S13
+7253	SANG BAI PI	Morus alba	HPLC	广东阳江	 GUANG DONG YANG JIANG	S14
+7253	SANG BAI PI	Morus alba	HPLC	山东嘉祥	 SHAN DONG JIA XIANG	S2
+7253	SANG BAI PI	Morus alba	HPLC	江西赣州	 JIANG XI GAN ZHOU	S3
+7253	SANG BAI PI	Morus alba	HPLC	内蒙古赤峰	 NEI MENG GU CHI FENG	S4
+7253	SANG BAI PI	Morus alba	HPLC	陕西宝鸡	 SHAN XI BAO JI	S5
+7253	SANG BAI PI	Morus alba	HPLC	云南西双版纳	 YUN NAN XI SHUANG BAN NA	S6
+7253	SANG BAI PI	Morus alba	HPLC	广西宜州	 GUANG XI YI ZHOU	S7
+7253	SANG BAI PI	Morus alba	HPLC	安徽(道地药材_)	 AN HUI (AUTHENTIC HERBS)	S8
+7253	SANG BAI PI	Morus alba	HPLC	安徽岳西	 AN HUI YUE XI	S9
+8158	SHI LIU PI	Punica granatum	HPLC	湖北武汉	 HU BEI WU HAN	S1：3.galic acid; 11.ellagic acid
+8158	SHI LIU PI	Punica granatum	HPLC	安徽亳州	 AN HUI BO ZHOU	S10：3.galic acid; 11.ellagic acid
+8158	SHI LIU PI	Punica granatum	HPLC	山东威海	 SHAN DONG WEI HAI	S11：3.galic acid; 11.ellagic acid
+8158	SHI LIU PI	Punica granatum	HPLC	浙江千岛湖	 ZHE JIANG QIAN DAO HU	S12：3.galic acid; 11.ellagic acid
+8158	SHI LIU PI	Punica granatum	HPLC	广东广州	 GUANG DONG GUANG ZHOU	S2：3.galic acid; 11.ellagic acid
+8158	SHI LIU PI	Punica granatum	HPLC	陕西西安	 SHAN XI XI AN	S3：3.galic acid; 11.ellagic acid
+8158	SHI LIU PI	Punica granatum	HPLC	山东济南	 SHAN DONG JI NAN	S4：3.galic acid; 11.ellagic acid
+8158	SHI LIU PI	Punica granatum	HPLC	陕西临潼	 SHAN XI LIN TONG	S5：3.galic acid; 11.ellagic acid
+8158	SHI LIU PI	Punica granatum	HPLC	安徽怀远	 AN HUI HUAI YUAN	S6：3.galic acid; 11.ellagic acid
+8158	SHI LIU PI	Punica granatum	HPLC	云南丽江	 YUN NAN LI JIANG	S7：3.galic acid; 11.ellagic acid
+8158	SHI LIU PI	Punica granatum	HPLC	山东临沂	 SHAN DONG LIN YI	S8：3.galic acid; 11.ellagic acid
+8158	SHI LIU PI	Punica granatum	HPLC	安徽黄山	 AN HUI HUANG SHAN	S9：3.galic acid; 11.ellagic acid
+7180	SHI YE	Diospyros kaki	HPLC	广西梧州	 GUANG XI WU ZHOU	S1,S12
+7180	SHI YE	Diospyros kaki	HPLC	广西陆川	 GUANG XI LU CHUAN	S11
+7180	SHI YE	Diospyros kaki	HPLC	广西平南	 GUANG XI PING NAN	S2,,S3
+7180	SHI YE	Diospyros kaki	HPLC	广西隆林	 GUANG XI LONG LIN	S4,S5
+7180	SHI YE	Diospyros kaki	HPLC	广西融安	 GUANG XI RONG AN	S6
+7180	SHI YE	Diospyros kaki	HPLC	广西柳州	 GUANG XI LIU ZHOU	S7,S8
+7180	SHI YE	Diospyros kaki	HPLC	广西博白	 GUANG XI BO BAI	S9,S10
+8168	SI JI QING	Ilex chinensis [Syn.  Ilex purpurea ]	HPLC	浙江桐乡	 ZHE JIANG TONG XIANG	S13,S14：1.protocatechuic acid; 2.protocatechualdehyde; 3.chlorogenic acid; 4.caffeic acid
+8168	SI JI QING	Ilex chinensis [Syn.  Ilex purpurea ]	HPLC	江苏南京	 JIANG SU NAN JING	S15,S16：1.protocatechuic acid; 2.protocatechualdehyde; 3.chlorogenic acid; 4.caffeic acid
+8168	SI JI QING	Ilex chinensis [Syn.  Ilex purpurea ]	HPLC	江苏泸水	 JIANG SU LU SHUI	S17-S20：1.protocatechuic acid; 2.protocatechualdehyde; 3.chlorogenic acid; 4.caffeic acid
+8168	SI JI QING	Ilex chinensis [Syn.  Ilex purpurea ]	HPLC	安徽宣城	 AN HUI XUAN CHENG	S1-S4：1.protocatechuic acid; 2.protocatechualdehyde; 3.chlorogenic acid; 4.caffeic acid
+8168	SI JI QING	Ilex chinensis [Syn.  Ilex purpurea ]	HPLC	湖南邵东	 HU NAN SHAO DONG	S5-S12：1.protocatechuic acid; 2.protocatechualdehyde; 3.chlorogenic acid; 4.caffeic acid
+7128	SU YE	folium perillae	HPLC	江苏	 JIANG SU	none
+7128	SU YE	folium perillae	HPLC	江西	 JIANG XI	none
+7128	SU YE	folium perillae	HPLC	河北(道地药材）	 HE BEI (AUTHENTIC HERBS)	none
+8148	TIE PI SHI HU	Dendrobium officinale	HPLC	浙江(道地药材)	 ZHE JIANG (AUTHENTIC HERBS)	5.5-naringenin
+8148	TIE PI SHI HU	Dendrobium officinale	HPLC	云南	 YUN NAN	none
+5404	TU SI ZI	Semen Cuseutae;Semen Cuseutae	HPLC	山东	 SHAN DONG	A:5.chlorogenic acid; 9. p-coumaric acid; 16.quercetin; 17. kaempferol; 
+5404	TU SI ZI	Semen Cuseutae;Semen Cuseutae	HPLC	内蒙古	 NEI MENG GU	B,N:5.chlorogenic acid; 9. p-coumaric acid; 16.quercetin; 17. kaempferol; 
+5404	TU SI ZI	Semen Cuseutae;Semen Cuseutae	HPLC	宁夏	 NING XIA	C:5.chlorogenic acid; 9. p-coumaric acid; 16.quercetin; 17. kaempferol; 
+5404	TU SI ZI	Semen Cuseutae;Semen Cuseutae	HPLC	河北	 HE BEI	D:5.chlorogenic acid; 9. p-coumaric acid; 16.quercetin; 17. kaempferol; 
+5404	TU SI ZI	Semen Cuseutae;Semen Cuseutae	HPLC	河南	 HE NAN	E:5.chlorogenic acid; 9. p-coumaric acid; 16.quercetin; 17. kaempferol; 
+5404	TU SI ZI	Semen Cuseutae;Semen Cuseutae	HPLC	山西(道地药材）	 SHAN XI (AUTHENTIC HERBS)	F:5.chlorogenic acid; 9. p-coumaric acid; 16.quercetin; 17. kaempferol; 
+5404	TU SI ZI	Semen Cuseutae;Semen Cuseutae	HPLC	湖北	 HU BEI	G:5.chlorogenic acid; 9. p-coumaric acid; 16.quercetin; 17. kaempferol; 
+5404	TU SI ZI	Semen Cuseutae;Semen Cuseutae	HPLC	安徽芜湖	 AN HUI WU HU	H:5.chlorogenic acid; 9. p-coumaric acid; 16.quercetin; 17. kaempferol; 
+5404	TU SI ZI	Semen Cuseutae;Semen Cuseutae	HPLC	江苏	 JIANG SU	I:5.chlorogenic acid; 9. p-coumaric acid; 16.quercetin; 17. kaempferol; 
+5404	TU SI ZI	Semen Cuseutae;Semen Cuseutae	HPLC	广西	 GUANG XI	J:5.chlorogenic acid; 9. p-coumaric acid; 16.quercetin; 17. kaempferol; 
+5404	TU SI ZI	Semen Cuseutae;Semen Cuseutae	HPLC	江西	 JIANG XI	K:5.chlorogenic acid; 9. p-coumaric acid; 16.quercetin; 17. kaempferol; 
+5404	TU SI ZI	Semen Cuseutae;Semen Cuseutae	HPLC	吉林	 JI LIN	L:5.chlorogenic acid; 9. p-coumaric acid; 16.quercetin; 17. kaempferol; 
+5404	TU SI ZI	Semen Cuseutae;Semen Cuseutae	HPLC	甘肃	 GAN SU	M:5.chlorogenic acid; 9. p-coumaric acid; 16.quercetin; 17. kaempferol; 
+5404	TU SI ZI	Semen Cuseutae;Semen Cuseutae	HPLC	湖南	 HU NAN	O:5.chlorogenic acid; 9. p-coumaric acid; 16.quercetin; 17. kaempferol; 
+5354	WU LING ZHI	Trogopterus xanthipes,  Pteromys volans	HPLC	北京	 BEI JING	S10:1.protocatechuate; 2.amentoflavone; 14. hinokiflavone
+5354	WU LING ZHI	Trogopterus xanthipes,  Pteromys volans	HPLC	山西	 SHAN XI	S1-S6:1.protocatechuate; 2.amentoflavone; 14. hinokiflavone
+5354	WU LING ZHI	Trogopterus xanthipes,  Pteromys volans	HPLC	辽宁	 LIAO NING	S7,S8:1.protocatechuate; 2.amentoflavone; 14. hinokiflavone
+5354	WU LING ZHI	Trogopterus xanthipes,  Pteromys volans	HPLC	陕西	 SHAN XI	S9:1.protocatechuate; 2.amentoflavone; 14. hinokiflavone
+7101	WU TONG ZI	Firmiana simplex	GC-MS	市售	 SHI SHOU	1.1-(2-hydroxy-4-methoxyphenyl)-ethanone; 2.n-hexadecanoic acid; 3.hexzdecanoic acid ethylester; 4.Z,Z-9,12-octadecadienoic acid; 5.(E)-9-octadecenoic acid; 6.9,12-octadecadienoic acid; 7.ethyloleate; 8. ethylZ-9octadecenoate; 9.9,12-octadecadienoic acid(Z,Z)-methylester; 10.8,11-eicosadienoic acid methylester
+1518	WU WEI ZI	Schisandra chinensis	HPLC	辽宁营口	 LIAO NING YING KOU	S1:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+1518	WU WEI ZI	Schisandra chinensis	HPLC	辽宁沈阳	 LIAO NING CHEN YANG	S2:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+1518	WU WEI ZI	Schisandra chinensis	HPLC	黑龙江绥化	 HEI LONG JIANG SUI HUA	S3:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+1518	WU WEI ZI	Schisandra chinensis	HPLC	吉林延边	 JI LIN YAN BIAN	S4:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+1518	WU WEI ZI	Schisandra chinensis	HPLC	辽宁本溪(道地药材）	 LIAO NING BEN XI (AUTHENTIC HERBS)	S5:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+1518	WU WEI ZI	Schisandra chinensis	HPLC	黑龙江铁力	 HEI LONG JIANG TIE LI	S6:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+1518	WU WEI ZI	Schisandra chinensis	HPLC	辽宁鞍山(道地药材）	 LIAO NING AN SHAN (AUTHENTIC HERBS)	S7:1.schisandrin; 2.deoxyschizandrin; 3. schisantherrin A; 4.γ-schisandrin
+7935	WU ZHU YU	Evodia rutaecarpa	HPLC	云南	 YUN NAN	S13：1.evodin; 6.evodiamine; 7.rutaecarpine
+7935	WU ZHU YU	Evodia rutaecarpa	HPLC	湖北	 HU BEI	S15,S17：1.evodin; 6.evodiamine; 7.rutaecarpine
+7935	WU ZHU YU	Evodia rutaecarpa	HPLC	广西	 GUANG XI	S19：1.evodin; 6.evodiamine; 7.rutaecarpine
+7935	WU ZHU YU	Evodia rutaecarpa	HPLC	湖南(道地药材）	 HU NAN (AUTHENTIC HERBS)	S1-S3,S6-S11:4.evodine; S.evodiamine; 8.rutaecarpine
+7935	WU ZHU YU	Evodia rutaecarpa	HPLC	贵州(道地药材）	 GUI ZHOU (AUTHENTIC HERBS)	S4,S5:4.evodine; S.evodiamine; 8.rutaecarpine
+7935	WU ZHU YU	Evodia rutaecarpa	HPLC	浙江	 ZHE JIANG	S4,S9：1.evodin; 6.evodiamine; 7.rutaecarpine
+7935	WU ZHU YU	Evodia rutaecarpa	HPLC	河南	 HE NAN	S5:1.evodin; 6.evodiamine; 7.rutaecarpine
+7935	WU ZHU YU	Evodia rutaecarpa	HPLC	四川	 SI CHUAN	S6：1.evodin; 6.evodiamine; 7.rutaecarpine
+7935	WU ZHU YU	Evodia rutaecarpa	HPLC	江西	 JIANG XI	S8,S18：1.evodin; 6.evodiamine; 7.rutaecarpine
+8202	XIA KU CAO	Prunella vulgaris	HPLC	安徽	 AN HUI	1.ursolic acid; 2.oleanolic acid
+8202	XIA KU CAO	Prunella vulgaris	HPLC	湖北	 HU BEI	S1,S2,S6
+8202	XIA KU CAO	Prunella vulgaris	HPLC	河南	 HE NAN	S3,S5,S7-S10
+8202	XIA KU CAO	Prunella vulgaris	HPLC	江苏(道地药材)	 JIANG SU (AUTHENTIC HERBS)	S4
+7520	XIANG FU	Cyperus rotundus	HPLC	市售	 SHI SHOU	S15:α- cyperone
+7520	XIANG FU	Cyperus rotundus	HPLC	海南	 HAI NAN	S15:α- cyperone
+7520	XIANG FU	Cyperus rotundus	HPLC	湛江	 ZHAN JIANG	S15:α- cyperone
+5022	XIN JIANG BEI MU	Fritillaria walujewii	HPLC-ELSD	新疆	 XIN JIANG	10.imperialine
+7789	YU MI XU	Zea mays	HPLC	湖北武汉	 HU BEI WU HAN	S14:11.rutin; 15.apigenin
+7789	YU MI XU	Zea mays	HPLC	河南郑州	 HE NAN ZHENG ZHOU	S15-S24:11.rutin; 15.apigenin
+7789	YU MI XU	Zea mays	HPLC	广东茂名	 GUANG DONG MAO MING	S1-S3:11.rutin; 15.apigenin
+7789	YU MI XU	Zea mays	HPLC	河北保定	 HE BEI BAO DING	S4-S12:11.rutin; 15.apigenin
+5643	YU ZHOU LOU LU	Radix Echinopsis	HPLC	齐源市下冶镇	 QI YUAN SHI XIA YE ZHEN	S1:10.2,2':5',2''-terthiophene 
+5643	YU ZHOU LOU LU	Radix Echinopsis	HPLC	新乡市辉县	 XIN XIANG SHI HUI XIAN	S10-S13:10.2,2':5',2''-terthiophene 
+5643	YU ZHOU LOU LU	Radix Echinopsis	HPLC	内蒙古鄂尔多斯	 NEI MENG GU E ER DUO SI	S14:10.2,2':5',2''-terthiophene 
+5643	YU ZHOU LOU LU	Radix Echinopsis	HPLC	南阳市西峡县	 NAN YANG SHI XI XIA XIAN	S2:10.2,2':5',2''-terthiophene 
+5643	YU ZHOU LOU LU	Radix Echinopsis	HPLC	湖北省蕲春县	 HU BEI SHENG QI CHUN XIAN	S3:10.2,2':5',2''-terthiophene 
+5643	YU ZHOU LOU LU	Radix Echinopsis	HPLC	焦作市博爱县	 JIAO ZUO SHI BO AI XIAN	S4:10.2,2':5',2''-terthiophene 
+5643	YU ZHOU LOU LU	Radix Echinopsis	HPLC	南阳	 NAN YANG	S5:10.2,2':5',2''-terthiophene 
+5643	YU ZHOU LOU LU	Radix Echinopsis	HPLC	陕西省太白县	 SHAN XI SHENG TAI BAI XIAN	S6:10.2,2':5',2''-terthiophene 
+5643	YU ZHOU LOU LU	Radix Echinopsis	HPLC	山东省沂南县	 SHAN DONG SHENG YI NAN XIAN	S7:10.2,2':5',2''-terthiophene 
+5643	YU ZHOU LOU LU	Radix Echinopsis	HPLC	山西省广灵县	 SHAN XI SHENG GUANG LING XIAN	S8:10.2,2':5',2''-terthiophene 
+5643	YU ZHOU LOU LU	Radix Echinopsis	HPLC	洛阳市栾川县	 LUO YANG SHI LUAN CHUAN XIAN	S9:10.2,2':5',2''-terthiophene 
+8088	YU ZHU	Polygonatum odoratum  [Syn.  Polygonatum officinale]	HPLC	浙江磐安	 ZHE JIANG PAN AN	1.aspartate; 2.glutamic acid; 3.unknown peaks; 4.serine; 5.arginine6.threonine; 7.glycine; 8. unknown peaks; 9. proline; 10.valine; 11.Unknown peaks; 12.methionine; 13.isoleucine; 14.unknown peaks; 15.lysine; 16.histidine; 17.tyrosine
+7504	YUAN HUA	Daphne genkwa	HPLC	安徽	 AN HUI	S10-S14:3.luteolin -5-O-β-D- glucoside; 6.apigenin -5-O-β-D- glucoside; 8.genkwanin -5-O-β-D- glucoside primrose;9.apigenin -7-O-β-D- glucuronide;10.genkwanin -5-O-β-D-glucoside; 12.linden glycosides; 13.luteolin;14.apigenin;15.hydroxy genkwanin16.genkwanin
+7504	YUAN HUA	Daphne genkwa	HPLC	浙江	 ZHE JIANG	S15-S18:3.luteolin -5-O-β-D- glucoside; 6.apigenin -5-O-β-D- glucoside; 8.genkwanin -5-O-β-D- glucoside primrose;9.apigenin -7-O-β-D- glucuronide;10.genkwanin -5-O-β-D-glucoside; 12.linden glycosides; 13.luteolin;14.apigenin;15.hydroxy genkwanin16.genkwanin
+7504	YUAN HUA	Daphne genkwa	HPLC	山东	 SHAN DONG	S19-S21:3.luteolin -5-O-β-D- glucoside; 6.apigenin -5-O-β-D- glucoside; 8.genkwanin -5-O-β-D- glucoside primrose;9.apigenin -7-O-β-D- glucuronide;10.genkwanin -5-O-β-D-glucoside; 12.linden glycosides; 13.luteolin;14.apigenin;15.hydroxy genkwanin16.genkwanin
+7504	YUAN HUA	Daphne genkwa	HPLC	河南	 HE NAN	S1-S5:3.luteolin -5-O-β-D- glucoside; 6.apigenin -5-O-β-D- glucoside; 8.genkwanin -5-O-β-D- glucoside primrose;9.apigenin -7-O-β-D- glucuronide;10.genkwanin -5-O-β-D-glucoside; 12.linden glycosides; 13.luteolin;14.apigenin;15.hydroxy genkwanin16.genkwanin
+7504	YUAN HUA	Daphne genkwa	HPLC	湖北	 HU BEI	S6-S9:3.luteolin -5-O-β-D- glucoside; 6.apigenin -5-O-β-D- glucoside; 8.genkwanin -5-O-β-D- glucoside primrose;9.apigenin -7-O-β-D- glucuronide;10.genkwanin -5-O-β-D-glucoside; 12.linden glycosides; 13.luteolin;14.apigenin;15.hydroxy genkwanin16.genkwanin
+5619	ZAO XIU	Paris polyphylla	HPLC	云南丽江(道地药材）	 YUN NAN LI JIANG (AUTHENTIC HERBS)	S1,S8
+5619	ZAO XIU	Paris polyphylla	HPLC	云南大理(道地药材）	 YUN NAN DA LI (AUTHENTIC HERBS)	S10
+5619	ZAO XIU	Paris polyphylla	HPLC	四川峨眉山	 SI CHUAN E MEI SHAN	S2
+5619	ZAO XIU	Paris polyphylla	HPLC	甘肃天水	 GAN SU TIAN SHUI	S3
+5619	ZAO XIU	Paris polyphylla	HPLC	云南保山(道地药材）	 YUN NAN BAO SHAN (AUTHENTIC HERBS)	S4
+5619	ZAO XIU	Paris polyphylla	HPLC	贵州遵义	 GUI ZHOU ZUN YI	S5
+5619	ZAO XIU	Paris polyphylla	HPLC	贵州安顺	 GUI ZHOU AN SHUN	S6
+5619	ZAO XIU	Paris polyphylla	HPLC	甘肃天水	 GAN SU TIAN SHUI	S7
+5619	ZAO XIU	Paris polyphylla	HPLC	四川阿坝州	 SI CHUAN A BA ZHOU	S9
+7358	ZE QI	Euphorbia helioscopia	HPLC	甘肃	 GAN SU	23.472min：hyperoside; 49.250min:myricetin; 65.884:quercetin
+8019	ZHANG YE BAN XIA	Pinellia pedatisecta	HPLC	陕西汉中	 SHAN XI HAN ZHONG	A1:9.adenosine
+8019	ZHANG YE BAN XIA	Pinellia pedatisecta	HPLC	安徽亳州	 AN HUI BO ZHOU	A2:9.adenosine
+8019	ZHANG YE BAN XIA	Pinellia pedatisecta	HPLC	河北安国	 HE BEI AN GUO	A3:9.adenosine
+8019	ZHANG YE BAN XIA	Pinellia pedatisecta	HPLC	河北保定	 HE BEI BAO DING	A4:9.adenosine
+8019	ZHANG YE BAN XIA	Pinellia pedatisecta	HPLC	湖南浏阳	 HU NAN LIU YANG	A5:9.adenosine
+8019	ZHANG YE BAN XIA	Pinellia pedatisecta	HPLC	山东菏泽	 SHAN DONG HE ZE	A6:9.adenosine
+8019	ZHANG YE BAN XIA	Pinellia pedatisecta	HPLC	四川成都	 SI CHUAN CHENG DU	A7:9.adenosine
+5615	ZHE BEI MU	Fritillaria verticillata var.  thunbergii [Syn.  Fritillaria thunbergii ]	HPLC	浙江(道地药材）	 ZHE JIANG (AUTHENTIC HERBS)	S1-S16:4.peimine; 6.peiminine 
+5777	ZHI KE	Citrus aurantium	HPLC	广西	 GUANG XI	S12: 3.narirutin; 4.hesperidin; 5.neohesperidin  
+5777	ZHI KE	Citrus aurantium	HPLC	江西(道地药材)	 JIANG XI (AUTHENTIC HERBS)	S1-S15:1.naringin; 2.narirutin; 5.neohesperidin
+5777	ZHI KE	Citrus aurantium	HPLC	湖南	 HU NAN	S6: 3.narirutin; 4.hesperidin; 5.neohesperidin  
+7133	ZHI SHOU WU	Radix Polygoni Multiflori Preparata	HPLC	四川	 SI CHUAN	S1,S2,S9:5(S）.2, 3, 5, 4 '- tetrahydroxy stilbene -2-O-β -D- glucoside
+7133	ZHI SHOU WU	Radix Polygoni Multiflori Preparata	HPLC	甘肃	 GAN SU	S10:5(S）.2, 3, 5, 4 '- tetrahydroxy stilbene -7-O-β -D- glucoside
+7133	ZHI SHOU WU	Radix Polygoni Multiflori Preparata	HPLC	湖南	 HU NAN	S3:5(S）.2, 3, 5, 4 '- tetrahydroxy stilbene -3-O-β -D- glucoside
+7133	ZHI SHOU WU	Radix Polygoni Multiflori Preparata	HPLC	湖北	 HU BEI	S4.S7,S8:5(S）.2, 3, 5, 4 '- tetrahydroxy stilbene -4-O-β -D- glucoside
+7133	ZHI SHOU WU	Radix Polygoni Multiflori Preparata	HPLC	安徽	 AN HUI	S5:5(S）.2, 3, 5, 4 '- tetrahydroxy stilbene -5-O-β -D- glucoside
+7133	ZHI SHOU WU	Radix Polygoni Multiflori Preparata	HPLC	贵州	 GUI ZHOU	S6:5(S）.2, 3, 5, 4 '- tetrahydroxy stilbene -6-O-β -D- glucoside
+7138	ZHU BAI	Myrica nagi [Syn.  Podocarpus nagi]	RP-HPLC	广东广州	 GUANG DONG GUANG ZHOU	amentoflavone
+5207	SHE GAN	Belamcanda chinensis	HPLC	内蒙古锡林浩特	 NEI MENG GU XI LIN HAO TE	S1：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+5207	SHE GAN	Belamcanda chinensis	HPLC	湖北武汉	 HU BEI WU HAN	S2：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+5207	SHE GAN	Belamcanda chinensis	HPLC	安徽阜阳(道地药材）	 AN HUI FU YANG (AUTHENTIC HERBS)	S3：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+5207	SHE GAN	Belamcanda chinensis	HPLC	河北邯郸	 HE BEI HAN DAN	S4：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+5207	SHE GAN	Belamcanda chinensis	HPLC	广西柳州	 GUANG XI LIU ZHOU	S5：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+5207	SHE GAN	Belamcanda chinensis	HPLC	陕西晋中	 SHAN XI JIN ZHONG	S6：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+5207	SHE GAN	Belamcanda chinensis	HPLC	江西泰和	 JIANG XI TAI HE	S7：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+5207	SHE GAN	Belamcanda chinensis	HPLC	江苏泰州	 JIANG SU TAI ZHOU	S8：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+5207	SHE GAN	Belamcanda chinensis	HPLC	南京植物园	 NAN JING ZHI WU YUAN	S9：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+5207	SHE GAN	Belamcanda chinensis	HPLC	江苏宿迁	 JIANG SU SU QIAN	S10：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+5207	SHE GAN	Belamcanda chinensis	HPLC	上海	 SHANG HAI	S11：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+5207	SHE GAN	Belamcanda chinensis	HPLC	浙江杭州	 ZHE JIANG HANG ZHOU	S12：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+5207	SHE GAN	Belamcanda chinensis	HPLC	山东济南	 SHAN DONG JI NAN	S13：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+5207	SHE GAN	Belamcanda chinensis	HPLC	天津	 TIAN JIN	S14：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+5207	SHE GAN	Belamcanda chinensis	HPLC	北京	 BEI JING	S15：6.tectoridin; 7.iristectorin A; 8. iristectorin B; 9.iridin; 11. tectorigenin; 12. iristectorigenin A; 13. irigenin
+4696	FANG JI	Stephania tetrandra	HPLC	江西	 JIANG XI	5.fangchinoline; 7.tetrandrine
+4738	JI XUE CAO	Centella asiatica	HPLC	福建厦门	 FU JIAN SHA MEN	A:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	海南海口	 HAI NAN HAI KOU	B:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	云南曲靖	 YUN NAN QU JING	C:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	江西南昌	 JIANG XI NAN CHANG	D:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	安徽滁州	 AN HUI CHU ZHOU	E:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	贵州贵阳	 GUI ZHOU GUI YANG	F:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	广东汕头	 GUANG DONG SHAN TOU	G:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	江苏南京	 JIANG SU NAN JING	H:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	江苏宜兴	 JIANG SU YI XING	I:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	江西九江	 JIANG XI JIU JIANG	J:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	湖北武汉	 HU BEI WU HAN	K:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	重庆	 ZHONG QING	L:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	广西兴安	 GUANG XI XING AN	M:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	浙江杭州	 ZHE JIANG HANG ZHOU	N:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	广东广州	 GUANG DONG GUANG ZHOU	O:6.asiaticoside 
+4738	JI XUE CAO	Centella asiatica	HPLC	湖南长沙	 HU NAN CHANG SHA	P:6.asiaticoside 
+4776	QIANG HUO	Notopterygium incisum	HPLC	上海	 SHANG HAI	S1：1.apterin; 3 nodakenin; 6.Angelica lactone; 9.bergamot lactone; 11.bergamot lactone
+4776	QIANG HUO	Notopterygium incisum	HPLC	吉林四平	 JI LIN SI PING	S2：1.apterin; 3 nodakenin; 6.Angelica lactone; 9.bergamot lactone; 11.bergamot lactone
+4776	QIANG HUO	Notopterygium incisum	HPLC	吉林松原	 JI LIN SONG YUAN	S3：1.apterin; 3 nodakenin; 6.Angelica lactone; 9.bergamot lactone; 11.bergamot lactone
+4776	QIANG HUO	Notopterygium incisum	HPLC	浙江杭州	 ZHE JIANG HANG ZHOU	S4：1.apterin; 3 nodakenin; 6.Angelica lactone; 9.bergamot lactone; 11.bergamot lactone
+4776	QIANG HUO	Notopterygium incisum	HPLC	河北石家庄	 HE BEI SHI JIA ZHUANG	S5：1.apterin; 3 nodakenin; 6.Angelica lactone; 9.bergamot lactone; 11.bergamot lactone
+4776	QIANG HUO	Notopterygium incisum	HPLC	山东青岛	 SHAN DONG QING DAO	S6：1.apterin; 3 nodakenin; 6.Angelica lactone; 9.bergamot lactone; 11.bergamot lactone
+4776	QIANG HUO	Notopterygium incisum	HPLC	四川成都	 SI CHUAN CHENG DU	S7：1.apterin; 3 nodakenin; 6.Angelica lactone; 9.bergamot lactone; 11.bergamot lactone
+4776	QIANG HUO	Notopterygium incisum	HPLC	安徽合肥	 AN HUI HE FEI	S8：1.apterin; 3 nodakenin; 6.Angelica lactone; 9.bergamot lactone; 11.bergamot lactone
+4776	QIANG HUO	Notopterygium incisum	HPLC	辽宁大连	 LIAO NING DA LIAN	S9：1.apterin; 3 nodakenin; 6.Angelica lactone; 9.bergamot lactone; 11.bergamot lactone
+4776	QIANG HUO	Notopterygium incisum	HPLC	北京	 BEI JING	S10：1.apterin; 3 nodakenin; 6.Angelica lactone; 9.bergamot lactone; 11.bergamot lactone
+4889	MU GUA	Chaenomeles sinensis	HPLC	贵州	 GUI ZHOU	S1：ursolic
+4889	MU GUA	Chaenomeles sinensis	HPLC	重庆	 ZHONG QING	S2,S4-S6,S8,S9,S16,S18,S19:ursolic
+4889	MU GUA	Chaenomeles sinensis	HPLC	山东	 SHAN DONG	S3:ursolic
+4889	MU GUA	Chaenomeles sinensis	HPLC	云南	 YUN NAN	S7,S11:ursolic
+4889	MU GUA	Chaenomeles sinensis	HPLC	四川	 SI CHUAN	S10:ursolic
+4889	MU GUA	Chaenomeles sinensis	HPLC	湖北	 HU BEI	S12:ursolic
+4889	MU GUA	Chaenomeles sinensis	HPLC	浙江	 ZHE JIANG	S13:ursolic
+4889	MU GUA	Chaenomeles sinensis	HPLC	湖南	 HU NAN	S14:ursolic
+4889	MU GUA	Chaenomeles sinensis	HPLC	安徽宣城(道地药材）	 AN HUI XUAN CHENG (AUTHENTIC HERBS)	S15:ursolic
+4889	MU GUA	Chaenomeles sinensis	HPLC	四川	 SI CHUAN	S17:ursolic
+4918	XIAN HE CAO	Agrimonia pilosa var. japonica	HPLC	江苏	 JIANG SU	none
+4918	XIAN HE CAO	Agrimonia pilosa var. japonica	HPLC	浙江	 ZHE JIANG	none
+4918	XIAN HE CAO	Agrimonia pilosa var. japonica	HPLC	安徽	 AN HUI	none
+4918	XIAN HE CAO	Agrimonia pilosa var. japonica	HPLC	山东	 SHAN DONG	none
+4918	XIAN HE CAO	Agrimonia pilosa var. japonica	HPLC	黑龙江	 HEI LONG JIANG	none
+4918	XIAN HE CAO	Agrimonia pilosa var. japonica	HPLC	云南	 YUN NAN	none
+4918	XIAN HE CAO	Agrimonia pilosa var. japonica	HPLC	湖北	 HU BEI	none
+4918	XIAN HE CAO	Agrimonia pilosa var. japonica	HPLC	河北	 HE BEI	none
+5016	CHUAN MU XIANG	Vladimiria souliei  [Syn.  Jurinea souliei]	HPLC	四川	 SI CHUAN	27.costunolide; 29.dehydrocostuslactone
+5519	SHU WEI CAO	NA	HPLC	北京	 BEI JING	c:A.dihydrotanshinoneⅠ, B. tanshinoneⅠ, C. tanshinone ⅡA
+3525	SHA ZAO	Elaeagnus angustifolia	HPLC	新疆	 XIN JIANG	8.Quercetin
+3526	ZHEN ZHU	Margarita	HPLC	浙江	 ZHE JIANG	1-Asp 2-Glu 3-Ser 4-Gly 5-Arg 6(S1)-Ala 7-Leu S2-Leu8-Phe 9-Lys
+1799	CHOU LENG SHAN	Abies nephrolepis	GC	吉林	 JI LIN	8.limonene；12.bornylacetate;10.borneol;3.a-bisabolol
+3548	XIANG JIA PI	Periploca sepium	UPLC	山西	 SHAN XI	S1-15:1.Chlorogenic acid；2.2.4 - methoxy salicylic acid；3.Bar willow poison bitter
+3548	XIANG JIA PI	Periploca sepium	UPLC	河南	 HE NAN	H1-15:1.Chlorogenic acid；2.2.4 - methoxy salicylic acid；3.Bar willow poison bitter
+3550	KUN MING SHAN HAI TANG	Tripterygium hypoglaucum	HPLC	云南	 YUN NAN	
+3554	JING JIE GEN	NA	HPLC	江西	 JIANG XI	1.oleanolic acid;2.ursolic aacid
+3559	DONG BEI LONG DAN	Gentiana manshurica	HPLC	辽宁	 LIAO NING	7.Gentian bitter glycosides
+3567	ZHI QIAO	Fructus Aurantii	HPLC	江西	 JIANG XI	S1,2,5,6,9,10;1.naringin;2.New hesperidin;3.Zinn Flynn
+3567	ZHI QIAO	Fructus Aurantii	HPLC	四川	 SI CHUAN	S7,8:3.naringin;5.New hesperidin;6.Zinn Flynn
+3567	ZHI QIAO	Fructus Aurantii	HPLC	湖南	 HU NAN	S3,4:3.naringin;5.New hesperidin;6.Zinn Flynn
+3607	GUANG SHI WEI	Pyrrosia calvata	HPLC	广西	 GUANG XI	S.mangiferin；
+3617	SAN QI YE	NA	HPLC	云南文山州砚山县江那镇	 YUN NAN WEN SHAN ZHOU YAN SHAN XIAN JIANG NA ZHEN	S.Ginseng saponin
+3648	HONG PI YUN SHAN	Picea koraiensis	GC-MS	小兴安岭地区	 XIAO XING AN LING DI QU	10.bornyl acetate；5.camphor ；16.Cadinene；7.Borneol
+3655	LU JIAO JIAO	Pulvis Cornu Cervi	HPLC	市售	 SHI SHOU	1. Nmda;2. Glutamic acid;3.Hydroxyproline;4.Serine;5.Glycine;6.Arginine;7.Alanine;8.Proline;9.Valine.10.Isoleucine.11.Leucine.12.Phenylalanine;13. Lysine
+3668	YANG CHANG CHUN TENG	Hedera helix	HPLC	湖南长沙	 HU NAN CHANG SHA	S1,2,3,4:7-hederacoside C 12-α-hederin
+3668	YANG CHANG CHUN TENG	Hedera helix	HPLC	山东潍坊	 SHAN DONG WEI FANG	S5,6,7,8,9:7-hederacoside C 12-α-hederin
+3668	YANG CHANG CHUN TENG	Hedera helix	HPLC	江苏宿迁	 JIANG SU SU QIAN	S10,11,12,13:7-hederacoside C 12-α-hederin
+3668	YANG CHANG CHUN TENG	Hedera helix	HPLC	上海	 SHANG HAI	S14,15,16,17:7-hederacoside C 12-α-hederin
+3673	NIU BANG ZI	Arctium lappa	HPLC	甘肃	 GAN SU	S2:27min出现arctiin 
+3673	NIU BANG ZI	Arctium lappa	HPLC	东北	 DONG BEI	S4:27min出现arctiin
+3673	NIU BANG ZI	Arctium lappa	HPLC	山东	 SHAN DONG	S6:27min出现arctiin
+3673	NIU BANG ZI	Arctium lappa	HPLC	辽宁	 LIAO NING	S8:27min出现arctiin
+3673	NIU BANG ZI	Arctium lappa	HPLC	吉林	 JI LIN	S10:29min出现arctiin
+3673	NIU BANG ZI	Arctium lappa	HPLC	西安	 XI AN	S12:27min出现arctiin
+3673	NIU BANG ZI	Arctium lappa	HPLC	天津	 TIAN JIN	S14:27min出现arctiin
+3673	NIU BANG ZI	Arctium lappa	HPLC	四川	 SI CHUAN	S16:27min出现arctiin
+3673	NIU BANG ZI	Arctium lappa	HPLC	天津	 TIAN JIN	S18:27min出现arctiin
+3673	NIU BANG ZI	Arctium lappa	HPLC	陕西	 SHAN XI	S20:27min出现arctiin
+3675	BEI DOU GEN	Rhizoma Menispermi	HPLC	承德	 CHENG DE	S1,2,3,4,5:2.daurisoline；3.Dauricine
+3675	BEI DOU GEN	Rhizoma Menispermi	HPLC	河北省	 HE BEI SHENG	S6,7,8,9,10:4.daurisoline；5.Dauricine
+3675	BEI DOU GEN	Rhizoma Menispermi	HPLC	东北某省(道地药材）	 DONG BEI MOU SHENG (AUTHENTIC HERBS)	S11,12,13：4.daurisoline；5.Dauricine
+3675	BEI DOU GEN	Rhizoma Menispermi	HPLC	甘肃省	 GAN SU SHENG	S14：4.daurisoline；5.Dauricine
+3675	BEI DOU GEN	Rhizoma Menispermi	HPLC	陕西省	 SHAN XI SHENG	S15：4.daurisoline；6.Dauricine
+3675	BEI DOU GEN	Rhizoma Menispermi	HPLC	内蒙	 NEI MENG	S16：4.daurisoline；7.Dauricine
+3675	BEI DOU GEN	Rhizoma Menispermi	HPLC	宁夏	 NING XIA	S17：4.daurisoline；8.Dauricine
+3696	QIAN CAO	Radix Rubiae	HPLC	河南	 HE NAN	S1-14:11.mollugin 
+3717	WU SHAN YIN YANG HUO	Epimedium wushanense	HPLC	贵州	 GUI ZHOU	6.icariin；4.Epidemin C
+3734	GUI ZHEN CAO	Bidens bipinnata	HPLC	广西	 GUANG XI	53min时,quercetin;74min时,hyperoside;
+3736	E ZHU YOU	Oleum Curcumae	HPLC	广西	 GUANG XI	S. Furanodiene;
+3743	DU HENG	Asarum forbesii	HPLC	市售	 SHI SHOU	1. Sassafras ether 2.Phenol  methyl J fragrant.3.Asarone 4.Lam balsam element 5.isasarone 6.N a isobutyl a 2, 4, 8, 1 to 12 carbon four phthalein amine
+3755	HONG HUA JIAO	Zanthoxylum rubescens	HPLC	四川	 SI CHUAN	S19-24,26-29,31-33:30min处Hydroxy -gamma mountain pepper or 2 '- hydroxy - N -isobutyl -2,4,8,10,12 - tetradecyl five levels
+3755	HONG HUA JIAO	Zanthoxylum rubescens	HPLC	甘肃	 GAN SU	S25,30:30min处Hydroxy -gamma mountain pepper or 2 '- hydroxy - N -isobutyl -2,4,8,10,13 - tetradecyl five levels
+3772	SHU ZHANG LAO GUAN CAO	Geranium sibiricum	HPLC	吉林	 JI LIN	S1-5:1. gallic acid 2. protocatechuic acid 17.Quercetin 18.The mountain naphthalene element - 3, 7 - O - alpha - 2 rat lee indican 19.Mountain naphthalene
+3772	SHU ZHANG LAO GUAN CAO	Geranium sibiricum	HPLC	黑龙江	 HEI LONG JIANG	S6-11:1. gallic acid 2. protocatechuic acid 17.Quercetin 18.The mountain naphthalene element - 3, 7 - O - alpha - 2 rat lee indican 20.Mountain naphthalene
+3772	SHU ZHANG LAO GUAN CAO	Geranium sibiricum	HPLC	辽宁	 LIAO NING	S12-20:1. gallic acid 2. protocatechuic acid 17.Quercetin 18.The mountain naphthalene element - 3, 7 - O - alpha - 2 rat lee indican 21.Mountain naphthalene
+3785	SAN YE QING	Radix Tetrastigmatis Hemsleyani	HPLC	浙江	 ZHE JIANG	7.Beta sitosterol
+7034	BI CHENG QIE	Piper cubeba	GC	福建龙岩	 FU JIAN LONG YAN	S1:1.α-pinene; 3.β-pinene; 4.myrcene; 5.6-methyl-5-hepten-2-one;7.limonene; 8.linalool; 10.β-citral; 11.α-citral
+7034	BI CHENG QIE	Piper cubeba	GC	广东	 GUANG DONG	S2:1.α-pinene; 3.β-pinene; 4.myrcene; 5.6-methyl-5-hepten-2-one;7.limonene; 8.linalool; 10.β-citral; 12.α-citral
+3811	TIAN NAN XING	Arisaema consanguineum	HPLC	安徽	 AN HUI	S8.10:1.Adenine;2.Hypoxanthine;3. Xanthine;4. Uridine.6.Guanylic;7. Adenosine;11. Schiavo Joeglycosides;12.Different schiavo glycosides
+3811	TIAN NAN XING	Arisaema consanguineum	HPLC	四川	 SI CHUAN	S9.11:1.Adenine;2.Hypoxanthine;3. Xanthine;4. Uridine.6.Guanylic;7. Adenosine;11. Schiavo Joeglycosides;13.Different schiavo glycosides
+3826	MEI WEI MI HOU TAO	Actinidia deliciosa	HPLC	广西	 GUANG XI	12.quercitrin
+3850	LUO TUO CI	Alhagi pseudalhagi	HPLC	新疆	 XIN JIANG	10.Different rat Li Su - 3 - O - beta - D - galactose - (6 -) 1 - alpha - L -buckthorn glycoside；11.Different rat Li Su - 3 - O - beta - D - rue glucoside
+3947	XI XIN	Asarum sieboldii	HPLC	广东	 GUANG DONG	S31,32:14.quercitrin；13.isoquercitroside
+3977	GUI ZHI	Cinnamomum cassia  [Syn.  Cinnamomum aromaticum ]	HPLC	福建龙岩	 FU JIAN LONG YAN	S33:14.quercitrin；13.isoquercitroside
+3977	GUI ZHI	Cinnamomum cassia  [Syn.  Cinnamomum aromaticum ]	HPLC	浙江温州	 ZHE JIANG WEN ZHOU	14.quercitrin；13.isoquercitroside
+3977	GUI ZHI	Cinnamomum cassia  [Syn.  Cinnamomum aromaticum ]	GC-MS	安徽亳州药材市场	 AN HUI BO ZHOU YAO CAI SHI CHANG	S1,7:1. Alpha pinene;2. Beta pinene;3. 3 - carene;4. Optimization of ketone;5. 3, 5 - dimethoxy toluene;6. Sassafras ether;7. Methyl eugenol;8. Pentadecane;9. Elemi element;10. 11. N - isobutyl - 2, 4, 8, 10-12 carbon four levels
+3977	GUI ZHI	Cinnamomum cassia  [Syn.  Cinnamomum aromaticum ]	HPLC	广西(道地药材）	 GUANG XI (AUTHENTIC HERBS)	S1,2:a.coumarin;b.Cinnamic acid;c.ethoxycinnamic acid;d.cinnamaldehyde
+3977	GUI ZHI	Cinnamomum cassia  [Syn.  Cinnamomum aromaticum ]	HPLC	云南思茅	 YUN NAN SI MAO	S3:a.coumarin;b.Cinnamic acid;c.ethoxycinnamic acid;d.cinnamaldehyde
+3977	GUI ZHI	Cinnamomum cassia  [Syn.  Cinnamomum aromaticum ]	HPLC	青海	 QING HAI	S4:a.coumarin;b.Cinnamic acid;c.ethoxycinnamic acid;d.cinnamaldehyde
+3977	GUI ZHI	Cinnamomum cassia  [Syn.  Cinnamomum aromaticum ]	HPLC	沈阳	 CHEN YANG	S5:a.coumarin;b.Cinnamic acid;c.ethoxycinnamic acid;d.cinnamaldehyde
+3977	GUI ZHI	Cinnamomum cassia  [Syn.  Cinnamomum aromaticum ]	HPLC	黑龙江佳木斯	 HEI LONG JIANG JIA MU SI	S6:a.coumarin;b.Cinnamic acid;c.ethoxycinnamic acid;d.cinnamaldehyde
+3977	GUI ZHI	Cinnamomum cassia  [Syn.  Cinnamomum aromaticum ]	HPLC	重庆南川	 ZHONG QING NAN CHUAN	S7:a.coumarin;b.Cinnamic acid;c.ethoxycinnamic acid;d.cinnamaldehyde
+3984	SAN KE ZHEN	Cortex Berberidis	HPLC	贵州	 GUI ZHOU	S8:a.coumarin;b.Cinnamic acid;c.ethoxycinnamic acid;d.cinnamaldehyde
+3993	YAN HU SUO	Corydalis yanhusuo  [Syn.  Corydalis turtschaninovii  f.  yanhusuo]	HPLC	云南	 YUN NAN	S9:a.coumarin;b.Cinnamic acid;c.ethoxycinnamic acid;d.cinnamaldehyde
+3993	YAN HU SUO	Corydalis yanhusuo  [Syn.  Corydalis turtschaninovii  f.  yanhusuo]	HPLC	湖北	 HU BEI	S10:a.coumarin;b.Cinnamic acid;c.ethoxycinnamic acid;d.cinnamaldehyde
+3993	YAN HU SUO	Corydalis yanhusuo  [Syn.  Corydalis turtschaninovii  f.  yanhusuo]	HPLC	贵州	 GUI ZHOU	18.jatrorrhizine hydrochloride；21.palmatine hydrochloride；22.berberine hydrochloride
+3993	YAN HU SUO	Corydalis yanhusuo  [Syn.  Corydalis turtschaninovii  f.  yanhusuo]	HPLC	浙江(道地药材）	 ZHE JIANG (AUTHENTIC HERBS)	Sa,Sg,SI,m,Sp,q,r,SL,u:9.macleyine；13.tetrahydropalmatine 
+3993	YAN HU SUO	Corydalis yanhusuo  [Syn.  Corydalis turtschaninovii  f.  yanhusuo]	HPLC	江苏	 JIANG SU	Sb,c:9.macleyine；13.tetrahydropalmatine 
+3993	YAN HU SUO	Corydalis yanhusuo  [Syn.  Corydalis turtschaninovii  f.  yanhusuo]	HPLC	四川	 SI CHUAN	Sd：9.macleyine；14.tetrahydropalmatine
+3993	YAN HU SUO	Corydalis yanhusuo  [Syn.  Corydalis turtschaninovii  f.  yanhusuo]	HPLC	山东	 SHAN DONG	Se：9.macleyine；15.tetrahydropalmatine
+3993	YAN HU SUO	Corydalis yanhusuo  [Syn.  Corydalis turtschaninovii  f.  yanhusuo]	HPLC	湖南	 HU NAN	Sf：9.macleyine；16.tetrahydropalmatine
+3997	BAI SHAO	Paeonia albiflora  [Syn.  Paeonia lactiflora]	HPLC	安徽	 AN HUI	Sh,I,j：9.macleyine；17.tetrahydropalmatine
+4021	LUO SHI TENG	Trachelospermum jasminoides	HPLC	河南	 HE NAN	Sk,s：9.macleyine；18.tetrahydropalmatine
+4063	LU RONG	Cervus nippon ,  Cervus elaphus	HPLC	陕西	 SHAN XI	Sn,o：9.macleyine；19.tetrahydropalmatine
+4137	YUAN HU	Rhizoma Corydalis	HPLC	四川	 SI CHUAN	S9-11:12.Naringenin 7-O-apiofuranosyl(1 ※3)-β-D-glucopyranoside
+4163	DENG XIN CAO	Juncus effusus	HPLC	江西	 JIANG XI	S25:1.protocatechualdehyde;2.neochlorogenic acid;5.chlorogenic acid ;6.cryptochlorogenic acid ;7.caffeic acid;8.1,3-Dicaffeoylqunic acid;12.3,4-Dicaffeoylqunic acid;13.3,5-Dicaffeoylqunic acid;14.4,5-Dicaffeoylqunic acid;
+4200	HUANG YAO ZI	Dioscorea bulbifera	HPLC	北京	 BEI JING	G26,30:1.protocatechuate;4.NEOERIOCITRIN；5.Naringin
+4211	TAI ZI SHEN	Radix Pseudostellariae	HPLC	江西	 JIANG XI	G28:1.protocatechuate;4.NEOERIOCITRIN；5.Naringin
+4241	KU DOU ZI	Sophora alopecuroides	HPLC	贵州	 GUI ZHOU	G29:1.protocatechuate;4.NEOERIOCITRIN；5.Naringin
+4247	BAO JING ZHANG YA CAI	Swertia franchetiana	HPLC	湖南	 HU NAN	
+4256	SHENG DI HUANG	Radix Rehmanniae	HPLC	江苏	 JIANG SU	2.Docosanoic acid；5.A-cutifolisde；6.Heterophyllin；8.Heterophyllin A
+4264	OU JIE	nodus nelumbinis rhizomatis	HPLC	新疆	 XIN JIANG	2.Matrine;3.Sophoridine;4.Oxysophocarpine;5.OXYMATRINE
+4272	CE BAI YE	Thuja orientalis	HPLC	西藏	 XI CANG	
+4306	HU ZHANG	Polygonum cuspidatum	HPLC	市售	 SHI SHOU	2.Catalpol
+4343	YUAN HUA GEN	Daphne genkwa	HPLC	市售	 SHI SHOU	13.Myricetrin ；14.Isoquercitrin；16.quercetin-3-rhamnoside
+4393	LEI GONG TENG	Tripterygium wilfordii	UPLC	市售	 SHI SHOU	3.Polydatin;7.Resveratrol;10.Emodin;11.Physcion
+4489	XIAO YE LIAN	Fructus Podophylli	HPLC	四川	 SI CHUAN	M-N:16.anabasine；
+4518	LIAN QIAO	Forsythia suspensa	HPLC	云南	 YUN NAN	S.Swertimarin;1.gent iopicroside;2.sw erosiderecoveri s
+5050	HOU PU	Cortex Magnoliae officinalis	HPLC	贵州黔北	 GUI ZHOU QIAN BEI	11.magnolol
+2540	GONG LAO MU	Caulis Mahoniae	HPLC	广西	 GUANG XI	S1,S2:4.3,4,5-trimethoxyphenol-1-O-β-D-glucopyranoside; 7.erythrosyringoyl glycerol 8-O-β-D-glucoside; 9.5,5,-dimethoxylaricircsinol-4,-O-β-D-glucoside; 14.jatrorrhizine; 16.palmatine; 17. berberine
+2540	GONG LAO MU	Caulis Mahoniae	HPLC	贵州	 GUI ZHOU	S3,S4：4.3,4,5-trimethoxyphenol-1-O-β-D-glucopyranoside; 7.erythrosyringoyl glycerol 8-O-β-D-glucoside; 9.5,5,-dimethoxylaricircsinol-4,-O-β-D-glucoside; 14.jatrorrhizine; 16.palmatine; 17. berberine
+2540	GONG LAO MU	Caulis Mahoniae	HPLC	福建	 FU JIAN	S5,S6：4.3,4,5-trimethoxyphenol-1-O-β-D-glucopyranoside; 7.erythrosyringoyl glycerol 8-O-β-D-glucoside; 9.5,5,-dimethoxylaricircsinol-4,-O-β-D-glucoside; 14.jatrorrhizine; 16.palmatine; 17. berberine
+2540	GONG LAO MU	Caulis Mahoniae	HPLC	湖北	 HU BEI	S7,S8：4.3,4,5-trimethoxyphenol-1-O-β-D-glucopyranoside; 7.erythrosyringoyl glycerol 8-O-β-D-glucoside; 9.5,5,-dimethoxylaricircsinol-4,-O-β-D-glucoside; 14.jatrorrhizine; 16.palmatine; 17. berberine
+2540	GONG LAO MU	Caulis Mahoniae	HPLC	安徽	 AN HUI	S9,S10：4.3,4,5-trimethoxyphenol-1-O-β-D-glucopyranoside; 7.erythrosyringoyl glycerol 8-O-β-D-glucoside; 9.5,5,-dimethoxylaricircsinol-4,-O-β-D-glucoside; 14.jatrorrhizine; 16.palmatine; 17. berberine
+2540	GONG LAO MU	Caulis Mahoniae	HPLC	浙江	 ZHE JIANG	S11,S12：4.3,4,5-trimethoxyphenol-1-O-β-D-glucopyranoside; 7.erythrosyringoyl glycerol 8-O-β-D-glucoside; 9.5,5,-dimethoxylaricircsinol-4,-O-β-D-glucoside; 14.jatrorrhizine; 16.palmatine; 17. berberine
+2540	GONG LAO MU	Caulis Mahoniae	HPLC	河南开封	 HE NAN KAI FENG	S13,S14：4.3,4,5-trimethoxyphenol-1-O-β-D-glucopyranoside; 7.erythrosyringoyl glycerol 8-O-β-D-glucoside; 9.5,5,-dimethoxylaricircsinol-4,-O-β-D-glucoside; 14.jatrorrhizine; 16.palmatine; 17. berberine
+2475	JIN YIN HUA	Lonicera japonica	HPLC	四川	 SI CHUAN	S1,S3-S5,S8:2.chlorogenic acid;11.galuteolin
+2475	JIN YIN HUA	Lonicera japonica	HPLC	重庆	 ZHONG QING	S2,S6,S7,S9,S10:2.chlorogenic acid;11.galuteolin
+2451	QIN JIAO HUA	Flos Gentianae straminae	HPLC	青海省(道地药材）	 QING HAI SHENG (AUTHENTIC HERBS)	7.gentiopicroside; 8.sweroside; 13.isoorientin
+2756	TU FU LING	Smilax glabra	UPLC	广东	 GUANG DONG	S1-S4,S7,S8,S11,S12: 7.taxifolin; 11.Astilbin; 12.resveratrol 
+2756	TU FU LING	Smilax glabra	UPLC	广西	 GUANG XI	S5,S6,S9,S10:7.taxifolin; 11.Astilbin; 12.resveratrol 
+2756	TU FU LING	Smilax glabra	HPLC	安徽合肥	 AN HUI HE FEI	S1,S2:4.astilbin
+2756	TU FU LING	Smilax glabra	HPLC	安徽蚌埠	 AN HUI BANG BU	S3:4.astilbin
+2756	TU FU LING	Smilax glabra	HPLC	广东广州	 GUANG DONG GUANG ZHOU	S4,S5：4.astilbin
+2756	TU FU LING	Smilax glabra	HPLC	广东翁源	 GUANG DONG WENG YUAN	S6:4.astilbin
+2756	TU FU LING	Smilax glabra	HPLC	湖南衡阳	 HU NAN HENG YANG	S7:4.astilbin
+2756	TU FU LING	Smilax glabra	HPLC	湖南长沙	 HU NAN CHANG SHA	S8:4.astilbin
+2756	TU FU LING	Smilax glabra	HPLC	湖南常德	 HU NAN CHANG DE	S9:4.astilbin
+2756	TU FU LING	Smilax glabra	HPLC	湖南沅陵	 HU NAN YUAN LING	S10-S12:4.astilbin
+2784	TU NIU XI	Achyranthes aspera	HPLC	广东从化	 GUANG DONG CONG HUA	S1,S10:12.euparin
+2784	TU NIU XI	Achyranthes aspera	HPLC	广东清远	 GUANG DONG QING YUAN	S2,S6-S9:12.euparin
+2784	TU NIU XI	Achyranthes aspera	HPLC	广西来宾	 GUANG XI LAI BIN	S3:12.euparin
+2784	TU NIU XI	Achyranthes aspera	HPLC	广东韶关	 GUANG DONG SHAO GUAN	S5:12.euparin
+2428	XU DUAN	Dipsacus japonicus	HPLC	贵州	 GUI ZHOU	3. asperosaponin Ⅵ
+2428	XU DUAN	Dipsacus japonicus	HPLC	云南	 YUN NAN	
+2349	ZE XIE	Alisma orientale  [Syn.  Alisma plantago-aquatica var. orientale]	HPLC	山东烟台	 SHAN DONG YAN TAI	S1:3.Alisol F；5.Alisol F 24-acetate; 6.Alisol E 23-acetate; 8.Alisol A 24-acetate; 10.25一dehydroxy alisol A; 12.11一deoxyalisol A．
+2349	ZE XIE	Alisma orientale  [Syn.  Alisma plantago-aquatica var. orientale]	HPLC	江苏常州	 JIANG SU CHANG ZHOU	S2:3.Alisol F；5.Alisol F 24-acetate; 6.Alisol E 23-acetate; 8.Alisol A 24-acetate; 10.25一dehydroxy alisol A; 12.11一deoxyalisol A．
+2349	ZE XIE	Alisma orientale  [Syn.  Alisma plantago-aquatica var. orientale]	HPLC	浙江诸暨	 ZHE JIANG ZHU JI	S3:3.Alisol F；5.Alisol F 24-acetate; 6.Alisol E 23-acetate; 8.Alisol A 24-acetate; 10.25一dehydroxy alisol A; 12.11一deoxyalisol A．
+2349	ZE XIE	Alisma orientale  [Syn.  Alisma plantago-aquatica var. orientale]	HPLC	浙江慈溪	 ZHE JIANG CI XI	S4:3.Alisol F；5.Alisol F 24-acetate; 6.Alisol E 23-acetate; 8.Alisol A 24-acetate; 10.25一dehydroxy alisol A; 12.11一deoxyalisol A．
+2349	ZE XIE	Alisma orientale  [Syn.  Alisma plantago-aquatica var. orientale]	HPLC	浙江杭州	 ZHE JIANG HANG ZHOU	S5:3.Alisol F；5.Alisol F 24-acetate; 6.Alisol E 23-acetate; 8.Alisol A 24-acetate; 10.25一dehydroxy alisol A; 12.11一deoxyalisol A．
+2349	ZE XIE	Alisma orientale  [Syn.  Alisma plantago-aquatica var. orientale]	HPLC	浙江乐清	 ZHE JIANG LE QING	S6:3.Alisol F；5.Alisol F 24-acetate; 6.Alisol E 23-acetate; 8.Alisol A 24-acetate; 10.25一dehydroxy alisol A; 12.11一deoxyalisol A．
+2349	ZE XIE	Alisma orientale  [Syn.  Alisma plantago-aquatica var. orientale]	HPLC	浙江绍兴	 ZHE JIANG SHAO XING	S7:3.Alisol F；5.Alisol F 24-acetate; 6.Alisol E 23-acetate; 8.Alisol A 24-acetate; 10.25一dehydroxy alisol A; 12.11一deoxyalisol A．
+2349	ZE XIE	Alisma orientale  [Syn.  Alisma plantago-aquatica var. orientale]	HPLC	浙江新登	 ZHE JIANG XIN DENG	S8:3.Alisol F；5.Alisol F 24-acetate; 6.Alisol E 23-acetate; 8.Alisol A 24-acetate; 10.25一dehydroxy alisol A; 12.11一deoxyalisol A．
+2349	ZE XIE	Alisma orientale  [Syn.  Alisma plantago-aquatica var. orientale]	HPLC	山东淄博	 SHAN DONG ZI BO	S9:3.Alisol F；5.Alisol F 24-acetate; 6.Alisol E 23-acetate; 8.Alisol A 24-acetate; 10.25一dehydroxy alisol A; 12.11一deoxyalisol A．
+2349	ZE XIE	Alisma orientale  [Syn.  Alisma plantago-aquatica var. orientale]	HPLC	江西吉安	 JIANG XI JI AN	S10:3.Alisol F；5.Alisol F 24-acetate; 6.Alisol E 23-acetate; 8.Alisol A 24-acetate; 10.25一dehydroxy alisol A; 12.11一deoxyalisol A．
+2349	ZE XIE	Alisma orientale  [Syn.  Alisma plantago-aquatica var. orientale]	HPLC	河南平顶山	 HE NAN PING DING SHAN	S11:3.Alisol F；5.Alisol F 24-acetate; 6.Alisol E 23-acetate; 8.Alisol A 24-acetate; 10.25一dehydroxy alisol A; 12.11一deoxyalisol A．
+6802	BA JI TIAN	Morinda officinalis	HPLC	广东普宁	 GUANG DONG PU NING	S1：3.1-methoxy-2-hydroxyanthraquione; 4.1, 2-dimethoxy-3-hydroxyanthraquinone; 9. rubiadin-l-methylether; 13.1,3-dihydroxy-2-methoxyanthraquinone; 16.rubiadin
+6802	BA JI TIAN	Morinda officinalis	HPLC	广西南宁	 GUANG XI NAN NING	S2：3.1-methoxy-2-hydroxyanthraquione; 4.1, 2-dimethoxy-3-hydroxyanthraquinone; 9. rubiadin-l-methylether; 13.1,3-dihydroxy-2-methoxyanthraquinone; 16.rubiadin
+6802	BA JI TIAN	Morinda officinalis	HPLC	福建永定	 FU JIAN YONG DING	S3：3.1-methoxy-2-hydroxyanthraquione; 4.1, 2-dimethoxy-3-hydroxyanthraquinone; 9. rubiadin-l-methylether; 13.1,3-dihydroxy-2-methoxyanthraquinone; 16.rubiadin
+6802	BA JI TIAN	Morinda officinalis	HPLC	广东韶关	 GUANG DONG SHAO GUAN	S4：3.1-methoxy-2-hydroxyanthraquione; 4.1, 2-dimethoxy-3-hydroxyanthraquinone; 9. rubiadin-l-methylether; 13.1,3-dihydroxy-2-methoxyanthraquinone; 16.rubiadin
+6802	BA JI TIAN	Morinda officinalis	HPLC	广东肇庆	 GUANG DONG ZHAO QING	S5：3.1-methoxy-2-hydroxyanthraquione; 4.1, 2-dimethoxy-3-hydroxyanthraquinone; 9. rubiadin-l-methylether; 13.1,3-dihydroxy-2-methoxyanthraquinone; 16.rubiadin
+6802	BA JI TIAN	Morinda officinalis	HPLC	广东梅州	 GUANG DONG MEI ZHOU	S6：3.1-methoxy-2-hydroxyanthraquione; 4.1, 2-dimethoxy-3-hydroxyanthraquinone; 9. rubiadin-l-methylether; 13.1,3-dihydroxy-2-methoxyanthraquinone; 16.rubiadin
+6802	BA JI TIAN	Morinda officinalis	HPLC	福建漳州	 FU JIAN ZHANG ZHOU	S7：3.1-methoxy-2-hydroxyanthraquione; 4.1, 2-dimethoxy-3-hydroxyanthraquinone; 9. rubiadin-l-methylether; 13.1,3-dihydroxy-2-methoxyanthraquinone; 16.rubiadin
+6802	BA JI TIAN	Morinda officinalis	HPLC	广西百色	 GUANG XI BAI SE	S8：3.1-methoxy-2-hydroxyanthraquione; 4.1, 2-dimethoxy-3-hydroxyanthraquinone; 9. rubiadin-l-methylether; 13.1,3-dihydroxy-2-methoxyanthraquinone; 16.rubiadin
+6802	BA JI TIAN	Morinda officinalis	HPLC	广西梧州	 GUANG XI WU ZHOU	S9：3.1-methoxy-2-hydroxyanthraquione; 4.1, 2-dimethoxy-3-hydroxyanthraquinone; 9. rubiadin-l-methylether; 13.1,3-dihydroxy-2-methoxyanthraquinone; 16.rubiadin
+6802	BA JI TIAN	Morinda officinalis	HPLC	福建南靖	 FU JIAN NAN JING	S10：3.1-methoxy-2-hydroxyanthraquione; 4.1, 2-dimethoxy-3-hydroxyanthraquinone; 9. rubiadin-l-methylether; 13.1,3-dihydroxy-2-methoxyanthraquinone; 16.rubiadin
+1235	CHANG PU	Rhizoma Acori graminei	GC-MS	四川(道地药材）	 SI CHUAN (AUTHENTIC HERBS)	S.undecane; 12.estragole; 16.methyleugenol; 22.cis - methyl eugenol; 36.γ-isoasarone; 37.cis-isoasarone
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	河北	 HE BEI	S1:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	河北安国	 HE BEI AN GUO	S2:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	河北石家庄	 HE BEI SHI JIA ZHUANG	S3:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	河北青龙县	 HE BEI QING LONG XIAN	S4:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	河北博野	 HE BEI BO YE	S5:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	河北涉县	 HE BEI SHE XIAN	S6:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	河北辉县市	 HE BEI HUI XIAN SHI	S7:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	内蒙赤峰	 NEI MENG CHI FENG	S8:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	安徽亳州	 AN HUI BO ZHOU	S9,S10:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	安徽合肥	 AN HUI HE FEI	S11:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	安徽阜阳	 AN HUI FU YANG	S12:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	河南新乡	 HE NAN XIN XIANG	S13:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	山西运城	 SHAN XI YUN CHENG	S14:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	山东德州	 SHAN DONG DE ZHOU	S15:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+1304	ZHI MU	Anemarrhena asphodeloides	HPLC	陕西西安	 SHAN XI XI AN	S16:3.7-O-glucopyranosylmangiferin; 4.mangiferin; 9.2,6,4'-trihydroxy-4-methoxybenzophenone; 10.broussonin B; 11.cis-hinokire-sinol; 12.7-hydroxy-3一(4-methoxybenzyl)-chroman
+2564	XI YANG SHEN	Panax quinquefolium	HPLC	中国靖宇市	 ZHONG GUO JING YU SHI	S1-S5:1.acyl ginsenoside Rb1; 2.ginsenoside Rb1; 3.ginsenoside Rb2 / Rb3 / Rc; 4.malonyl ginsenosides Rb1; 5.ginsenosides Rg1 / Rd
+2564	XI YANG SHEN	Panax quinquefolium	HPLC	中国抚松市	 ZHONG GUO FU SONG SHI	S6,S7:1.acyl ginsenoside Rb1; 2.ginsenoside Rb1; 3.ginsenoside Rb2 / Rb3 / Rc; 4.malonyl ginsenosides Rb1; 5.ginsenosides Rg1 / Rd
+1345	DANG SHEN	Codonopsis pilosula	HPLC	重庆	 ZHONG QING	S1-S4,S8-S12,S22-S27,S29:S.lobetyolin
+1345	DANG SHEN	Codonopsis pilosula	HPLC	湖北恩施	 HU BEI EN SHI	S5-S7:S.lobetyolin
+1345	DANG SHEN	Codonopsis pilosula	HPLC	湖北竹溪县	 HU BEI ZHU XI XIAN	S18-S21:S.lobetyolin
+1345	DANG SHEN	Codonopsis pilosula	HPLC	陕西平利县	 SHAN XI PING LI XIAN	S13-S17:S.lobetyolin
+1345	DANG SHEN	Codonopsis pilosula	HPLC	贵州	 GUI ZHOU	S28:S.lobetyolin
+1401	ZI WAN	Aster tataricus	HPLC	河北祁州	 HE BEI QI ZHOU	S.quercetin
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	江西崇仁县	 JIANG XI CHONG REN XIAN	S1:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	江苏徐州	 JIANG SU XU ZHOU	S2:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	山东沂水县	 SHAN DONG YI SHUI XIAN	S3:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	云南玉溪	 YUN NAN YU XI	S4:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	广东增城	 GUANG DONG ZENG CHENG	S5:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	福建高州	 FU JIAN GAO ZHOU	S6:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	江西信丰县	 JIANG XI XIN FENG XIAN	S7:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	山东昌邑市	 SHAN DONG CHANG YI SHI	S8,S15:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	浙江嘉兴	 ZHE JIANG JIA XING	S9:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	上海崇明县	 SHANG HAI CHONG MING XIAN	S10:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	浙江天台县	 ZHE JIANG TIAN TAI XIAN	S11:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	四川宣汉县	 SI CHUAN XUAN HAN XIAN	S12:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	河北唐山	 HE BEI TANG SHAN	S13:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	山东莱芜县	 SHAN DONG LAI WU XIAN	S14:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	山东唱乐县	 SHAN DONG CHANG LE XIAN	S16:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+1467	PAO JIANG	Rhizoma Zingiberis Praeparata	HPLC	湖南益阳	 HU NAN YI YANG	S17:3.zingiberone; 8. 6-gingerol; 9.8-gingerol; 13. 10-gingerol
+6637	LIU JI NU	Herba Artemisiae Anomalae	HPLC	北京	 BEI JING	S1-S4:17.luteolin
+6637	LIU JI NU	Herba Artemisiae Anomalae	HPLC	山西长治	 SHAN XI CHANG ZHI	S5:17.luteolin
+6637	LIU JI NU	Herba Artemisiae Anomalae	HPLC	山西太原	 SHAN XI TAI YUAN	S6:17.luteolin
+6637	LIU JI NU	Herba Artemisiae Anomalae	HPLC	山西临汾	 SHAN XI LIN FEN	S7,S8:17.luteolin
+6637	LIU JI NU	Herba Artemisiae Anomalae	HPLC	湖南邵阳	 HU NAN SHAO YANG	S9:17.luteolin
+6637	LIU JI NU	Herba Artemisiae Anomalae	HPLC	湖南长沙	 HU NAN CHANG SHA	S10:17.luteolin
+6637	LIU JI NU	Herba Artemisiae Anomalae	HPLC	江苏南京	 JIANG SU NAN JING	S11:17.luteolin
+6637	LIU JI NU	Herba Artemisiae Anomalae	HPLC	安徽芜湖	 AN HUI WU HU	S12:17.luteolin
+6637	LIU JI NU	Herba Artemisiae Anomalae	HPLC	辽宁沈阳	 LIAO NING CHEN YANG	S13:17.luteolin
+6637	LIU JI NU	Herba Artemisiae Anomalae	HPLC	吉林敦化	 JI LIN DUN HUA	S14:17.luteolin
+6637	LIU JI NU	Herba Artemisiae Anomalae	HPLC	天津	 TIAN JIN	S15:17.luteolin
+6681	WU YAO	Lindera strychnifolia  [Syn.  Lindera aggregata]	HPLC	浙江天台(道地药材）	 ZHE JIANG TIAN TAI (AUTHENTIC HERBS)	S1:2.linderane acid
+6681	WU YAO	Lindera strychnifolia  [Syn.  Lindera aggregata]	HPLC	安徽	 AN HUI	S2:2.linderane acid
+6681	WU YAO	Lindera strychnifolia  [Syn.  Lindera aggregata]	HPLC	广西	 GUANG XI	S3:2.linderane acid
+6681	WU YAO	Lindera strychnifolia  [Syn.  Lindera aggregata]	HPLC	湖北	 HU BEI	S4:2.linderane acid
+6681	WU YAO	Lindera strychnifolia  [Syn.  Lindera aggregata]	HPLC	江西	 JIANG XI	S5:2.linderane acid
+6681	WU YAO	Lindera strychnifolia  [Syn.  Lindera aggregata]	HPLC	浙江金华	 ZHE JIANG JIN HUA	S6:2.linderane acid
+6341	BAI HUA SHE SHE CAO	Oldenlandia diffusa [Syn.  Hedyotis diffusa]	HPLC	江苏	 JIANG SU	3.rutin
+6341	BAI HUA SHE SHE CAO	Oldenlandia diffusa [Syn.  Hedyotis diffusa]	HPLC	安徽	 AN HUI	S1,S2
+6341	BAI HUA SHE SHE CAO	Oldenlandia diffusa [Syn.  Hedyotis diffusa]	HPLC	广西	 GUANG XI	S3
+6341	BAI HUA SHE SHE CAO	Oldenlandia diffusa [Syn.  Hedyotis diffusa]	HPLC	福建	 FU JIAN	S5
+6341	BAI HUA SHE SHE CAO	Oldenlandia diffusa [Syn.  Hedyotis diffusa]	HPLC	广东	 GUANG DONG	S6,S10
+6341	BAI HUA SHE SHE CAO	Oldenlandia diffusa [Syn.  Hedyotis diffusa]	HPLC	江西	 JIANG XI	S7,S9
+6341	BAI HUA SHE SHE CAO	Oldenlandia diffusa [Syn.  Hedyotis diffusa]	HPLC	湖北	 HU BEI	S8
+6686	DAN ZHU YE	Lophatherum gracile	HPLC	江西	 JIANG XI	S1：
+6686	DAN ZHU YE	Lophatherum gracile	HPLC	广东	 GUANG DONG	S2：10.swertiajaponin
+6686	DAN ZHU YE	Lophatherum gracile	HPLC	四川	 SI CHUAN	S3：10.swertiajaponin
+6686	DAN ZHU YE	Lophatherum gracile	HPLC	江苏	 JIANG SU	S4：10.swertiajaponin
+6686	DAN ZHU YE	Lophatherum gracile	HPLC	安徽	 AN HUI	S5：10.swertiajaponin
+6686	DAN ZHU YE	Lophatherum gracile	HPLC	湖北	 HU BEI	S6：10.swertiajaponin
+6686	DAN ZHU YE	Lophatherum gracile	HPLC	浙江	 ZHE JIANG	S7-S9:10.swertiajaponin
+6686	DAN ZHU YE	Lophatherum gracile	HPLC	福建	 FU JIAN	S10:10.swertiajaponin
+6690	SANG JI SHENG	Loranthus parasiticus	HPLC	广东从化	 GUANG DONG CONG HUA	9.rutin; 11.quercetin-3-rhamnoside; 15.quercetin
+6700	HUANG QIN	Scutellaria baicalensis	HPLC	河北承德(道地药材）	 HE BEI CHENG DE (AUTHENTIC HERBS)	1.dihydroviscidulin Ⅰ; 9.dihydro-baicalin; 11.baicalein-7-O-glucoside;  13.baicalin; 15.norwogonin-7-O-glucuronide; 16.5,7,8-trihydroxy-6-methoxy-2-phenyl-4-benzopyrone-7-O-glucuronide; 17.chrysin-7-O-glucoronide; 18.5,6,7-trihydroxy-8-methoxy-2-phenyl-4-benzopyrone-7-O-glucoronide; 19.oroxyloside; 20.wogonoside;24.baicalein;  26.wogonin; 27.oroxylin a;  
+6700	HUANG QIN	Scutellaria baicalensis	HPLC	内蒙古赤峰	 NEI MENG GU CHI FENG	1.dihydroviscidulin Ⅰ; 9.dihydro-baicalin; 11.baicalein-7-O-glucoside;  13.baicalin; 15.norwogonin-7-O-glucuronide; 16.5,7,8-trihydroxy-6-methoxy-2-phenyl-4-benzopyrone-7-O-glucuronide; 17.chrysin-7-O-glucoronide; 18.5,6,7-trihydroxy-8-methoxy-2-phenyl-4-benzopyrone-7-O-glucoronide; 19.oroxyloside; 20.wogonoside;24.baicalein;  26.wogonin; 27.oroxylin a;  
+6700	HUANG QIN	Scutellaria baicalensis	HPLC	山东	 SHAN DONG	1.dihydroviscidulin Ⅰ; 9.dihydro-baicalin; 11.baicalein-7-O-glucoside;  13.baicalin; 15.norwogonin-7-O-glucuronide; 16.5,7,8-trihydroxy-6-methoxy-2-phenyl-4-benzopyrone-7-O-glucuronide; 17.chrysin-7-O-glucoronide; 18.5,6,7-trihydroxy-8-methoxy-2-phenyl-4-benzopyrone-7-O-glucoronide; 19.oroxyloside; 20.wogonoside;24.baicalein;  26.wogonin; 27.oroxylin a;  
+6700	HUANG QIN	Scutellaria baicalensis	HPLC	陕西商洛	 SHAN XI SHANG LUO	1.dihydroviscidulin Ⅰ; 9.dihydro-baicalin; 11.baicalein-7-O-glucoside;  13.baicalin; 15.norwogonin-7-O-glucuronide; 16.5,7,8-trihydroxy-6-methoxy-2-phenyl-4-benzopyrone-7-O-glucuronide; 17.chrysin-7-O-glucoronide; 18.5,6,7-trihydroxy-8-methoxy-2-phenyl-4-benzopyrone-7-O-glucoronide; 19.oroxyloside; 20.wogonoside;24.baicalein;  26.wogonin; 27.oroxylin a;  
+6700	HUANG QIN	Scutellaria baicalensis	HPLC	甘肃定西和陇南	 GAN SU DING XI HE LONG NAN	1.dihydroviscidulin Ⅰ; 9.dihydro-baicalin; 11.baicalein-7-O-glucoside;  13.baicalin; 15.norwogonin-7-O-glucuronide; 16.5,7,8-trihydroxy-6-methoxy-2-phenyl-4-benzopyrone-7-O-glucuronide; 17.chrysin-7-O-glucoronide; 18.5,6,7-trihydroxy-8-methoxy-2-phenyl-4-benzopyrone-7-O-glucoronide; 19.oroxyloside; 20.wogonoside;24.baicalein;  26.wogonin; 27.oroxylin a;  
+6700	HUANG QIN	Scutellaria baicalensis	HPLC	甘肃庆阳	 GAN SU QING YANG	1.dihydroviscidulin Ⅰ; 9.dihydro-baicalin; 11.baicalein-7-O-glucoside;  13.baicalin; 15.norwogonin-7-O-glucuronide; 16.5,7,8-trihydroxy-6-methoxy-2-phenyl-4-benzopyrone-7-O-glucuronide; 17.chrysin-7-O-glucoronide; 18.5,6,7-trihydroxy-8-methoxy-2-phenyl-4-benzopyrone-7-O-glucoronide; 19.oroxyloside; 20.wogonoside;24.baicalein;  26.wogonin; 27.oroxylin a;  
+6700	HUANG QIN	Scutellaria baicalensis	HPLC	陕西延安	 SHAN XI YAN AN	1.dihydroviscidulin Ⅰ; 9.dihydro-baicalin; 11.baicalein-7-O-glucoside;  13.baicalin; 15.norwogonin-7-O-glucuronide; 16.5,7,8-trihydroxy-6-methoxy-2-phenyl-4-benzopyrone-7-O-glucuronide; 17.chrysin-7-O-glucoronide; 18.5,6,7-trihydroxy-8-methoxy-2-phenyl-4-benzopyrone-7-O-glucoronide; 19.oroxyloside; 20.wogonoside;24.baicalein;  26.wogonin; 27.oroxylin a;  
+6700	HUANG QIN	Scutellaria baicalensis	HPLC	山西晋中长治	 SHAN XI JIN ZHONG CHANG ZHI	1.dihydroviscidulin Ⅰ; 9.dihydro-baicalin; 11.baicalein-7-O-glucoside;  13.baicalin; 15.norwogonin-7-O-glucuronide; 16.5,7,8-trihydroxy-6-methoxy-2-phenyl-4-benzopyrone-7-O-glucuronide; 17.chrysin-7-O-glucoronide; 18.5,6,7-trihydroxy-8-methoxy-2-phenyl-4-benzopyrone-7-O-glucoronide; 19.oroxyloside; 20.wogonoside;24.baicalein;  26.wogonin; 27.oroxylin a;  
+6741	TIAN MA	Gastrodia elata	HPLC	四川	 SI CHUAN	
+6741	TIAN MA	Gastrodia elata	HPLC	安徽	 AN HUI	
+6741	TIAN MA	Gastrodia elata	HPLC	吉林	 JI LIN	
+6741	TIAN MA	Gastrodia elata	HPLC	陕西	 SHAN XI	
+6741	TIAN MA	Gastrodia elata	HPLC	河南	 HE NAN	
+6741	TIAN MA	Gastrodia elata	HPLC	湖北	 HU BEI	
+1957	CHI SHAO	Radix Paeoniae Rubra	HPLC	四川	 SI CHUAN	10.paeoniflorin
+6999	BAI TOU WENG	Pulsatilla chinensis	HPLC	安徽	 AN HUI	S.anemoside b4
+6999	BAI TOU WENG	Pulsatilla chinensis	HPLC	吉林	 JI LIN	S.anemoside b4
+6999	BAI TOU WENG	Pulsatilla chinensis	HPLC	内蒙古赤峰	 NEI MENG GU CHI FENG	S.anemoside b4
+6999	BAI TOU WENG	Pulsatilla chinensis	HPLC	新疆	 XIN JIANG	S.anemoside b4
+6999	BAI TOU WENG	Pulsatilla chinensis	HPLC	山西	 SHAN XI	S.anemoside b4
+6999	BAI TOU WENG	Pulsatilla chinensis	HPLC	河南	 HE NAN	S.anemoside b4
+1050	YE JU HUA	Chrysanthemum indicum	RP-HPLC	上海	 SHANG HAI	S1,S6:1.chlorogenic acid; 3.luteoloside; 11.buddleoside; 12.luteolin; 16.apigenin
+1050	YE JU HUA	Chrysanthemum indicum	RP-HPLC	四川	 SI CHUAN	S2,S3:1.chlorogenic acid; 3.luteoloside; 11.buddleoside; 12.luteolin; 16.apigenin
+1050	YE JU HUA	Chrysanthemum indicum	RP-HPLC	安徽	 AN HUI	S4,S5:1.chlorogenic acid; 3.luteoloside; 11.buddleoside; 12.luteolin; 16.apigenin
+1050	YE JU HUA	Chrysanthemum indicum	RP-HPLC	河南	 HE NAN	S7,S8:1.chlorogenic acid; 3.luteoloside; 11.buddleoside; 12.luteolin; 16.apigenin
+933	JIU LI XIANG	Murraya paniculata  [Syn.  Chalcas paniculata]	HPLC	福建漳州	 FU JIAN ZHANG ZHOU	S1:l.scopoletin; 7.murrayone; 9.phebalosin
+933	JIU LI XIANG	Murraya paniculata  [Syn.  Chalcas paniculata]	HPLC	安徽毫州	 AN HUI HAO ZHOU	S2:l.scopoletin; 7.murrayone; 9.phebalosin
+933	JIU LI XIANG	Murraya paniculata  [Syn.  Chalcas paniculata]	HPLC	广西龙州	 GUANG XI LONG ZHOU	S3:l.scopoletin; 7.murrayone; 9.phebalosin
+933	JIU LI XIANG	Murraya paniculata  [Syn.  Chalcas paniculata]	HPLC	广西武鸣	 GUANG XI WU MING	S4:l.scopoletin; 7.murrayone; 9.phebalosin
+933	JIU LI XIANG	Murraya paniculata  [Syn.  Chalcas paniculata]	HPLC	广西南宁	 GUANG XI NAN NING	S5:l.scopoletin; 7.murrayone; 9.phebalosin
+933	JIU LI XIANG	Murraya paniculata  [Syn.  Chalcas paniculata]	HPLC	福建福州	 FU JIAN FU ZHOU	S6:l.scopoletin; 7.murrayone; 9.phebalosin
+933	JIU LI XIANG	Murraya paniculata  [Syn.  Chalcas paniculata]	HPLC	广东中山	 GUANG DONG ZHONG SHAN	S7:l.scopoletin; 7.murrayone; 9.phebalosin
+933	JIU LI XIANG	Murraya paniculata  [Syn.  Chalcas paniculata]	HPLC	福建泉州	 FU JIAN QUAN ZHOU	S8:l.scopoletin; 7.murrayone; 9.phebalosin
+933	JIU LI XIANG	Murraya paniculata  [Syn.  Chalcas paniculata]	HPLC	广西梧州	 GUANG XI WU ZHOU	S9:l.scopoletin; 7.murrayone; 9.phebalosin
+933	JIU LI XIANG	Murraya paniculata  [Syn.  Chalcas paniculata]	HPLC	广东茂名	 GUANG DONG MAO MING	S10:l.scopoletin; 7.murrayone; 9.phebalosin
