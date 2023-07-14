@@ -5,7 +5,8 @@
 IELTS/
 
 # 
-TCM&DL/公开的数据集/TCMID/
+TCM&DL/公开的数据集/TCMID/*.txt 
+TCM&DL/公开的数据集/TCMID/herb-TCMID.v2.01
 
 # 
-TCM&DL/公开的数据集/TCMRelationExtraction/
+TCM&DL/公开的数据集/TCMRelationExtraction/*.txt
