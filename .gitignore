@@ -1,10 +1,11 @@
 # 
-*.DS_Store
+.DS_Store
 
 #
 IELTS/
 
 # 
+TCM&DL/.DS_Store
 TCM&DL/公开的数据集/TCMID/*.txt 
 TCM&DL/公开的数据集/TCMID/herb-TCMID.v2.01
 
