@@ -1,4553 +1,0 @@
-Ingredient_name	GNSP_ID
-Chrysophanic acid	"CCMSLIB00000006876"
-4-hydroxybenzoic acid	"CCMSLIB00000078846"
-Succinate	"CCMSLIB00000084891"
-Succinate	"CCMSLIB00000078145"
-Succinate	"CCMSLIB00000079111"
-Succinate	"CCMSLIB00000004816"
-Succinate	"CCMSLIB00000004817"
-Succinate	"CCMSLIB00000004818"
-Succinate	"CCMSLIB00000004819"
-Succinate	"CCMSLIB00000004820"
-Succinate	"CCMSLIB00000004821"
-hexose	"CCMSLIB00000072120"
-Aspartate	"CCMSLIB00000081781"
-Glutamine	"CCMSLIB00000081784"
-Hexadecenoic acid	"CCMSLIB00000075361"
-Octadecenoic acid	"CCMSLIB00000075360"
-Cardiolipin	"CCMSLIB00000071736"
-Cardiolipin	"CCMSLIB00000071737"
-Cardiolipin	"CCMSLIB00000071738"
-glutamate	"CCMSLIB00000081783"
-caffeic acid phenethyl ester	"CCMSLIB00000085490"
-tretinoin	"CCMSLIB00000004323"
-tretinoin	"CCMSLIB00000004324"
-tretinoin	"CCMSLIB00000004325"
-tretinoin	"CCMSLIB00000004326"
-tretinoin	"CCMSLIB00000004327"
-tretinoin	"CCMSLIB00000004328"
-tretinoin	"CCMSLIB00000004329"
-tretinoin	"CCMSLIB00000004330"
-tretinoin	"CCMSLIB00000004331"
-tretinoin	"CCMSLIB00000004332"
-tretinoin	"CCMSLIB00000004333"
-tretinoin	"CCMSLIB00000004334"
-tretinoin	"CCMSLIB00000004335"
-tretinoin	"CCMSLIB00000004336"
-tretinoin	"CCMSLIB00000004337"
-tretinoin	"CCMSLIB00000004338"
-tretinoin	"CCMSLIB00000004339"
-tretinoin	"CCMSLIB00000004340"
-tretinoin	"CCMSLIB00000004341"
-tretinoin	"CCMSLIB00000004342"
-tretinoin	"CCMSLIB00000004343"
-cytochalasin B	"CCMSLIB00000085575"
-lovastatin	"CCMSLIB00000077133"
-lovastatin	"CCMSLIB00000077134"
-lovastatin	"CCMSLIB00000078412"
-lovastatin	"CCMSLIB00000078413"
-serine	"CCMSLIB00000081779"
-gibberellic acid	"CCMSLIB00000081269"
-gibberellic acid	"CCMSLIB00000081270"
-Arabinose	"CCMSLIB00000081788"
-benzoate	"CCMSLIB00000079264"
-benzoate	"CCMSLIB00000078198"
-benzoate	"CCMSLIB00000005954"
-benzoate	"CCMSLIB00000005955"
-benzoate	"CCMSLIB00000005956"
-benzoate	"CCMSLIB00000005957"
-benzoate	"CCMSLIB00000005958"
-norethynodrel	"CCMSLIB00000084822"
-7-methoxycoumarin	"CCMSLIB00000081746"
-fatty acid	"CCMSLIB00000072106"
-fatty acid	"CCMSLIB00000072107"
-fatty acid	"CCMSLIB00000072108"
-fatty acid	"CCMSLIB00000072109"
-10-hydroxy-camptothecin	"CCMSLIB00000078822"
-trans-p-Hydroxycinnamic acid	"CCMSLIB00000078852"
-trans-p-Hydroxycinnamic acid	"CCMSLIB00000078887"
-"2,6-Di-tert-butyl-4-methylphenol"	"CCMSLIB00000081568"
-ammonium glycyrrhizinate	"CCMSLIB00000078463"
-ammonium glycyrrhizinate	"CCMSLIB00000078464"
-palmatine chloride	"CCMSLIB00000085966"
-acacetin	"CCMSLIB00000077212"
-apigenin	"CCMSLIB00000077172"
-apigenin	"CCMSLIB00000078869"
-artemisin	"CCMSLIB00000078082"
-atropine	"CCMSLIB00000077007"
-atropine	"CCMSLIB00000078450"
-atropine	"CCMSLIB00000078451"
-avicularin	"CCMSLIB00000077225"
-avicularin	"CCMSLIB00000078871"
-baicalein	"CCMSLIB00000077226"
-baicalein	"CCMSLIB00000078872"
-baicalin	"CCMSLIB00000078856"
-baicalin	"CCMSLIB00000078890"
-belladonnine	"CCMSLIB00000078800"
-biflorin	"CCMSLIB00000081716"
-biflorin	"CCMSLIB00000081717"
-bilirubin	"CCMSLIB00000072068"
-biochanin a	"CCMSLIB00000081279"
-biochanin a	"CCMSLIB00000081280"
-biochanin a	"CCMSLIB00000081281"
-biotin	"CCMSLIB00000078581"
-brucine	"CCMSLIB00000079093"
-budlein a	"CCMSLIB00000081484"
-butein	"CCMSLIB00000081777"
-caffeine	"CCMSLIB00000078857"
-camptothecin	"CCMSLIB00000005871"
-camptothecin	"CCMSLIB00000005872"
-camptothecin	"CCMSLIB00000005873"
-camptothecin	"CCMSLIB00000005874"
-camptothecin	"CCMSLIB00000005875"
-camptothecin	"CCMSLIB00000005876"
-camptothecin	"CCMSLIB00000005877"
-camptothecin	"CCMSLIB00000005878"
-camptothecin	"CCMSLIB00000005879"
-camptothecin	"CCMSLIB00000078088"
-catharanthine	"CCMSLIB00000078607"
-cephalomannine	"CCMSLIB00000078465"
-cephalomannine	"CCMSLIB00000078466"
-cepharanthine	"CCMSLIB00000085715"
-cholesterol	"CCMSLIB00000077193"
-chrysin	"CCMSLIB00000077227"
-chrysin	"CCMSLIB00000078873"
-colchicine	"CCMSLIB00000085238"
-cortisone	"CCMSLIB00000077194"
-coumestrol	"CCMSLIB00000085539"
-cryptopine	"CCMSLIB00000078805"
-cucurbitacin e	"CCMSLIB00000081267"
-cucurbitacin i	"CCMSLIB00000081268"
-curcumin	"CCMSLIB00000078313"
-curcumin	"CCMSLIB00000078714"
-daidzein	"CCMSLIB00000078314"
-daidzein	"CCMSLIB00000078858"
-daidzein	"CCMSLIB00000078891"
-digoxin	"CCMSLIB00000077026"
-digoxin	"CCMSLIB00000077027"
-dubinidine	"CCMSLIB00000078698"
-ellipticine	"CCMSLIB00000085389"
-enhydrin	"CCMSLIB00000081682"
-enhydrin	"CCMSLIB00000081683"
-enhydrin	"CCMSLIB00000081684"
-epicatechin	"CCMSLIB00000081479"
-epicatechin	"CCMSLIB00000081480"
-eremanthin	"CCMSLIB00000081469"
-eremanthin	"CCMSLIB00000081470"
-erysovine	"CCMSLIB00000081227"
-erysovine	"CCMSLIB00000081228"
-erythraline	"CCMSLIB00000081229"
-erythraline	"CCMSLIB00000081230"
-estrone	"CCMSLIB00000078231"
-eucalyptin	"CCMSLIB00000081748"
-formononetin	"CCMSLIB00000081282"
-fructose	"CCMSLIB00000081794"
-galangin	"CCMSLIB00000077228"
-galangin	"CCMSLIB00000078874"
-galanthamine	"CCMSLIB00000079173"
-galanthamine	"CCMSLIB00000085961"
-genipin	"CCMSLIB00000078468"
-genistein	"CCMSLIB00000078106"
-genistein	"CCMSLIB00000081284"
-genistein	"CCMSLIB00000081285"
-genistein	"CCMSLIB00000081286"
-ginkgolide a	"CCMSLIB00000078395"
-grandisin	"CCMSLIB00000078860"
-guanidine	"CCMSLIB00000079069"
-guanosine	"CCMSLIB00000085711"
-harmaline	"CCMSLIB00000084854"
-harmine	"CCMSLIB00000078721"
-harringtonine	"CCMSLIB00000079065"
-hesperetin	"CCMSLIB00000077230"
-hesperetin	"CCMSLIB00000078875"
-homoeriodictyol	"CCMSLIB00000077213"
-homoeriodictyol	"CCMSLIB00000077214"
-homoeriodictyol	"CCMSLIB00000077215"
-homoharringtonine	"CCMSLIB00000079065"
-honokiol	"CCMSLIB00000078980"
-humulone	"CCMSLIB00000078785"
-hyoscyamine	"CCMSLIB00000078624"
-isoquercitrin	"CCMSLIB00000077231"
-isoquercitrin	"CCMSLIB00000078876"
-isoquercitrin	"CCMSLIB00000078906"
-isovitexin	"CCMSLIB00000081702"
-isovitexin	"CCMSLIB00000081703"
-isovitexin	"CCMSLIB00000081704"
-kaempferol	"CCMSLIB00000077232"
-kaempferol	"CCMSLIB00000078877"
-khellin	"CCMSLIB00000084893"
-kinetin	"CCMSLIB00000081272"
-lapachol	"CCMSLIB00000081710"
-lapachol	"CCMSLIB00000081711"
-alpha-lapachone	"CCMSLIB00000081262"
-beta-lapachone	"CCMSLIB00000081246"
-licarin a	"CCMSLIB00000081238"
-licarin a	"CCMSLIB00000081239"
-licarin a	"CCMSLIB00000081240"
-licarin a	"CCMSLIB00000081241"
-licarin a	"CCMSLIB00000081242"
-luteolin	"CCMSLIB00000077233"
-luteolin	"CCMSLIB00000078878"
-maltose	"CCMSLIB00000081791"
-mangiferin	"CCMSLIB00000078863"
-mangiferin	"CCMSLIB00000078892"
-morin	"CCMSLIB00000077234"
-morin	"CCMSLIB00000078879"
-naringenin	"CCMSLIB00000077216"
-naringenin	"CCMSLIB00000077217"
-naringin	"CCMSLIB00000085635"
-nobiletin	"CCMSLIB00000078911"
-nobiletin	"CCMSLIB00000078912"
-orientin	"CCMSLIB00000081770"
-orientin	"CCMSLIB00000081771"
-perfamine	"CCMSLIB00000078746"
-perfamine	"CCMSLIB00000078747"
-phytosphingosine	"CCMSLIB00000077198"
-piceid	"CCMSLIB00000078975"
-picrotin	"CCMSLIB00000085676"
-picrotin	"CCMSLIB00000079151"
-picrotoxinin	"CCMSLIB00000079151"
-piplartine	"CCMSLIB00000078864"
-podophyllotoxin	"CCMSLIB00000078798"
-porphyrin	"CCMSLIB00000072118"
-porphyrin	"CCMSLIB00000072119"
-precocene ii	"CCMSLIB00000078724"
-pregnenolone	"CCMSLIB00000078343"
-progesterone	"CCMSLIB00000005853"
-progesterone	"CCMSLIB00000005854"
-progesterone	"CCMSLIB00000005855"
-progesterone	"CCMSLIB00000005856"
-progesterone	"CCMSLIB00000005857"
-progesterone	"CCMSLIB00000005858"
-progesterone	"CCMSLIB00000005859"
-progesterone	"CCMSLIB00000005860"
-progesterone	"CCMSLIB00000005861"
-progesterone	"CCMSLIB00000005862"
-progesterone	"CCMSLIB00000005863"
-progesterone	"CCMSLIB00000005864"
-progesterone	"CCMSLIB00000005865"
-progesterone	"CCMSLIB00000005866"
-progesterone	"CCMSLIB00000005867"
-progesterone	"CCMSLIB00000005868"
-progesterone	"CCMSLIB00000005869"
-progesterone	"CCMSLIB00000005870"
-progesterone	"CCMSLIB00000078244"
-procyanidin b2	"CCMSLIB00000081689"
-procyanidin b2	"CCMSLIB00000081690"
-procyanidin b2	"CCMSLIB00000081691"
-tryptanthrin	"CCMSLIB00000078735"
-gallic acid	"CCMSLIB00000078850"
-gallic acid	"CCMSLIB00000078886"
-epigallocatechin	"CCMSLIB00000081481"
-epigallocatechin	"CCMSLIB00000081482"
-salicylic acid	"CCMSLIB00000078854"
-caffeic acid	"CCMSLIB00000078847"
-caffeic acid	"CCMSLIB00000078884"
-ellagic acid	"CCMSLIB00000078098"
-ellagic acid	"CCMSLIB00000078849"
-catechin	"CCMSLIB00000081476"
-catechin	"CCMSLIB00000081477"
-catechin	"CCMSLIB00000081478"
-artemisinin	"CCMSLIB00000078082"
-hyperoside	"CCMSLIB00000078930"
-glucose	"CCMSLIB00000081789"
-estradiol	"CCMSLIB00000005503"
-estradiol	"CCMSLIB00000005504"
-estradiol	"CCMSLIB00000005505"
-vitamin b2	"CCMSLIB00000078508"
-pseudoephedrine	"CCMSLIB00000081578"
-reynoutrin	"CCMSLIB00000081774"
-reynoutrin	"CCMSLIB00000081775"
-asparagine	"CCMSLIB00000081785"
-erythrinin	"CCMSLIB00000081234"
-erythrinin	"CCMSLIB00000081235"
-arginine	"CCMSLIB00000081782"
-quinic acid	"CCMSLIB00000081718"
-quinic acid	"CCMSLIB00000081719"
-fluoxetine	"CCMSLIB00000005000"
-fluoxetine	"CCMSLIB00000005001"
-fluoxetine	"CCMSLIB00000005002"
-nifedipine	"CCMSLIB00000078299"
-methylprednisolone	"CCMSLIB00000004248"
-methylprednisolone	"CCMSLIB00000004249"
-methylprednisolone	"CCMSLIB00000004250"
-methylprednisolone	"CCMSLIB00000004251"
-methylprednisolone	"CCMSLIB00000004252"
-methylprednisolone	"CCMSLIB00000004253"
-methylprednisolone	"CCMSLIB00000004254"
-methylprednisolone	"CCMSLIB00000004255"
-methylprednisolone	"CCMSLIB00000004256"
-methylprednisolone	"CCMSLIB00000077142"
-methylprednisolone	"CCMSLIB00000077143"
-methylprednisolone	"CCMSLIB00000078262"
-methylprednisolone	"CCMSLIB00000085960"
-galgravin	"CCMSLIB00000081291"
-galgravin	"CCMSLIB00000081292"
-artesunate	"CCMSLIB00000079008"
-artemether	"CCMSLIB00000079246"
-melatonin	"CCMSLIB00000078045"
-melatonin	"CCMSLIB00000081598"
-melatonin	"CCMSLIB00000081599"
-secoisolariciresinol	"CCMSLIB00000079066"
-alternariol	"CCMSLIB00000081752"
-velutin	"CCMSLIB00000081730"
-vicenin-2	"CCMSLIB00000077238"
-mannitol	"CCMSLIB00000081790"
-apigetrin	"CCMSLIB00000077224"
-apigetrin	"CCMSLIB00000078870"
-cholic acid	"CCMSLIB00000076749"
-lithocholic acid	"CCMSLIB00000078613"
-physostigmine	"CCMSLIB00000079263"
-physostigmine	"CCMSLIB00000081265"
-physostigmine	"CCMSLIB00000081266"
-riboflavin	"CCMSLIB00000005494"
-riboflavin	"CCMSLIB00000005495"
-riboflavin	"CCMSLIB00000005496"
-riboflavin	"CCMSLIB00000005497"
-riboflavin	"CCMSLIB00000005498"
-riboflavin	"CCMSLIB00000005499"
-riboflavin	"CCMSLIB00000005500"
-riboflavin	"CCMSLIB00000005501"
-riboflavin	"CCMSLIB00000005502"
-riboflavin	"CCMSLIB00000072245"
-riboflavin	"CCMSLIB00000078508"
-ginkgolide	"CCMSLIB00000078395"
-proline	"CCMSLIB00000081786"
-quercetin	"CCMSLIB00000077171"
-quercetin	"CCMSLIB00000077221"
-quercetin	"CCMSLIB00000077993"
-quercitrin	"CCMSLIB00000078893"
-reserpine	"CCMSLIB00000006371"
-reserpine	"CCMSLIB00000006372"
-reserpine	"CCMSLIB00000006373"
-reserpine	"CCMSLIB00000006374"
-reserpine	"CCMSLIB00000006375"
-reserpine	"CCMSLIB00000006376"
-reserpine	"CCMSLIB00000078194"
-ribalinine	"CCMSLIB00000078741"
-ribose	"CCMSLIB00000081792"
-rutin	"CCMSLIB00000077235"
-rutin	"CCMSLIB00000078880"
-rutin	"CCMSLIB00000079258"
-sanguinarine	"CCMSLIB00000078690"
-sophocarpine	"CCMSLIB00000078694"
-sphingomyelin	"CCMSLIB00000075369"
-sucrose	"CCMSLIB00000081787"
-swertisin	"CCMSLIB00000077236"
-swertisin	"CCMSLIB00000078881"
-tanshinone i	"CCMSLIB00000078792"
-tanshinone iia	"CCMSLIB00000078792"
-taxol	"CCMSLIB00000078431"
-taxol	"CCMSLIB00000078026"
-taxol	"CCMSLIB00000078027"
-testosterone	"CCMSLIB00000077101"
-tetrandrine	"CCMSLIB00000085685"
-thebaine	"CCMSLIB00000078773"
-theophylline	"CCMSLIB00000077071"
-tiliroside	"CCMSLIB00000077237"
-tiliroside	"CCMSLIB00000078882"
-tremulacin	"CCMSLIB00000079091"
-"7,3',4'-trihydroxyflavone"	"CCMSLIB00000081708"
-"7,3',4'-trihydroxyflavone"	"CCMSLIB00000081709"
-"3,5,3'-triiodothyronine"	"CCMSLIB00000076961"
-triptolide	"CCMSLIB00000078954"
-tropine	"CCMSLIB00000077007"
-tropine	"CCMSLIB00000078450"
-tropine	"CCMSLIB00000078451"
-tryptanthrine	"CCMSLIB00000078735"
-valine	"CCMSLIB00000081780"
-veraguensin	"CCMSLIB00000081293"
-veraguensin	"CCMSLIB00000081294"
-veraguensin	"CCMSLIB00000081295"
-verbenalin	"CCMSLIB00000078768"
-vincristine	"CCMSLIB00000005527"
-vincristine	"CCMSLIB00000005528"
-vincristine	"CCMSLIB00000005529"
-vincristine	"CCMSLIB00000005530"
-vincristine	"CCMSLIB00000005531"
-vincristine	"CCMSLIB00000005532"
-vincristine	"CCMSLIB00000005533"
-vincristine	"CCMSLIB00000005534"
-vincristine	"CCMSLIB00000005535"
-vincristine	"CCMSLIB00000078061"
-vincristine	"CCMSLIB00000078062"
-vincristine	"CCMSLIB00000078063"
-vincristine	"CCMSLIB00000078066"
-vitamin b12	"CCMSLIB00000078336"
-vitexin	"CCMSLIB00000081772"
-vitexin	"CCMSLIB00000081773"
-yohimbine	"CCMSLIB00000085181"
-5-o-caffeoylquinic acid	"CCMSLIB00000078848"
-5-o-caffeoylquinic acid	"CCMSLIB00000078885"
-ursodeoxycholic acid	"CCMSLIB00000084832"
-taxifolin	"CCMSLIB00000078866"
-taxifolin	"CCMSLIB00000078894"
-sorbitol	"CCMSLIB00000081793"
-icariin	"CCMSLIB00000078936"
-rosmarinic acid	"CCMSLIB00000078853"
-rosmarinic acid	"CCMSLIB00000078888"
-gallocatechin	"CCMSLIB00000081481"
-gallocatechin	"CCMSLIB00000081482"
-(-)-epicatechin	"CCMSLIB00000215912"
-(-)-epicatechin	"CCMSLIB00000215912"
-(-)-epicatechin	"CCMSLIB00000215914"
-(-)-epicatechin	"CCMSLIB00000215914"
-(-)-epicatechin	"CCMSLIB00000215916"
-(-)-epicatechin	"CCMSLIB00000215916"
-(-)-epicatechin	"CCMSLIB00000215918"
-(-)-epicatechin	"CCMSLIB00000215918"
-(-)-epicatechin	"CCMSLIB00000222542"
-(-)-epicatechin	"CCMSLIB00000222542"
-(-)-epicatechin	"CCMSLIB00000222544"
-(-)-epicatechin	"CCMSLIB00000222544"
-(-)-epicatechin	"CCMSLIB00000222546"
-(-)-epicatechin	"CCMSLIB00000222546"
-(-)-epicatechin	"CCMSLIB00000223091"
-(-)-epicatechin	"CCMSLIB00000223091"
-(-)-epicatechin	"CCMSLIB00000221217"
-(-)-epicatechin	"CCMSLIB00000221217"
-(-)-epicatechin	"CCMSLIB00000222139"
-(-)-epicatechin	"CCMSLIB00000222139"
-(-)-noradrenaline	"CCMSLIB00000212365"
-(-)-noradrenaline	"CCMSLIB00000212367"
-(-)-noradrenaline	"CCMSLIB00000212369"
-(+)-catechin	"CCMSLIB00000223089"
-(+)-catechin	"CCMSLIB00000223089"
-(+)-epicatechin	"CCMSLIB00000223090"
-(+)-epicatechin	"CCMSLIB00000215899"
-(+)-epicatechin	"CCMSLIB00000215901"
-(+)-epicatechin	"CCMSLIB00000215903"
-(+)-epicatechin	"CCMSLIB00000215905"
-(+)-epicatechin	"CCMSLIB00000215906"
-(+)-epicatechin	"CCMSLIB00000215908"
-(+)-epicatechin	"CCMSLIB00000215910"
-(+)-epicatechin	"CCMSLIB00000221215"
-(+)-epicatechin	"CCMSLIB00000222137"
-"1,16-hexadecanediol"	"CCMSLIB00000217262"
-"1,16-hexadecanediol"	"CCMSLIB00000217264"
-"1,16-hexadecanediol"	"CCMSLIB00000217266"
-"1,16-hexadecanediol"	"CCMSLIB00000217268"
-"1,16-hexadecanediol"	"CCMSLIB00000217270"
-"1,16-hexadecanediol"	"CCMSLIB00000217272"
-"1,2-benzenediol"	"CCMSLIB00000215078"
-"1,2-benzenediol"	"CCMSLIB00000215080"
-"1,2-benzenediol"	"CCMSLIB00000222034"
-"1,2-benzenediol"	"CCMSLIB00000222036"
-11-deoxojervine	"CCMSLIB00000205446"
-"15,16-dihydrotanshinone i"	"CCMSLIB00000212255"
-17-hydroxycryptotanshinone	"CCMSLIB00000212249"
-17-hydroxytanshindiol b	"CCMSLIB00000212223"
-1-hydroxyanthraquinone	"CCMSLIB00000579152"
-1-hydroxyanthraquinone	"CCMSLIB00000579153"
-1-hydroxyanthraquinone	"CCMSLIB00000579154"
-1-hydroxyanthraquinone	"CCMSLIB00000579155"
-1-kestose	"CCMSLIB00000220656"
-1-kestose	"CCMSLIB00000220658"
-1-kestose	"CCMSLIB00000220660"
-1-ketoisocyptotanshinone	"CCMSLIB00000212245"
-"2,5-dihydroxy benzoic acid"	"CCMSLIB00000223207"
-"2,5-dihydroxy benzoic acid"	"CCMSLIB00000219029"
-"2,5-dihydroxy benzoic acid"	"CCMSLIB00000219031"
-"2,5-dihydroxy benzoic acid"	"CCMSLIB00000219033"
-"2,5-dihydroxy benzoic acid"	"CCMSLIB00000219035"
-"2,5-dihydroxy benzoic acid"	"CCMSLIB00000221503"
-"2,5-dihydroxy benzoic acid"	"CCMSLIB00000222496"
-2-acetamido-2-deoxy-d-glucose	"CCMSLIB00000221054"
-2'-deoxythymidine	"CCMSLIB00000214703"
-2'-deoxythymidine	"CCMSLIB00000214705"
-2'-deoxythymidine	"CCMSLIB00000214707"
-2'-deoxythymidine	"CCMSLIB00000214709"
-2'-deoxythymidine	"CCMSLIB00000214711"
-2'-deoxythymidine	"CCMSLIB00000214713"
-2'-deoxythymidine	"CCMSLIB00000214715"
-2-hydroxyanthraquinone	"CCMSLIB00000579149"
-2-hydroxyanthraquinone	"CCMSLIB00000579150"
-2-hydroxyanthraquinone	"CCMSLIB00000579151"
-2-hydroxybenzoic acid	"CCMSLIB00000219051"
-2-hydroxybenzoic acid	"CCMSLIB00000219053"
-2-hydroxybenzoic acid	"CCMSLIB00000219055"
-2-methoxycinnamic acid	"CCMSLIB00000222813"
-2-methoxycinnamic acid	"CCMSLIB00000222814"
-2-methoxycinnamic acid	"CCMSLIB00000222815"
-2-methoxycinnamic acid	"CCMSLIB00000217349"
-2-methoxycinnamic acid	"CCMSLIB00000217351"
-2-methoxycinnamic acid	"CCMSLIB00000217353"
-"2-methyl-1,4-naphthoquinone"	"CCMSLIB00000220625"
-"3,3',4',5,5',7-hexahydroxyflavone"	"CCMSLIB00000222695"
-"3,3',4',5,5',7-hexahydroxyflavone"	"CCMSLIB00000222697"
-"3,3',4',5,5',7-hexahydroxyflavone"	"CCMSLIB00000215184"
-"3,3',4',5,5',7-hexahydroxyflavone"	"CCMSLIB00000215186"
-"3,3',4',5,5',7-hexahydroxyflavone"	"CCMSLIB00000215188"
-"3,3',4',5,5',7-hexahydroxyflavone"	"CCMSLIB00000215190"
-"3,3',4',5,5',7-hexahydroxyflavone"	"CCMSLIB00000215192"
-"3,3',4',5,5',7-hexahydroxyflavone"	"CCMSLIB00000215194"
-"3,3',4',5,5',7-hexahydroxyflavone"	"CCMSLIB00000215195"
-"3,3',4',5,5',7-hexahydroxyflavone"	"CCMSLIB00000215197"
-"3,4-dihydroxybenzoic acid"	"CCMSLIB00000214545"
-"3,4-dihydroxybenzoic acid"	"CCMSLIB00000221967"
-"3,4-phenanthrenedione"	"CCMSLIB00000212239"
-"3,7,11,15-tetramethyl-2-hexadecen-1-ol"	"CCMSLIB00000220809"
-3-hydroxycyptotanshinone	"CCMSLIB00000212229"
-3-hydroxy-glabrol	"CCMSLIB00000212304"
-3-hydroxykynurenine	"CCMSLIB00000218752"
-3-hydroxykynurenine	"CCMSLIB00000218754"
-3-hydroxykynurenine	"CCMSLIB00000218755"
-3-hydroxykynurenine	"CCMSLIB00000218757"
-3-hydroxykynurenine	"CCMSLIB00000218760"
-3-hydroxykynurenine	"CCMSLIB00000221221"
-3-hydroxymethylenetanshinquinone	"CCMSLIB00000212241"
-3-hydroxytanshinone iib	"CCMSLIB00000212227"
-3-methylquercetin	"CCMSLIB00000223054"
-3-methylquercetin	"CCMSLIB00000215133"
-3-methylquercetin	"CCMSLIB00000215135"
-3-methylquercetin	"CCMSLIB00000215137"
-3-methylquercetin	"CCMSLIB00000215139"
-3-methylquercetin	"CCMSLIB00000221144"
-3-methylquercetin	"CCMSLIB00000222044"
-3'-o-acetylhamaudol	"CCMSLIB00000211340"
-3-phenyl-2-propen-1-ol	"CCMSLIB00000212337"
-3-phenyl-2-propen-1-ol	"CCMSLIB00000215828"
-4-coumaric acid	"CCMSLIB00000223088"
-4-coumaric acid	"CCMSLIB00000215830"
-4-coumaric acid	"CCMSLIB00000215832"
-4-coumaric acid	"CCMSLIB00000215834"
-4-coumaric acid	"CCMSLIB00000215836"
-4-coumaric acid	"CCMSLIB00000215838"
-4-coumaric acid	"CCMSLIB00000215839"
-4-coumaric acid	"CCMSLIB00000221211"
-4-coumaric acid	"CCMSLIB00000222131"
-4-hydroxy-3-methoxybenzaldehyde	"CCMSLIB00000217219"
-4-hydroxy-3-methoxybenzaldehyde	"CCMSLIB00000217221"
-4-hydroxy-3-methoxybenzaldehyde	"CCMSLIB00000217223"
-4-hydroxybenzoic acid	"CCMSLIB00000223016"
-4-hydroxybenzoic acid	"CCMSLIB00000223241"
-4-hydroxybenzoic acid	"CCMSLIB00000219485"
-4-hydroxybenzoic acid	"CCMSLIB00000219487"
-4-hydroxybenzoic acid	"CCMSLIB00000221570"
-4-hydroxybenzoylcholine	"CCMSLIB00000221592"
-4-hydroxybenzoylcholine	"CCMSLIB00000221594"
-4-hydroxybenzoylcholine	"CCMSLIB00000221596"
-4-hydroxybenzoylcholine	"CCMSLIB00000221597"
-4-hydroxyphenylacetic acid	"CCMSLIB00000212441"
-4-hydroxyphenylacetic acid	"CCMSLIB00000212443"
-4-methylpyrazole	"CCMSLIB00000219594"
-4-methylpyrazole	"CCMSLIB00000219596"
-4-methylpyrazole	"CCMSLIB00000219598"
-4-methylpyrazole	"CCMSLIB00000219600"
-4-methylpyrazole	"CCMSLIB00000219602"
-5'-adenosine monophosphate	"CCMSLIB00000216211"
-5'-adenosine monophosphate	"CCMSLIB00000216512"
-5'-adenosine monophosphate	"CCMSLIB00000216514"
-5'-adenosine monophosphate	"CCMSLIB00000216515"
-5-methyluracil	"CCMSLIB00000223034"
-5-methyluracil	"CCMSLIB00000223035"
-5-methyluracil	"CCMSLIB00000214780"
-5-methyluracil	"CCMSLIB00000214782"
-5-methyluracil	"CCMSLIB00000214784"
-5-methyluracil	"CCMSLIB00000221102"
-5-methyluracil	"CCMSLIB00000221104"
-5-methyluracil	"CCMSLIB00000221989"
-"6,7-dihydroxycoumarin"	"CCMSLIB00000223294"
-"6,7-dihydroxycoumarin"	"CCMSLIB00000220585"
-"6,7-dihydroxycoumarin"	"CCMSLIB00000220587"
-"6,7-dihydroxycoumarin"	"CCMSLIB00000220589"
-"6,7-dihydroxycoumarin"	"CCMSLIB00000220591"
-"6,7-dihydroxycoumarin"	"CCMSLIB00000220593"
-"6,7-dihydroxycoumarin"	"CCMSLIB00000220595"
-"6,7-dihydroxycoumarin"	"CCMSLIB00000221720"
-"6,7-dihydroxycoumarin"	"CCMSLIB00000222754"
-"6,7-dihydroxycoumarin"	"CCMSLIB00000222756"
-6-aminopurine	"CCMSLIB00000222851"
-6-aminopurine	"CCMSLIB00000222852"
-6-aminopurine	"CCMSLIB00000212481"
-6-aminopurine	"CCMSLIB00000212483"
-6-aminopurine	"CCMSLIB00000212485"
-6-aminopurine	"CCMSLIB00000212487"
-6-aminopurine	"CCMSLIB00000212489"
-6-aminopurine	"CCMSLIB00000212491"
-6-aminopurine	"CCMSLIB00000220740"
-6-aminopurine	"CCMSLIB00000220742"
-6-aminopurine	"CCMSLIB00000221753"
-6-aminopurine	"CCMSLIB00000221755"
-6-methoxy-7-hydroxycoumarin	"CCMSLIB00000223292"
-6-methoxy-7-hydroxycoumarin	"CCMSLIB00000220564"
-6-methoxy-7-hydroxycoumarin	"CCMSLIB00000220566"
-6-methoxy-7-hydroxycoumarin	"CCMSLIB00000220568"
-6-methoxy-7-hydroxycoumarin	"CCMSLIB00000220570"
-6-methoxy-7-hydroxycoumarin	"CCMSLIB00000220572"
-6-methoxy-7-hydroxycoumarin	"CCMSLIB00000221716"
-6-methoxy-7-hydroxycoumarin	"CCMSLIB00000222749"
-8-geranyloxy psoralen	"CCMSLIB00000205271"
-8-geranyloxy psoralen	"CCMSLIB00000205284"
-abscisic acid	"CCMSLIB00000216416"
-abscisic acid	"CCMSLIB00000216418"
-abscisic acid	"CCMSLIB00000216420"
-abscisic acid	"CCMSLIB00000216422"
-acacetin	"CCMSLIB00000217804"
-acacetin	"CCMSLIB00000217806"
-acacetin	"CCMSLIB00000217808"
-acacetin	"CCMSLIB00000217810"
-acacetin	"CCMSLIB00000217811"
-acacetin	"CCMSLIB00000217813"
-acacetin	"CCMSLIB00000217815"
-acaciin	"CCMSLIB00000223180"
-acaciin	"CCMSLIB00000217990"
-acaciin	"CCMSLIB00000217993"
-acaciin	"CCMSLIB00000217995"
-acaciin	"CCMSLIB00000217997"
-acaciin	"CCMSLIB00000217999"
-acaciin	"CCMSLIB00000218001"
-acaciin	"CCMSLIB00000218003"
-acaciin	"CCMSLIB00000218005"
-acaciin	"CCMSLIB00000218007"
-acaciin	"CCMSLIB00000218009"
-acaciin	"CCMSLIB00000218011"
-acaciin	"CCMSLIB00000221408"
-acaciin	"CCMSLIB00000222380"
-acetylcholine	"CCMSLIB00000216844"
-acetylcholine	"CCMSLIB00000216846"
-acetylcholine	"CCMSLIB00000216848"
-acetylcholine	"CCMSLIB00000216851"
-acetylcholine	"CCMSLIB00000216853"
-acetylcholine	"CCMSLIB00000221624"
-acetylcholine	"CCMSLIB00000222928"
-acetylcholine	"CCMSLIB00000222929"
-acrylic acid	"CCMSLIB00000212709"
-adenine	"CCMSLIB00000216508"
-adenine	"CCMSLIB00000216510"
-adenine	"CCMSLIB00000222851"
-adenine	"CCMSLIB00000222852"
-adenine	"CCMSLIB00000212481"
-adenine	"CCMSLIB00000212483"
-adenine	"CCMSLIB00000212485"
-adenine	"CCMSLIB00000212487"
-adenine	"CCMSLIB00000212489"
-adenine	"CCMSLIB00000212491"
-adenine	"CCMSLIB00000220740"
-adenine	"CCMSLIB00000220742"
-adenine	"CCMSLIB00000221753"
-adenine	"CCMSLIB00000221755"
-adenosine	"CCMSLIB00000222426"
-adenosine	"CCMSLIB00000222428"
-adenosine	"CCMSLIB00000222430"
-adenosine	"CCMSLIB00000222853"
-adenosine	"CCMSLIB00000222854"
-adenosine	"CCMSLIB00000223341"
-adenosine	"CCMSLIB00000211971"
-adenosine	"CCMSLIB00000212493"
-adenosine	"CCMSLIB00000212495"
-adenosine	"CCMSLIB00000212497"
-adenosine	"CCMSLIB00000212498"
-adenosine	"CCMSLIB00000212500"
-adenosine	"CCMSLIB00000212502"
-adenosine	"CCMSLIB00000220049"
-adenosine	"CCMSLIB00000220051"
-adenosine	"CCMSLIB00000220054"
-adenosine	"CCMSLIB00000220055"
-adenosine	"CCMSLIB00000220057"
-adenosine	"CCMSLIB00000220745"
-adenosine	"CCMSLIB00000220746"
-adenosine	"CCMSLIB00000221656"
-adenosine	"CCMSLIB00000221757"
-adonitol	"CCMSLIB00000213329"
-aesculetin	"CCMSLIB00000223294"
-aesculetin	"CCMSLIB00000220585"
-aesculetin	"CCMSLIB00000220587"
-aesculetin	"CCMSLIB00000220589"
-aesculetin	"CCMSLIB00000220591"
-aesculetin	"CCMSLIB00000220593"
-aesculetin	"CCMSLIB00000220595"
-aesculetin	"CCMSLIB00000221720"
-aesculetin	"CCMSLIB00000222754"
-aesculetin	"CCMSLIB00000222756"
-aesculin	"CCMSLIB00000223295"
-aesculin	"CCMSLIB00000220597"
-aesculin	"CCMSLIB00000220600"
-aesculin	"CCMSLIB00000220602"
-aesculin	"CCMSLIB00000220604"
-aesculin	"CCMSLIB00000220605"
-aesculin	"CCMSLIB00000220608"
-aesculin	"CCMSLIB00000220609"
-aesculin	"CCMSLIB00000220612"
-aesculin	"CCMSLIB00000220613"
-aesculin	"CCMSLIB00000220615"
-aesculin	"CCMSLIB00000220618"
-aesculin	"CCMSLIB00000220619"
-aesculin	"CCMSLIB00000221722"
-aesculin	"CCMSLIB00000222758"
-afzelin	"CCMSLIB00000221222"
-afzelin	"CCMSLIB00000221473"
-afzelin	"CCMSLIB00000222467"
-agmatine	"CCMSLIB00000216997"
-agmatine	"CCMSLIB00000216999"
-agmatine	"CCMSLIB00000217001"
-agmatine	"CCMSLIB00000217003"
-agmatine	"CCMSLIB00000217004"
-agmatine	"CCMSLIB00000222897"
-agmatine	"CCMSLIB00000223133"
-alanine	"CCMSLIB00000221647"
-albiflorin	"CCMSLIB00000223362"
-allantoin	"CCMSLIB00000222934"
-allantoin	"CCMSLIB00000213331"
-allantoin	"CCMSLIB00000213333"
-allantoin	"CCMSLIB00000213335"
-allantoin	"CCMSLIB00000220904"
-allocryptopine	"CCMSLIB00000222109"
-allocryptopine	"CCMSLIB00000222112"
-aloin	"CCMSLIB00000222208"
-aloin	"CCMSLIB00000222487"
-aloin	"CCMSLIB00000222489"
-alpha-bisabolol	"CCMSLIB00000218458"
-alpha-bisabolol	"CCMSLIB00000218460"
-alpha-bisabolol	"CCMSLIB00000218462"
-alpha-bisabolol	"CCMSLIB00000218464"
-alpha-copaene	"CCMSLIB00000216882"
-alpha-tocotrienol	"CCMSLIB00000223297"
-alpha-tocotrienol	"CCMSLIB00000220631"
-alpha-tocotrienol	"CCMSLIB00000220633"
-alpha-tocotrienol	"CCMSLIB00000220635"
-alpha-tocotrienol	"CCMSLIB00000220637"
-alpha-tocotrienol	"CCMSLIB00000220639"
-alpha-tocotrienol	"CCMSLIB00000221726"
-amber acid	"CCMSLIB00000214641"
-amber acid	"CCMSLIB00000221977"
-amber acid	"CCMSLIB00000222672"
-amentoflavone	"CCMSLIB00000222548"
-amentoflavone	"CCMSLIB00000222550"
-amentoflavone	"CCMSLIB00000222552"
-amentoflavone	"CCMSLIB00000222554"
-aminoacetic acid	"CCMSLIB00000218374"
-aminoacetic acid	"CCMSLIB00000218376"
-aminoacetic acid	"CCMSLIB00000218378"
-aminoacetic acid	"CCMSLIB00000218380"
-aminoacetic acid	"CCMSLIB00000218382"
-aminoacetic acid	"CCMSLIB00000212540"
-aminoacetic acid	"CCMSLIB00000212542"
-aminoacetic acid	"CCMSLIB00000212544"
-aminopyrine	"CCMSLIB00000209105"
-aminopyrine	"CCMSLIB00000209107"
-aminopyrine	"CCMSLIB00000209109"
-aminopyrine	"CCMSLIB00000209111"
-aminopyrine	"CCMSLIB00000209113"
-aminopyrine	"CCMSLIB00000209115"
-aminopyrine	"CCMSLIB00000209117"
-aminopyrine	"CCMSLIB00000209119"
-aminopyrine	"CCMSLIB00000209121"
-aminopyrine	"CCMSLIB00000209123"
-aminopyrine	"CCMSLIB00000209125"
-aminopyrine	"CCMSLIB00000209127"
-aminopyrine	"CCMSLIB00000209129"
-aminopyrine	"CCMSLIB00000209131"
-aminopyrine	"CCMSLIB00000216905"
-aminopyrine	"CCMSLIB00000216907"
-aminopyrine	"CCMSLIB00000216909"
-aminopyrine	"CCMSLIB00000216911"
-aminopyrine	"CCMSLIB00000216913"
-aminopyrine	"CCMSLIB00000221120"
-anabasine	"CCMSLIB00000216895"
-anabasine	"CCMSLIB00000216897"
-anabasine	"CCMSLIB00000216899"
-anabasine	"CCMSLIB00000216901"
-anabasine	"CCMSLIB00000216903"
-aniline	"CCMSLIB00000216814"
-aniline	"CCMSLIB00000216816"
-aniline	"CCMSLIB00000216818"
-aniline	"CCMSLIB00000216820"
-aniline	"CCMSLIB00000216822"
-aniline	"CCMSLIB00000222937"
-aniline	"CCMSLIB00000222938"
-aniline	"CCMSLIB00000213345"
-aniline	"CCMSLIB00000213347"
-aniline	"CCMSLIB00000213349"
-aniline	"CCMSLIB00000213351"
-aniline	"CCMSLIB00000213353"
-aniline	"CCMSLIB00000220910"
-aniline	"CCMSLIB00000220912"
-anserine	"CCMSLIB00000217147"
-anserine	"CCMSLIB00000217149"
-anserine	"CCMSLIB00000217151"
-anserine	"CCMSLIB00000217153"
-anserine	"CCMSLIB00000217155"
-anserine	"CCMSLIB00000221103"
-anthranilic acid	"CCMSLIB00000216052"
-anthranilic acid	"CCMSLIB00000216054"
-anthranilic acid	"CCMSLIB00000216056"
-anthranilic acid	"CCMSLIB00000216496"
-anthranilic acid	"CCMSLIB00000216497"
-anthranilic acid	"CCMSLIB00000216499"
-anthranilic acid	"CCMSLIB00000216568"
-anthranilic acid	"CCMSLIB00000216570"
-anthranilic acid	"CCMSLIB00000216572"
-anthranilic acid	"CCMSLIB00000216574"
-anthranilic acid	"CCMSLIB00000216576"
-anthranilic acid	"CCMSLIB00000222855"
-anthranilic acid	"CCMSLIB00000212504"
-anthranilic acid	"CCMSLIB00000212506"
-anthranilic acid	"CCMSLIB00000212508"
-anthranilic acid	"CCMSLIB00000212510"
-anthranilic acid	"CCMSLIB00000212511"
-anthranilic acid	"CCMSLIB00000212512"
-anthranilic acid	"CCMSLIB00000220748"
-anthranilic acid	"CCMSLIB00000221759"
-apigenin	"CCMSLIB00000222654"
-apigenin	"CCMSLIB00000222657"
-apigenin	"CCMSLIB00000223050"
-apigenin	"CCMSLIB00000223051"
-apigenin	"CCMSLIB00000211999"
-apigenin	"CCMSLIB00000215063"
-apigenin	"CCMSLIB00000215065"
-apigenin	"CCMSLIB00000215067"
-apigenin	"CCMSLIB00000215070"
-apigenin	"CCMSLIB00000215072"
-apigenin	"CCMSLIB00000215074"
-apigenin	"CCMSLIB00000215076"
-apigenin	"CCMSLIB00000221136"
-apigenin	"CCMSLIB00000221138"
-apigenin	"CCMSLIB00000222032"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000223062"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000215259"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000215261"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000215263"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000215265"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000215266"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000215268"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000215270"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000215272"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000215274"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000215276"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000215278"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000215280"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000221159"
-apigenin 7-o-beta-d-glucopyranoside	"CCMSLIB00000222061"
-apigenin-7-o-glucoside	"CCMSLIB00000222715"
-apigenin-7-o-glucoside	"CCMSLIB00000222717"
-apigenin-7-o-glucoside	"CCMSLIB00000223062"
-apigenin-7-o-glucoside	"CCMSLIB00000215259"
-apigenin-7-o-glucoside	"CCMSLIB00000215261"
-apigenin-7-o-glucoside	"CCMSLIB00000215263"
-apigenin-7-o-glucoside	"CCMSLIB00000215265"
-apigenin-7-o-glucoside	"CCMSLIB00000215266"
-apigenin-7-o-glucoside	"CCMSLIB00000215268"
-apigenin-7-o-glucoside	"CCMSLIB00000215270"
-apigenin-7-o-glucoside	"CCMSLIB00000215272"
-apigenin-7-o-glucoside	"CCMSLIB00000215274"
-apigenin-7-o-glucoside	"CCMSLIB00000215276"
-apigenin-7-o-glucoside	"CCMSLIB00000215278"
-apigenin-7-o-glucoside	"CCMSLIB00000215280"
-apigenin-7-o-glucoside	"CCMSLIB00000221159"
-apigenin-7-o-glucoside	"CCMSLIB00000222061"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000222719"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000222721"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000223063"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000215282"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000215284"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000215286"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000215288"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000215290"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000215292"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000215294"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000215296"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000215298"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000215300"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000215302"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000215304"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000221161"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000222064"
-apigenin-7-o-neohesperidoside	"CCMSLIB00000222066"
-apigetrin	"CCMSLIB00000222715"
-apigetrin	"CCMSLIB00000222717"
-apigetrin	"CCMSLIB00000223062"
-apigetrin	"CCMSLIB00000215259"
-apigetrin	"CCMSLIB00000215261"
-apigetrin	"CCMSLIB00000215263"
-apigetrin	"CCMSLIB00000215265"
-apigetrin	"CCMSLIB00000215266"
-apigetrin	"CCMSLIB00000215268"
-apigetrin	"CCMSLIB00000215270"
-apigetrin	"CCMSLIB00000215272"
-apigetrin	"CCMSLIB00000215274"
-apigetrin	"CCMSLIB00000215276"
-apigetrin	"CCMSLIB00000215278"
-apigetrin	"CCMSLIB00000215280"
-apigetrin	"CCMSLIB00000221159"
-apigetrin	"CCMSLIB00000222061"
-arachidonic acid	"CCMSLIB00000222645"
-arginine	"CCMSLIB00000221713"
-arginine	"CCMSLIB00000221715"
-arginine	"CCMSLIB00000221717"
-asparagine	"CCMSLIB00000221790"
-asparagine	"CCMSLIB00000221792"
-asparagine	"CCMSLIB00000221794"
-asparagine	"CCMSLIB00000221796"
-asparagine	"CCMSLIB00000221798"
-aspartic acid	"CCMSLIB00000221782"
-aspartic acid	"CCMSLIB00000221784"
-aspartic acid	"CCMSLIB00000221786"
-aspartic acid	"CCMSLIB00000221788"
-aspidocarpine	"CCMSLIB00000204772"
-aspidocarpine	"CCMSLIB00000204777"
-aspidocarpine	"CCMSLIB00000204781"
-astragalin	"CCMSLIB00000222760"
-astragalin	"CCMSLIB00000222761"
-astragalin	"CCMSLIB00000222762"
-astragalin	"CCMSLIB00000223070"
-astragalin	"CCMSLIB00000223316"
-astragalin	"CCMSLIB00000215432"
-astragalin	"CCMSLIB00000215434"
-astragalin	"CCMSLIB00000215436"
-astragalin	"CCMSLIB00000215438"
-astragalin	"CCMSLIB00000215440"
-astragalin	"CCMSLIB00000215442"
-astragalin	"CCMSLIB00000215444"
-astragalin	"CCMSLIB00000215446"
-astragalin	"CCMSLIB00000215448"
-astragalin	"CCMSLIB00000215449"
-astragalin	"CCMSLIB00000215452"
-astragalin	"CCMSLIB00000218793"
-astragalin	"CCMSLIB00000218795"
-astragalin	"CCMSLIB00000218797"
-astragalin	"CCMSLIB00000218799"
-astragalin	"CCMSLIB00000218801"
-astragalin	"CCMSLIB00000218803"
-astragalin	"CCMSLIB00000218805"
-astragalin	"CCMSLIB00000218808"
-astragalin	"CCMSLIB00000218810"
-astragalin	"CCMSLIB00000218812"
-astragalin	"CCMSLIB00000218814"
-astragalin	"CCMSLIB00000218815"
-astragalin	"CCMSLIB00000221175"
-astragalin	"CCMSLIB00000221475"
-astragalin	"CCMSLIB00000222087"
-astragalin	"CCMSLIB00000222089"
-astragalin	"CCMSLIB00000222469"
-atenolol	"CCMSLIB00000207202"
-atenolol	"CCMSLIB00000207203"
-atenolol	"CCMSLIB00000207204"
-atenolol	"CCMSLIB00000207205"
-atenolol	"CCMSLIB00000207206"
-atenolol	"CCMSLIB00000207207"
-atenolol	"CCMSLIB00000207208"
-atenolol	"CCMSLIB00000207209"
-atenolol	"CCMSLIB00000207210"
-atenolol	"CCMSLIB00000207211"
-atenolol	"CCMSLIB00000207212"
-atenolol	"CCMSLIB00000207213"
-atenolol	"CCMSLIB00000207214"
-atenolol	"CCMSLIB00000207215"
-atenolol	"CCMSLIB00000223637"
-atenolol	"CCMSLIB00000223638"
-atenolol	"CCMSLIB00000223639"
-atenolol	"CCMSLIB00000223640"
-atrazine	"CCMSLIB00000208106"
-atrazine	"CCMSLIB00000208107"
-atrazine	"CCMSLIB00000208108"
-atrazine	"CCMSLIB00000208109"
-atrazine	"CCMSLIB00000208110"
-atrazine	"CCMSLIB00000208111"
-atrazine	"CCMSLIB00000208112"
-atrazine	"CCMSLIB00000208113"
-atrazine	"CCMSLIB00000208114"
-atrazine	"CCMSLIB00000208115"
-atrazine	"CCMSLIB00000208116"
-atrazine	"CCMSLIB00000208117"
-atrazine	"CCMSLIB00000208118"
-atrazine	"CCMSLIB00000208119"
-atrazine	"CCMSLIB00000579161"
-atrazine	"CCMSLIB00000579162"
-atrazine	"CCMSLIB00000223483"
-atrazine	"CCMSLIB00000223484"
-atrazine	"CCMSLIB00000223485"
-atrazine	"CCMSLIB00000223486"
-atropine	"CCMSLIB00000216936"
-atropine	"CCMSLIB00000216937"
-atropine	"CCMSLIB00000216940"
-atropine	"CCMSLIB00000216942"
-atropine	"CCMSLIB00000216944"
-atropine	"CCMSLIB00000221126"
-atropine	"CCMSLIB00000223358"
-baicalin	"CCMSLIB00000222723"
-baicalin	"CCMSLIB00000222725"
-baicalin	"CCMSLIB00000222727"
-baicalin	"CCMSLIB00000222730"
-baicalin	"CCMSLIB00000223064"
-baicalin	"CCMSLIB00000223351"
-baicalin	"CCMSLIB00000215305"
-baicalin	"CCMSLIB00000215307"
-baicalin	"CCMSLIB00000215309"
-baicalin	"CCMSLIB00000215311"
-baicalin	"CCMSLIB00000215313"
-baicalin	"CCMSLIB00000215315"
-baicalin	"CCMSLIB00000215317"
-baicalin	"CCMSLIB00000215319"
-baicalin	"CCMSLIB00000215321"
-baicalin	"CCMSLIB00000215323"
-baicalin	"CCMSLIB00000215325"
-baicalin	"CCMSLIB00000221164"
-baicalin	"CCMSLIB00000222068"
-behenic acid	"CCMSLIB00000216921"
-benzaldehyde	"CCMSLIB00000212336"
-benzoate	"CCMSLIB00000219101"
-benzoic acid	"CCMSLIB00000219101"
-benzophenone	"CCMSLIB00000579128"
-benzophenone	"CCMSLIB00000579129"
-benzothiazole	"CCMSLIB00000208494"
-benzothiazole	"CCMSLIB00000208495"
-benzothiazole	"CCMSLIB00000208496"
-benzothiazole	"CCMSLIB00000208497"
-benzothiazole	"CCMSLIB00000208498"
-benzothiazole	"CCMSLIB00000208499"
-benzothiazole	"CCMSLIB00000208500"
-benzothiazole	"CCMSLIB00000208501"
-benzothiazole	"CCMSLIB00000208502"
-benzothiazole	"CCMSLIB00000208503"
-benzothiazole	"CCMSLIB00000208504"
-benzothiazole	"CCMSLIB00000208505"
-berberine	"CCMSLIB00000217440"
-berberine	"CCMSLIB00000217442"
-berberine	"CCMSLIB00000217444"
-berberine	"CCMSLIB00000217446"
-berberine	"CCMSLIB00000217449"
-berberine	"CCMSLIB00000221139"
-berberine	"CCMSLIB00000222114"
-berberine	"CCMSLIB00000222116"
-berberine	"CCMSLIB00000222364"
-berberine	"CCMSLIB00000222366"
-berberine	"CCMSLIB00000222368"
-berberine	"CCMSLIB00000222371"
-bergapten	"CCMSLIB00000222481"
-bergapten	"CCMSLIB00000222483"
-bergapten	"CCMSLIB00000222485"
-bergapten	"CCMSLIB00000211322"
-beta-alanine	"CCMSLIB00000223043"
-beta-alanine	"CCMSLIB00000214988"
-beta-alanine	"CCMSLIB00000214990"
-beta-alanine	"CCMSLIB00000214992"
-beta-alanine	"CCMSLIB00000214994"
-beta-alanine	"CCMSLIB00000221123"
-"beta-carotene-5,6-epoxide"	"CCMSLIB00000205474"
-betaine	"CCMSLIB00000217500"
-betaine	"CCMSLIB00000217502"
-betaine	"CCMSLIB00000217504"
-betaine	"CCMSLIB00000217506"
-betaine	"CCMSLIB00000217508"
-betaine	"CCMSLIB00000223266"
-betaine	"CCMSLIB00000223267"
-betaine	"CCMSLIB00000219928"
-betaine	"CCMSLIB00000219930"
-betaine	"CCMSLIB00000219932"
-betaine	"CCMSLIB00000219934"
-betaine	"CCMSLIB00000219936"
-betaine	"CCMSLIB00000219938"
-betaine	"CCMSLIB00000221642"
-betaine	"CCMSLIB00000221644"
-betanin	"CCMSLIB00000209946"
-beta-thujaplicin	"CCMSLIB00000223197"
-beta-thujaplicin	"CCMSLIB00000218465"
-beta-thujaplicin	"CCMSLIB00000218467"
-beta-thujaplicin	"CCMSLIB00000218469"
-beta-thujaplicin	"CCMSLIB00000221440"
-beta-thujaplicin	"CCMSLIB00000222417"
-beta-thujaplicin	"CCMSLIB00000222419"
-beta-tocopherol	"CCMSLIB00000217413"
-beta-tocopherol	"CCMSLIB00000217415"
-betonicine	"CCMSLIB00000217510"
-betonicine	"CCMSLIB00000217512"
-betonicine	"CCMSLIB00000217514"
-betonicine	"CCMSLIB00000217516"
-betonicine	"CCMSLIB00000217518"
-bicuculline	"CCMSLIB00000222381"
-bicuculline	"CCMSLIB00000222383"
-bicuculline	"CCMSLIB00000222385"
-bicuculline	"CCMSLIB00000222387"
-biochanin a	"CCMSLIB00000221583"
-biochanin a	"CCMSLIB00000221585"
-biochanin a	"CCMSLIB00000221588"
-biochanin a	"CCMSLIB00000221590"
-biochanin a	"CCMSLIB00000222222"
-biochanin a	"CCMSLIB00000222224"
-biochanin a	"CCMSLIB00000222226"
-biochanin a	"CCMSLIB00000222228"
-biochanin a	"CCMSLIB00000222231"
-biotin	"CCMSLIB00000221137"
-boldine	"CCMSLIB00000222122"
-brassicasterol	"CCMSLIB00000217558"
-brucine	"CCMSLIB00000204898"
-brucine	"CCMSLIB00000204907"
-brucine	"CCMSLIB00000204914"
-butanedioic acid	"CCMSLIB00000214641"
-butanedioic acid	"CCMSLIB00000221977"
-butanedioic acid	"CCMSLIB00000222672"
-butyrate	"CCMSLIB00000212712"
-butyrate	"CCMSLIB00000212713"
-butyric acid	"CCMSLIB00000212712"
-butyric acid	"CCMSLIB00000212713"
-cadaverine	"CCMSLIB00000217579"
-cadaverine	"CCMSLIB00000217581"
-cadaverine	"CCMSLIB00000217583"
-cadaverine	"CCMSLIB00000217585"
-cadaverine	"CCMSLIB00000217587"
-cadaverine	"CCMSLIB00000222856"
-cadaverine	"CCMSLIB00000212513"
-cadaverine	"CCMSLIB00000212515"
-cadaverine	"CCMSLIB00000220750"
-caffeic acid	"CCMSLIB00000222808"
-caffeic acid	"CCMSLIB00000222809"
-caffeic acid	"CCMSLIB00000222940"
-caffeic acid	"CCMSLIB00000212035"
-caffeic acid	"CCMSLIB00000212037"
-caffeic acid	"CCMSLIB00000212039"
-caffeic acid	"CCMSLIB00000212041"
-caffeic acid	"CCMSLIB00000212043"
-caffeic acid	"CCMSLIB00000212045"
-caffeic acid	"CCMSLIB00000212047"
-caffeic acid	"CCMSLIB00000212049"
-caffeic acid	"CCMSLIB00000213393"
-caffeic acid	"CCMSLIB00000213394"
-caffeic acid	"CCMSLIB00000213396"
-caffeic acid	"CCMSLIB00000213398"
-caffeic acid	"CCMSLIB00000213400"
-caffeic acid	"CCMSLIB00000215814"
-caffeic acid	"CCMSLIB00000215816"
-caffeic acid	"CCMSLIB00000215818"
-caffeic acid	"CCMSLIB00000215820"
-caffeic acid	"CCMSLIB00000215821"
-caffeic acid	"CCMSLIB00000220916"
-caffeic acid	"CCMSLIB00000221833"
-caffeine	"CCMSLIB00000208274"
-caffeine	"CCMSLIB00000208275"
-caffeine	"CCMSLIB00000208276"
-caffeine	"CCMSLIB00000208277"
-caffeine	"CCMSLIB00000208278"
-caffeine	"CCMSLIB00000208279"
-caffeine	"CCMSLIB00000208280"
-caffeine	"CCMSLIB00000208281"
-caffeine	"CCMSLIB00000208282"
-caffeine	"CCMSLIB00000208283"
-caffeine	"CCMSLIB00000208284"
-caffeine	"CCMSLIB00000208285"
-caffeine	"CCMSLIB00000208286"
-caffeine	"CCMSLIB00000208287"
-caffeine	"CCMSLIB00000579199"
-caffeine	"CCMSLIB00000579200"
-caffeine	"CCMSLIB00000222176"
-caffeine	"CCMSLIB00000222178"
-caffeine	"CCMSLIB00000222180"
-caffeine	"CCMSLIB00000222857"
-caffeine	"CCMSLIB00000222858"
-caffeine	"CCMSLIB00000223680"
-caffeine	"CCMSLIB00000223681"
-caffeine	"CCMSLIB00000223682"
-caffeine	"CCMSLIB00000223683"
-caffeine	"CCMSLIB00000212027"
-caffeine	"CCMSLIB00000212029"
-caffeine	"CCMSLIB00000212031"
-caffeine	"CCMSLIB00000212033"
-caffetannic acid	"CCMSLIB00000216626"
-caffetannic acid	"CCMSLIB00000216628"
-caffetannic acid	"CCMSLIB00000216630"
-caffetannic acid	"CCMSLIB00000216632"
-caffetannic acid	"CCMSLIB00000216634"
-caffetannic acid	"CCMSLIB00000216636"
-caffetannic acid	"CCMSLIB00000216637"
-caffetannic acid	"CCMSLIB00000216640"
-caffetannic acid	"CCMSLIB00000216641"
-caffetannic acid	"CCMSLIB00000216643"
-callistephin	"CCMSLIB00000223077"
-calycosin-7-o-beta-d-glucoside	"CCMSLIB00000221419"
-calycosin-7-o-beta-d-glucoside	"CCMSLIB00000222392"
-calycosin-7-o-beta-d-glucoside	"CCMSLIB00000222394"
-camp	"CCMSLIB00000222930"
-camp	"CCMSLIB00000222931"
-camp	"CCMSLIB00000213284"
-camp	"CCMSLIB00000213285"
-camp	"CCMSLIB00000213287"
-camp	"CCMSLIB00000213289"
-camp	"CCMSLIB00000213291"
-camp	"CCMSLIB00000213293"
-camp	"CCMSLIB00000213295"
-camp	"CCMSLIB00000213297"
-camp	"CCMSLIB00000213299"
-camp	"CCMSLIB00000213301"
-camp	"CCMSLIB00000213303"
-camp	"CCMSLIB00000213305"
-camp	"CCMSLIB00000220897"
-camp	"CCMSLIB00000220899"
-camp	"CCMSLIB00000221830"
-camphene	"CCMSLIB00000218481"
-canavanine	"CCMSLIB00000217679"
-canavanine	"CCMSLIB00000217681"
-canavanine	"CCMSLIB00000217683"
-canavanine	"CCMSLIB00000217685"
-canavanine	"CCMSLIB00000217687"
-canthaxanthin	"CCMSLIB00000216740"
-canthaxanthin	"CCMSLIB00000216742"
-canthaxanthin	"CCMSLIB00000216744"
-canthaxanthin	"CCMSLIB00000216746"
-canthaxanthin	"CCMSLIB00000216748"
-caproic acid	"CCMSLIB00000213917"
-capsaicin	"CCMSLIB00000223086"
-capsaicin	"CCMSLIB00000215778"
-capsaicin	"CCMSLIB00000215780"
-capsaicin	"CCMSLIB00000215782"
-capsaicin	"CCMSLIB00000215784"
-capsaicin	"CCMSLIB00000215786"
-capsaicin	"CCMSLIB00000215788"
-capsaicin	"CCMSLIB00000221207"
-capsaicin	"CCMSLIB00000222127"
-carnitine	"CCMSLIB00000217608"
-carnitine	"CCMSLIB00000217610"
-carnitine	"CCMSLIB00000217612"
-carnitine	"CCMSLIB00000217614"
-carnitine	"CCMSLIB00000217616"
-carnosine	"CCMSLIB00000216119"
-carnosine	"CCMSLIB00000216121"
-carnosine	"CCMSLIB00000216123"
-carnosine	"CCMSLIB00000216293"
-carnosine	"CCMSLIB00000216295"
-carnosine	"CCMSLIB00000217540"
-carnosine	"CCMSLIB00000217543"
-carnosine	"CCMSLIB00000217545"
-carnosine	"CCMSLIB00000217547"
-carnosine	"CCMSLIB00000217549"
-carnosine	"CCMSLIB00000221147"
-catechin	"CCMSLIB00000222059"
-catechin	"CCMSLIB00000222062"
-catechin	"CCMSLIB00000222063"
-catechin	"CCMSLIB00000222065"
-catechol	"CCMSLIB00000223089"
-catechol	"CCMSLIB00000215078"
-catechol	"CCMSLIB00000215080"
-catechol	"CCMSLIB00000215887"
-catechol	"CCMSLIB00000215889"
-catechol	"CCMSLIB00000215891"
-catechol	"CCMSLIB00000215893"
-catechol	"CCMSLIB00000215895"
-catechol	"CCMSLIB00000215897"
-catechol	"CCMSLIB00000221213"
-catechol	"CCMSLIB00000222034"
-catechol	"CCMSLIB00000222036"
-catechol	"CCMSLIB00000222135"
-cgmp	"CCMSLIB00000222971"
-cgmp	"CCMSLIB00000213798"
-cgmp	"CCMSLIB00000213800"
-cgmp	"CCMSLIB00000213802"
-cgmp	"CCMSLIB00000213804"
-cgmp	"CCMSLIB00000213806"
-cgmp	"CCMSLIB00000213808"
-cgmp	"CCMSLIB00000213810"
-cgmp	"CCMSLIB00000213812"
-cgmp	"CCMSLIB00000213814"
-cgmp	"CCMSLIB00000213816"
-cgmp	"CCMSLIB00000213818"
-cgmp	"CCMSLIB00000213820"
-cgmp	"CCMSLIB00000220979"
-cgmp	"CCMSLIB00000221891"
-chalcone	"CCMSLIB00000222873"
-chalcone	"CCMSLIB00000212662"
-chalcone	"CCMSLIB00000212664"
-chalcone	"CCMSLIB00000212666"
-chalcone	"CCMSLIB00000212668"
-chalcone	"CCMSLIB00000212670"
-chalcone	"CCMSLIB00000212672"
-chalcone	"CCMSLIB00000220785"
-chelidonine	"CCMSLIB00000222124"
-chenodeoxycholic acid	"CCMSLIB00000216849"
-chenodeoxycholic acid	"CCMSLIB00000216850"
-chenodeoxycholic acid	"CCMSLIB00000216852"
-chenodeoxycholic acid	"CCMSLIB00000216854"
-chenodeoxycholic acid	"CCMSLIB00000216856"
-chenodeoxycholic acid	"CCMSLIB00000216858"
-chenodeoxycholic acid	"CCMSLIB00000216860"
-chenodeoxycholic acid	"CCMSLIB00000216862"
-chenodeoxycholic acid	"CCMSLIB00000216864"
-chenodeoxycholic acid	"CCMSLIB00000222252"
-chenodeoxycholic acid	"CCMSLIB00000222254"
-chlorogenic acid	"CCMSLIB00000222210"
-chlorogenic acid	"CCMSLIB00000222495"
-chlorogenic acid	"CCMSLIB00000222497"
-cholalic acid	"CCMSLIB00000216849"
-cholalic acid	"CCMSLIB00000216850"
-cholalic acid	"CCMSLIB00000216852"
-cholalic acid	"CCMSLIB00000216854"
-cholalic acid	"CCMSLIB00000216856"
-cholalic acid	"CCMSLIB00000216858"
-cholalic acid	"CCMSLIB00000216860"
-cholalic acid	"CCMSLIB00000216862"
-cholalic acid	"CCMSLIB00000216864"
-cholalic acid	"CCMSLIB00000222252"
-cholalic acid	"CCMSLIB00000222254"
-choline	"CCMSLIB00000222126"
-choline	"CCMSLIB00000222128"
-choline	"CCMSLIB00000223228"
-choline	"CCMSLIB00000223229"
-chrysanthemin	"CCMSLIB00000223169"
-chrysanthemin	"CCMSLIB00000217745"
-chrysanthemin	"CCMSLIB00000217746"
-chrysanthemin	"CCMSLIB00000217748"
-chrysanthemin	"CCMSLIB00000217750"
-chrysanthemin	"CCMSLIB00000217752"
-chrysanthemin	"CCMSLIB00000217754"
-chrysanthemin	"CCMSLIB00000221385"
-chrysanthemin	"CCMSLIB00000222352"
-cinaroside	"CCMSLIB00000223074"
-cinaroside	"CCMSLIB00000215513"
-cinaroside	"CCMSLIB00000215514"
-cinaroside	"CCMSLIB00000215516"
-cinaroside	"CCMSLIB00000215518"
-cinaroside	"CCMSLIB00000215520"
-cinaroside	"CCMSLIB00000215522"
-cinaroside	"CCMSLIB00000215525"
-cinaroside	"CCMSLIB00000215526"
-cinaroside	"CCMSLIB00000215528"
-cinaroside	"CCMSLIB00000215530"
-cinaroside	"CCMSLIB00000215532"
-cinaroside	"CCMSLIB00000215534"
-cinaroside	"CCMSLIB00000221183"
-cinaroside	"CCMSLIB00000222100"
-cinchonine	"CCMSLIB00000222319"
-cinchonine	"CCMSLIB00000222321"
-cinchonine	"CCMSLIB00000222323"
-cinchonine	"CCMSLIB00000222325"
-cinnamic alcohol	"CCMSLIB00000212337"
-cinnamic alcohol	"CCMSLIB00000215828"
-cirsimarin	"CCMSLIB00000223355"
-cis-4-hydroxyproline	"CCMSLIB00000218741"
-cis-4-hydroxyproline	"CCMSLIB00000218744"
-cis-4-hydroxyproline	"CCMSLIB00000218746"
-cis-4-hydroxyproline	"CCMSLIB00000218748"
-cis-4-hydroxyproline	"CCMSLIB00000218750"
-cis-9-octadecenoic acid	"CCMSLIB00000214433"
-cis-9-octadecenoic acid	"CCMSLIB00000214436"
-cis-aconitic acid	"CCMSLIB00000221426"
-cis-aconitic acid	"CCMSLIB00000212528"
-cis-aconitic acid	"CCMSLIB00000212530"
-cis-aconitic acid	"CCMSLIB00000212532"
-cis-aconitic acid	"CCMSLIB00000216765"
-cis-aconitic acid	"CCMSLIB00000216767"
-cis-aconitic acid	"CCMSLIB00000216769"
-cis-aconitic acid	"CCMSLIB00000216771"
-cis-aconitic acid	"CCMSLIB00000216773"
-cis-aconitic acid	"CCMSLIB00000216775"
-cis-aconitic acid	"CCMSLIB00000222246"
-citrin	"CCMSLIB00000223178"
-citrin	"CCMSLIB00000217942"
-citrin	"CCMSLIB00000217944"
-citrin	"CCMSLIB00000217946"
-citrin	"CCMSLIB00000217948"
-citrin	"CCMSLIB00000217950"
-citrin	"CCMSLIB00000217952"
-citrin	"CCMSLIB00000221404"
-citrin	"CCMSLIB00000222376"
-citrulline	"CCMSLIB00000217551"
-citrulline	"CCMSLIB00000217553"
-citrulline	"CCMSLIB00000217554"
-citrulline	"CCMSLIB00000217555"
-citrulline	"CCMSLIB00000217557"
-citrulline	"CCMSLIB00000221738"
-citrulline	"CCMSLIB00000221740"
-citrulline	"CCMSLIB00000221742"
-citrulline	"CCMSLIB00000221744"
-citrulline	"CCMSLIB00000221746"
-cocaine	"CCMSLIB00000211394"
-cocaine	"CCMSLIB00000211396"
-cocaine	"CCMSLIB00000211398"
-cocaine	"CCMSLIB00000211401"
-cocaine	"CCMSLIB00000211402"
-cocaine	"CCMSLIB00000211403"
-cocaine	"CCMSLIB00000211404"
-cocaine	"CCMSLIB00000211405"
-cocaine	"CCMSLIB00000211407"
-cocaine	"CCMSLIB00000211410"
-cocaine	"CCMSLIB00000211412"
-cocaine	"CCMSLIB00000211414"
-cocaine	"CCMSLIB00000211416"
-cocaine	"CCMSLIB00000211418"
-codeine	"CCMSLIB00000210969"
-codeine	"CCMSLIB00000210971"
-codeine	"CCMSLIB00000210973"
-codeine	"CCMSLIB00000210975"
-codeine	"CCMSLIB00000210977"
-codeine	"CCMSLIB00000210979"
-codeine	"CCMSLIB00000210982"
-codeine	"CCMSLIB00000210984"
-codeine	"CCMSLIB00000210986"
-codeine	"CCMSLIB00000210987"
-codeine	"CCMSLIB00000210989"
-codeine	"CCMSLIB00000210991"
-codeine	"CCMSLIB00000210993"
-codeine	"CCMSLIB00000210996"
-codeine	"CCMSLIB00000222130"
-codeine	"CCMSLIB00000222132"
-codeine	"CCMSLIB00000222134"
-coniferaldehyde	"CCMSLIB00000222836"
-coniferaldehyde	"CCMSLIB00000212324"
-coniferaldehyde	"CCMSLIB00000212326"
-coniferaldehyde	"CCMSLIB00000212328"
-coniferaldehyde	"CCMSLIB00000212330"
-coniferaldehyde	"CCMSLIB00000212332"
-coniferaldehyde	"CCMSLIB00000220710"
-coniferaldehyde	"CCMSLIB00000221731"
-coniferyl aldehyde	"CCMSLIB00000222836"
-coniferyl aldehyde	"CCMSLIB00000212324"
-coniferyl aldehyde	"CCMSLIB00000212326"
-coniferyl aldehyde	"CCMSLIB00000212328"
-coniferyl aldehyde	"CCMSLIB00000212330"
-coniferyl aldehyde	"CCMSLIB00000212332"
-coniferyl aldehyde	"CCMSLIB00000220710"
-coniferyl aldehyde	"CCMSLIB00000221731"
-cordycepic acid	"CCMSLIB00000220216"
-cordycepic acid	"CCMSLIB00000220218"
-cordycepic acid	"CCMSLIB00000222684"
-cosmosiin	"CCMSLIB00000223353"
-coumarin	"CCMSLIB00000222195"
-coumarin	"CCMSLIB00000222197"
-coumarin	"CCMSLIB00000222199"
-creatine	"CCMSLIB00000216168"
-creatine	"CCMSLIB00000216170"
-creatine	"CCMSLIB00000216433"
-creatine	"CCMSLIB00000216435"
-creatine	"CCMSLIB00000216437"
-creatine	"CCMSLIB00000217530"
-creatine	"CCMSLIB00000217532"
-creatine	"CCMSLIB00000217534"
-creatine	"CCMSLIB00000217536"
-creatine	"CCMSLIB00000217538"
-creatine	"CCMSLIB00000222941"
-creatinine	"CCMSLIB00000217590"
-creatinine	"CCMSLIB00000217592"
-creatinine	"CCMSLIB00000217594"
-creatinine	"CCMSLIB00000217596"
-creatinine	"CCMSLIB00000217597"
-creatinine	"CCMSLIB00000222942"
-creatinine	"CCMSLIB00000223795"
-creatinine	"CCMSLIB00000223796"
-creatinine	"CCMSLIB00000223797"
-creatinine	"CCMSLIB00000223798"
-crithmene	"CCMSLIB00000218485"
-crithmene	"CCMSLIB00000222423"
-crithmene	"CCMSLIB00000222425"
-cyanidin	"CCMSLIB00000222659"
-cyanidin	"CCMSLIB00000222661"
-cyanidin-3-glucoside	"CCMSLIB00000222830"
-cyanidin-3-glucoside	"CCMSLIB00000222831"
-cyanidin-3-glucoside	"CCMSLIB00000223169"
-cyanin	"CCMSLIB00000222826"
-cyanin	"CCMSLIB00000222827"
-cyanin	"CCMSLIB00000223167"
-cyanin	"CCMSLIB00000217722"
-cyanin	"CCMSLIB00000217724"
-cyanin	"CCMSLIB00000217725"
-cyanin	"CCMSLIB00000217727"
-cyanin	"CCMSLIB00000217729"
-cyanin	"CCMSLIB00000217731"
-cyanin	"CCMSLIB00000221381"
-cyanin	"CCMSLIB00000222348"
-cyclamin	"CCMSLIB00000223172"
-cyclamin	"CCMSLIB00000217780"
-cyclamin	"CCMSLIB00000217782"
-cyclamin	"CCMSLIB00000217784"
-cyclamin	"CCMSLIB00000217786"
-cyclamin	"CCMSLIB00000217788"
-cyclamin	"CCMSLIB00000217790"
-cyclamin	"CCMSLIB00000221391"
-cyclamin	"CCMSLIB00000222357"
-cyclopamine	"CCMSLIB00000205446"
-cystathionine	"CCMSLIB00000217638"
-cystathionine	"CCMSLIB00000217640"
-cystathionine	"CCMSLIB00000217642"
-cystathionine	"CCMSLIB00000217644"
-cystathionine	"CCMSLIB00000217646"
-cystathionine	"CCMSLIB00000221156"
-cystathionine	"CCMSLIB00000222943"
-cystathionine	"CCMSLIB00000222944"
-cystathionine	"CCMSLIB00000213448"
-cystathionine	"CCMSLIB00000213450"
-cystathionine	"CCMSLIB00000213452"
-cystathionine	"CCMSLIB00000213454"
-cystathionine	"CCMSLIB00000213456"
-cystathionine	"CCMSLIB00000220923"
-cystathionine	"CCMSLIB00000220924"
-cystathionine	"CCMSLIB00000221837"
-cystine	"CCMSLIB00000221765"
-cystine	"CCMSLIB00000221767"
-cystine	"CCMSLIB00000221769"
-cystine	"CCMSLIB00000221774"
-cytidine	"CCMSLIB00000222945"
-cytidine	"CCMSLIB00000222946"
-daidzein	"CCMSLIB00000222037"
-daidzein	"CCMSLIB00000222039"
-daidzein	"CCMSLIB00000222041"
-daidzein	"CCMSLIB00000222043"
-daidzein	"CCMSLIB00000222663"
-daidzein	"CCMSLIB00000222665"
-daidzein	"CCMSLIB00000223052"
-daidzein	"CCMSLIB00000215088"
-daidzein	"CCMSLIB00000215090"
-daidzein	"CCMSLIB00000215092"
-daidzein	"CCMSLIB00000215094"
-daidzein	"CCMSLIB00000221140"
-daidzein	"CCMSLIB00000222038"
-daidzein	"CCMSLIB00000222040"
-daidzin	"CCMSLIB00000222805"
-daidzin	"CCMSLIB00000222806"
-daidzin	"CCMSLIB00000222807"
-daidzin	"CCMSLIB00000223084"
-daidzin	"CCMSLIB00000215732"
-daidzin	"CCMSLIB00000215734"
-daidzin	"CCMSLIB00000215736"
-daidzin	"CCMSLIB00000215738"
-daidzin	"CCMSLIB00000215740"
-daidzin	"CCMSLIB00000215742"
-daidzin	"CCMSLIB00000215744"
-daidzin	"CCMSLIB00000215746"
-daidzin	"CCMSLIB00000215748"
-daidzin	"CCMSLIB00000215750"
-daidzin	"CCMSLIB00000215752"
-daidzin	"CCMSLIB00000221203"
-daidzin	"CCMSLIB00000222121"
-danshenxinkun a	"CCMSLIB00000212235"
-daphnetin	"CCMSLIB00000223293"
-daphnetin	"CCMSLIB00000220573"
-daphnetin	"CCMSLIB00000220575"
-daphnetin	"CCMSLIB00000220577"
-daphnetin	"CCMSLIB00000220579"
-daphnetin	"CCMSLIB00000220581"
-daphnetin	"CCMSLIB00000220583"
-daphnetin	"CCMSLIB00000221718"
-daphnetin	"CCMSLIB00000222751"
-daphnetin	"CCMSLIB00000222752"
-decanedioic acid	"CCMSLIB00000214608"
-decanedioic acid	"CCMSLIB00000214610"
-decanedioic acid	"CCMSLIB00000214612"
-decanedioic acid	"CCMSLIB00000214614"
-decanedioic acid	"CCMSLIB00000214617"
-decanedioic acid	"CCMSLIB00000221975"
-delphinidin	"CCMSLIB00000220254"
-delphinidin	"CCMSLIB00000220256"
-delphinidin	"CCMSLIB00000222696"
-delphinidin-3-glucoside	"CCMSLIB00000221681"
-delphinidin-3-glucoside	"CCMSLIB00000222704"
-delta-tocotrienol	"CCMSLIB00000223299"
-delta-tocotrienol	"CCMSLIB00000220643"
-delta-tocotrienol	"CCMSLIB00000220645"
-delta-tocotrienol	"CCMSLIB00000220647"
-delta-tocotrienol	"CCMSLIB00000221729"
-deoxycholic acid	"CCMSLIB00000220539"
-deoxycholic acid	"CCMSLIB00000220541"
-deoxycholic acid	"CCMSLIB00000220543"
-deoxycholic acid	"CCMSLIB00000220545"
-deoxycholic acid	"CCMSLIB00000220547"
-deoxycholic acid	"CCMSLIB00000220549"
-deoxycholic acid	"CCMSLIB00000220551"
-deoxycholic acid	"CCMSLIB00000222743"
-deoxycholic acid	"CCMSLIB00000222745"
-d-glucuronic acid	"CCMSLIB00000219924"
-d-glucuronic acid	"CCMSLIB00000222639"
-diazinon	"CCMSLIB00000208162"
-diazinon	"CCMSLIB00000208163"
-diazinon	"CCMSLIB00000208164"
-diazinon	"CCMSLIB00000208165"
-diazinon	"CCMSLIB00000208166"
-diazinon	"CCMSLIB00000208167"
-diazinon	"CCMSLIB00000208168"
-diazinon	"CCMSLIB00000208169"
-diazinon	"CCMSLIB00000208170"
-diazinon	"CCMSLIB00000208171"
-diazinon	"CCMSLIB00000208172"
-diazinon	"CCMSLIB00000208173"
-diazinon	"CCMSLIB00000208174"
-diazinon	"CCMSLIB00000208175"
-diazinon	"CCMSLIB00000223385"
-diazinon	"CCMSLIB00000223386"
-diazinon	"CCMSLIB00000223387"
-dichlorvos	"CCMSLIB00000223365"
-dichlorvos	"CCMSLIB00000223366"
-dichlorvos	"CCMSLIB00000223367"
-dichlorvos	"CCMSLIB00000223368"
-dihydrocapsacine	"CCMSLIB00000223087"
-dihydrocapsacine	"CCMSLIB00000215790"
-dihydrocapsacine	"CCMSLIB00000215792"
-dihydrocapsacine	"CCMSLIB00000215794"
-dihydrocapsacine	"CCMSLIB00000215796"
-dihydrocapsacine	"CCMSLIB00000215798"
-dihydrocapsacine	"CCMSLIB00000215800"
-dihydrocapsacine	"CCMSLIB00000221209"
-dihydrocapsacine	"CCMSLIB00000222129"
-dihydrocapsaicin	"CCMSLIB00000223087"
-dihydrocapsaicin	"CCMSLIB00000215790"
-dihydrocapsaicin	"CCMSLIB00000215792"
-dihydrocapsaicin	"CCMSLIB00000215794"
-dihydrocapsaicin	"CCMSLIB00000215796"
-dihydrocapsaicin	"CCMSLIB00000215798"
-dihydrocapsaicin	"CCMSLIB00000215800"
-dihydrocapsaicin	"CCMSLIB00000221209"
-dihydrocapsaicin	"CCMSLIB00000222129"
-dihydrochelerythrine	"CCMSLIB00000211056"
-dihydromelilotoside	"CCMSLIB00000211040"
-dihydroquercetin	"CCMSLIB00000205192"
-dimethyl malate	"CCMSLIB00000217994"
-dimethyl malate	"CCMSLIB00000217996"
-dimethyl malate	"CCMSLIB00000217998"
-dimethyl malate	"CCMSLIB00000218000"
-diosmin	"CCMSLIB00000217874"
-diosmin	"CCMSLIB00000217876"
-diosmin	"CCMSLIB00000217878"
-diosmin	"CCMSLIB00000217880"
-diosmin	"CCMSLIB00000217882"
-diosmin	"CCMSLIB00000217885"
-dopamine	"CCMSLIB00000217875"
-dopamine	"CCMSLIB00000217877"
-dopamine	"CCMSLIB00000217879"
-dopamine	"CCMSLIB00000217881"
-dopamine	"CCMSLIB00000217883"
-dopamine	"CCMSLIB00000221834"
-dopamine	"CCMSLIB00000221836"
-dopamine	"CCMSLIB00000221838"
-dopamine	"CCMSLIB00000221840"
-dopamine	"CCMSLIB00000221842"
-dulcitol	"CCMSLIB00000216344"
-dulcitol	"CCMSLIB00000216346"
-dulcitol	"CCMSLIB00000219326"
-dulcitol	"CCMSLIB00000219328"
-dulcitol	"CCMSLIB00000222189"
-dulcitol	"CCMSLIB00000222555"
-emetine	"CCMSLIB00000222356"
-emetine	"CCMSLIB00000222358"
-emetine	"CCMSLIB00000222360"
-emetine	"CCMSLIB00000222362"
-enanthic acid	"CCMSLIB00000213911"
-enanthic acid	"CCMSLIB00000213913"
-enanthic acid	"CCMSLIB00000213915"
-ephedrine	"CCMSLIB00000210709"
-ephedrine	"CCMSLIB00000210711"
-ephedrine	"CCMSLIB00000210713"
-ephedrine	"CCMSLIB00000210715"
-ephedrine	"CCMSLIB00000210717"
-ephedrine	"CCMSLIB00000210719"
-ephedrine	"CCMSLIB00000210721"
-ephedrine	"CCMSLIB00000210723"
-ephedrine	"CCMSLIB00000210725"
-ephedrine	"CCMSLIB00000210727"
-ephedrine	"CCMSLIB00000210729"
-ephedrine	"CCMSLIB00000210732"
-ephedrine	"CCMSLIB00000210734"
-ephedrine	"CCMSLIB00000210736"
-epicatechin	"CCMSLIB00000222067"
-epicatechin	"CCMSLIB00000222069"
-epicatechin	"CCMSLIB00000222071"
-epicatechin	"CCMSLIB00000222073"
-epiprogoitrin	"CCMSLIB00000223252"
-epiprogoitrin	"CCMSLIB00000219639"
-epiprogoitrin	"CCMSLIB00000219641"
-epiprogoitrin	"CCMSLIB00000221602"
-epiprogoitrin	"CCMSLIB00000222602"
-eriodictyol	"CCMSLIB00000222667"
-eriodictyol	"CCMSLIB00000222669"
-eriodictyol	"CCMSLIB00000223053"
-eriodictyol	"CCMSLIB00000215096"
-eriodictyol	"CCMSLIB00000215098"
-eriodictyol	"CCMSLIB00000215100"
-eriodictyol	"CCMSLIB00000215101"
-eriodictyol	"CCMSLIB00000215103"
-eriodictyol	"CCMSLIB00000215105"
-eriodictyol	"CCMSLIB00000215107"
-eriodictyol	"CCMSLIB00000215109"
-eriodictyol	"CCMSLIB00000215111"
-eriodictyol	"CCMSLIB00000215113"
-eriodictyol	"CCMSLIB00000215115"
-eriodictyol	"CCMSLIB00000221142"
-eriodictyol	"CCMSLIB00000222042"
-esculetin	"CCMSLIB00000223294"
-esculetin	"CCMSLIB00000220585"
-esculetin	"CCMSLIB00000220587"
-esculetin	"CCMSLIB00000220589"
-esculetin	"CCMSLIB00000220591"
-esculetin	"CCMSLIB00000220593"
-esculetin	"CCMSLIB00000220595"
-esculetin	"CCMSLIB00000221720"
-esculetin	"CCMSLIB00000222754"
-esculetin	"CCMSLIB00000222756"
-esculin	"CCMSLIB00000223295"
-eserine	"CCMSLIB00000218150"
-eserine	"CCMSLIB00000218152"
-eserine	"CCMSLIB00000218155"
-eserine	"CCMSLIB00000218156"
-eserine	"CCMSLIB00000218159"
-eserine	"CCMSLIB00000221194"
-estrone	"CCMSLIB00000223807"
-estrone	"CCMSLIB00000223808"
-estrone	"CCMSLIB00000223809"
-estrone	"CCMSLIB00000223810"
-ethanolamine	"CCMSLIB00000218200"
-ethanolamine	"CCMSLIB00000218202"
-ethanolamine	"CCMSLIB00000218204"
-ethanolamine	"CCMSLIB00000218206"
-ethanolamine	"CCMSLIB00000218209"
-ferulic acid	"CCMSLIB00000222837"
-ferulic acid	"CCMSLIB00000222838"
-ferulic acid	"CCMSLIB00000212051"
-ferulic acid	"CCMSLIB00000212053"
-ferulic acid	"CCMSLIB00000212055"
-ferulic acid	"CCMSLIB00000212057"
-ferulic acid	"CCMSLIB00000212341"
-ferulic acid	"CCMSLIB00000212343"
-ferulic acid	"CCMSLIB00000212348"
-ferulic acid	"CCMSLIB00000219479"
-ferulic acid	"CCMSLIB00000219481"
-ferulic acid	"CCMSLIB00000219483"
-ferulic acid	"CCMSLIB00000220712"
-ferulic acid	"CCMSLIB00000220714"
-ferulic acid	"CCMSLIB00000221735"
-fipronil	"CCMSLIB00000210079"
-fipronil	"CCMSLIB00000210081"
-fipronil	"CCMSLIB00000210083"
-fipronil	"CCMSLIB00000210085"
-fipronil	"CCMSLIB00000210087"
-fipronil	"CCMSLIB00000210089"
-fipronil	"CCMSLIB00000210091"
-fipronil	"CCMSLIB00000210093"
-fipronil	"CCMSLIB00000210095"
-fipronil	"CCMSLIB00000210097"
-fipronil	"CCMSLIB00000210099"
-fipronil	"CCMSLIB00000210101"
-fipronil	"CCMSLIB00000210103"
-fipronil	"CCMSLIB00000210105"
-fisetin	"CCMSLIB00000211998"
-flavanone	"CCMSLIB00000222671"
-flavanone	"CCMSLIB00000222673"
-flavanone	"CCMSLIB00000215117"
-flavanone	"CCMSLIB00000215119"
-flavanone	"CCMSLIB00000215121"
-flavanone	"CCMSLIB00000215123"
-flavin mononucleotide	"CCMSLIB00000221873"
-fluoxetine	"CCMSLIB00000208403"
-fluoxetine	"CCMSLIB00000208404"
-fluoxetine	"CCMSLIB00000208405"
-fluoxetine	"CCMSLIB00000208406"
-fluoxetine	"CCMSLIB00000208407"
-fluoxetine	"CCMSLIB00000208408"
-fluoxetine	"CCMSLIB00000208409"
-fluoxetine	"CCMSLIB00000578571"
-fluoxetine	"CCMSLIB00000578572"
-fluoxetine	"CCMSLIB00000578573"
-fluoxetine	"CCMSLIB00000578574"
-fluoxetine	"CCMSLIB00000578575"
-fluoxetine	"CCMSLIB00000223728"
-fluoxetine	"CCMSLIB00000223729"
-fluoxetine	"CCMSLIB00000223730"
-fluoxetine	"CCMSLIB00000223731"
-foliosidine	"CCMSLIB00000204745"
-foliosidine	"CCMSLIB00000204755"
-foliosidine	"CCMSLIB00000204765"
-formononetin	"CCMSLIB00000222057"
-formononetin	"CCMSLIB00000223138"
-formononetin	"CCMSLIB00000212289"
-formononetin	"CCMSLIB00000216923"
-formononetin	"CCMSLIB00000216925"
-formononetin	"CCMSLIB00000216927"
-formononetin	"CCMSLIB00000216929"
-formononetin	"CCMSLIB00000216931"
-formononetin	"CCMSLIB00000216933"
-formononetin	"CCMSLIB00000216935"
-formononetin	"CCMSLIB00000216938"
-formononetin	"CCMSLIB00000221324"
-formononetin	"CCMSLIB00000222266"
-fortunellin	"CCMSLIB00000223176"
-fortunellin	"CCMSLIB00000223359"
-fortunellin	"CCMSLIB00000217906"
-fortunellin	"CCMSLIB00000217908"
-fortunellin	"CCMSLIB00000217910"
-fortunellin	"CCMSLIB00000217912"
-fortunellin	"CCMSLIB00000217914"
-fortunellin	"CCMSLIB00000217916"
-fortunellin	"CCMSLIB00000217918"
-fortunellin	"CCMSLIB00000217920"
-fortunellin	"CCMSLIB00000217922"
-fortunellin	"CCMSLIB00000217924"
-fortunellin	"CCMSLIB00000217926"
-fortunellin	"CCMSLIB00000217928"
-fortunellin	"CCMSLIB00000221401"
-fortunellin	"CCMSLIB00000222372"
-galactitol	"CCMSLIB00000216344"
-galactitol	"CCMSLIB00000216346"
-galactitol	"CCMSLIB00000219326"
-galactitol	"CCMSLIB00000219328"
-galactitol	"CCMSLIB00000222189"
-galactitol	"CCMSLIB00000222555"
-galactosamine	"CCMSLIB00000218478"
-galactosamine	"CCMSLIB00000218480"
-galactosamine	"CCMSLIB00000218482"
-galactosamine	"CCMSLIB00000218484"
-galactosamine	"CCMSLIB00000218486"
-gamma-aminobutyric acid	"CCMSLIB00000216547"
-gamma-aminobutyric acid	"CCMSLIB00000216549"
-gamma-aminobutyric acid	"CCMSLIB00000216551"
-gamma-aminobutyric acid	"CCMSLIB00000216553"
-gamma-aminobutyric acid	"CCMSLIB00000216555"
-gamma-aminobutyric acid	"CCMSLIB00000208919"
-gamma-linolenic acid	"CCMSLIB00000222028"
-gamma-nonalactone	"CCMSLIB00000218487"
-gamma-terpinene	"CCMSLIB00000218485"
-gamma-terpinene	"CCMSLIB00000222423"
-gamma-terpinene	"CCMSLIB00000222425"
-gamma-tocotrienol	"CCMSLIB00000223298"
-gamma-tocotrienol	"CCMSLIB00000220641"
-gamma-tocotrienol	"CCMSLIB00000221728"
-genistein	"CCMSLIB00000222045"
-genistein	"CCMSLIB00000222047"
-genistein	"CCMSLIB00000222049"
-genistein	"CCMSLIB00000222051"
-genistein	"CCMSLIB00000222233"
-genistein	"CCMSLIB00000222235"
-genistein	"CCMSLIB00000222237"
-genistein	"CCMSLIB00000222239"
-genistein	"CCMSLIB00000222241"
-genistein	"CCMSLIB00000222675"
-genistein	"CCMSLIB00000222677"
-genistein	"CCMSLIB00000215125"
-genistein	"CCMSLIB00000215127"
-genistein	"CCMSLIB00000215129"
-genistein	"CCMSLIB00000215131"
-gentiobiose	"CCMSLIB00000220206"
-gentisic acid	"CCMSLIB00000223207"
-gentisic acid	"CCMSLIB00000219029"
-gentisic acid	"CCMSLIB00000219031"
-gentisic acid	"CCMSLIB00000219033"
-gentisic acid	"CCMSLIB00000219035"
-gentisic acid	"CCMSLIB00000221503"
-gentisic acid	"CCMSLIB00000222496"
-gibberellic acid	"CCMSLIB00000216685"
-gibberellic acid	"CCMSLIB00000216687"
-gibberellic acid	"CCMSLIB00000216689"
-gibberellic acid	"CCMSLIB00000216691"
-gibberellic acid	"CCMSLIB00000216693"
-gibberellic acid	"CCMSLIB00000216695"
-ginsenoside rb1	"CCMSLIB00000210045"
-ginsenoside rb2	"CCMSLIB00000210051"
-ginsenoside rc	"CCMSLIB00000210057"
-ginsenoside rd	"CCMSLIB00000210059"
-ginsenoside re	"CCMSLIB00000210072"
-ginsenoside rg1	"CCMSLIB00000210070"
-glabrene	"CCMSLIB00000212291"
-glabridin	"CCMSLIB00000212294"
-glabrol	"CCMSLIB00000212296"
-glucoerucin	"CCMSLIB00000216222"
-glucoerucin	"CCMSLIB00000216224"
-glucoerucin	"CCMSLIB00000216226"
-glucoerucin	"CCMSLIB00000216227"
-glucoerucin	"CCMSLIB00000216230"
-glucoerucin	"CCMSLIB00000216232"
-glucoerucin	"CCMSLIB00000219643"
-glucoerucin	"CCMSLIB00000222179"
-glucoiberin	"CCMSLIB00000223253"
-glucoiberin	"CCMSLIB00000219645"
-glucoiberin	"CCMSLIB00000219647"
-glucoiberin	"CCMSLIB00000219649"
-glucoiberin	"CCMSLIB00000219651"
-glucoiberin	"CCMSLIB00000219653"
-glucoiberin	"CCMSLIB00000219655"
-glucoiberin	"CCMSLIB00000219657"
-glucoiberin	"CCMSLIB00000219659"
-glucoiberin	"CCMSLIB00000219661"
-glucoiberin	"CCMSLIB00000219663"
-glucoiberin	"CCMSLIB00000219665"
-glucoiberin	"CCMSLIB00000221603"
-gluconapin	"CCMSLIB00000223250"
-gluconapin	"CCMSLIB00000216252"
-gluconapin	"CCMSLIB00000219627"
-gluconapin	"CCMSLIB00000221598"
-gluconapin	"CCMSLIB00000222599"
-gluconasturtiin	"CCMSLIB00000223257"
-gluconasturtiin	"CCMSLIB00000219701"
-gluconasturtiin	"CCMSLIB00000219703"
-gluconasturtiin	"CCMSLIB00000219705"
-gluconasturtiin	"CCMSLIB00000219707"
-gluconasturtiin	"CCMSLIB00000219709"
-gluconasturtiin	"CCMSLIB00000219711"
-gluconasturtiin	"CCMSLIB00000221611"
-gluconasturtiin	"CCMSLIB00000222605"
-glucoraphanin	"CCMSLIB00000223254"
-glucoraphanin	"CCMSLIB00000216234"
-glucoraphanin	"CCMSLIB00000216236"
-glucoraphanin	"CCMSLIB00000216238"
-glucoraphanin	"CCMSLIB00000216240"
-glucoraphanin	"CCMSLIB00000216242"
-glucoraphanin	"CCMSLIB00000216244"
-glucoraphanin	"CCMSLIB00000216246"
-glucoraphanin	"CCMSLIB00000216248"
-glucoraphanin	"CCMSLIB00000216250"
-glucoraphanin	"CCMSLIB00000219667"
-glucoraphanin	"CCMSLIB00000219669"
-glucoraphanin	"CCMSLIB00000219671"
-glucoraphanin	"CCMSLIB00000219673"
-glucoraphanin	"CCMSLIB00000219675"
-glucoraphanin	"CCMSLIB00000219677"
-glucoraphanin	"CCMSLIB00000219679"
-glucoraphanin	"CCMSLIB00000219681"
-glucoraphanin	"CCMSLIB00000219683"
-glucoraphanin	"CCMSLIB00000221605"
-glucoraphanin	"CCMSLIB00000222181"
-glucosamine	"CCMSLIB00000218499"
-glucosamine	"CCMSLIB00000218501"
-glucosamine	"CCMSLIB00000218503"
-glucosamine	"CCMSLIB00000218505"
-glucosamine	"CCMSLIB00000218507"
-glucotropaeolin	"CCMSLIB00000223256"
-glucotropaeolin	"CCMSLIB00000219690"
-glucotropaeolin	"CCMSLIB00000219691"
-glucotropaeolin	"CCMSLIB00000219693"
-glucotropaeolin	"CCMSLIB00000219695"
-glucotropaeolin	"CCMSLIB00000219697"
-glucotropaeolin	"CCMSLIB00000219699"
-glucotropaeolin	"CCMSLIB00000221609"
-glutamic acid	"CCMSLIB00000221799"
-glutamic acid	"CCMSLIB00000221801"
-glutamic acid	"CCMSLIB00000221804"
-glutamic acid	"CCMSLIB00000221805"
-glutamic acid	"CCMSLIB00000213720"
-glutamic acid	"CCMSLIB00000213722"
-glutamic acid	"CCMSLIB00000213723"
-glutamic acid	"CCMSLIB00000221877"
-glutaric acid	"CCMSLIB00000213720"
-glutaric acid	"CCMSLIB00000213722"
-glutaric acid	"CCMSLIB00000213723"
-glutaric acid	"CCMSLIB00000221877"
-glutathione	"CCMSLIB00000216135"
-glutathione	"CCMSLIB00000216137"
-glutathione	"CCMSLIB00000216139"
-glycerin	"CCMSLIB00000212534"
-glycerin	"CCMSLIB00000212536"
-glycerin	"CCMSLIB00000212538"
-glycerol	"CCMSLIB00000212534"
-glycerol	"CCMSLIB00000212536"
-glycerol	"CCMSLIB00000212538"
-glycine	"CCMSLIB00000212540"
-glycine	"CCMSLIB00000212542"
-glycine	"CCMSLIB00000212544"
-glycocholic acid	"CCMSLIB00000218488"
-glycocholic acid	"CCMSLIB00000218490"
-glycocholic acid	"CCMSLIB00000218492"
-glycocholic acid	"CCMSLIB00000218495"
-glycocholic acid	"CCMSLIB00000218497"
-glycolic acid	"CCMSLIB00000213743"
-glycyrrhetinic acid	"CCMSLIB00000218581"
-glycyrrhetinic acid	"CCMSLIB00000218583"
-glycyrrhetinic acid	"CCMSLIB00000218586"
-glycyrrhetinic acid	"CCMSLIB00000218588"
-glycyrrhetinic acid	"CCMSLIB00000218590"
-glycyrrhizic acid	"CCMSLIB00000222967"
-glycyrrhizic acid	"CCMSLIB00000223085"
-glycyrrhizic acid	"CCMSLIB00000215754"
-glycyrrhizic acid	"CCMSLIB00000215756"
-glycyrrhizic acid	"CCMSLIB00000215758"
-glycyrrhizic acid	"CCMSLIB00000215760"
-glycyrrhizic acid	"CCMSLIB00000215762"
-glycyrrhizic acid	"CCMSLIB00000215764"
-glycyrrhizic acid	"CCMSLIB00000215766"
-glycyrrhizic acid	"CCMSLIB00000215768"
-glycyrrhizic acid	"CCMSLIB00000215770"
-glycyrrhizic acid	"CCMSLIB00000215772"
-glycyrrhizic acid	"CCMSLIB00000215774"
-glycyrrhizic acid	"CCMSLIB00000215776"
-glycyrrhizic acid	"CCMSLIB00000221205"
-glycyrrhizic acid	"CCMSLIB00000222123"
-glycyrrhizic acid	"CCMSLIB00000222125"
-glycyrrhizin	"CCMSLIB00000218509"
-glycyrrhizin	"CCMSLIB00000218511"
-glycyrrhizin	"CCMSLIB00000218513"
-glycyrrhizin	"CCMSLIB00000218515"
-glycyrrhizin	"CCMSLIB00000218517"
-glycyrrhizin	"CCMSLIB00000222967"
-glycyrrhizin	"CCMSLIB00000223085"
-glycyrrhizin	"CCMSLIB00000213757"
-glycyrrhizin	"CCMSLIB00000213759"
-glycyrrhizin	"CCMSLIB00000213761"
-glycyrrhizin	"CCMSLIB00000213763"
-glycyrrhizin	"CCMSLIB00000213765"
-glycyrrhizin	"CCMSLIB00000213767"
-glycyrrhizin	"CCMSLIB00000213769"
-glycyrrhizin	"CCMSLIB00000213771"
-glycyrrhizin	"CCMSLIB00000213773"
-glycyrrhizin	"CCMSLIB00000213775"
-glycyrrhizin	"CCMSLIB00000213776"
-glycyrrhizin	"CCMSLIB00000213778"
-glycyrrhizin	"CCMSLIB00000215754"
-glycyrrhizin	"CCMSLIB00000215756"
-glycyrrhizin	"CCMSLIB00000215758"
-glycyrrhizin	"CCMSLIB00000215760"
-glycyrrhizin	"CCMSLIB00000215762"
-glycyrrhizin	"CCMSLIB00000215764"
-glycyrrhizin	"CCMSLIB00000215766"
-glycyrrhizin	"CCMSLIB00000215768"
-glycyrrhizin	"CCMSLIB00000215770"
-glycyrrhizin	"CCMSLIB00000215772"
-glycyrrhizin	"CCMSLIB00000215774"
-glycyrrhizin	"CCMSLIB00000215776"
-glycyrrhizin	"CCMSLIB00000220970"
-glycyrrhizin	"CCMSLIB00000221205"
-glycyrrhizin	"CCMSLIB00000221883"
-glycyrrhizin	"CCMSLIB00000221885"
-glycyrrhizin	"CCMSLIB00000222123"
-glycyrrhizin	"CCMSLIB00000222125"
-glycyrrhizinate	"CCMSLIB00000218509"
-glycyrrhizinate	"CCMSLIB00000218511"
-glycyrrhizinate	"CCMSLIB00000218513"
-glycyrrhizinate	"CCMSLIB00000218515"
-glycyrrhizinate	"CCMSLIB00000218517"
-glycyrrhizinic acid	"CCMSLIB00000212287"
-gomisin e	"CCMSLIB00000212205"
-gomisin f	"CCMSLIB00000212209"
-gomisin g	"CCMSLIB00000212201"
-gossypin	"CCMSLIB00000223177"
-gossypin	"CCMSLIB00000217930"
-gossypin	"CCMSLIB00000217932"
-gossypin	"CCMSLIB00000217934"
-gossypin	"CCMSLIB00000217936"
-gossypin	"CCMSLIB00000217938"
-gossypin	"CCMSLIB00000217940"
-gossypin	"CCMSLIB00000221403"
-gossypin	"CCMSLIB00000222374"
-guanidine	"CCMSLIB00000222969"
-guanidine	"CCMSLIB00000222970"
-guanidine	"CCMSLIB00000213787"
-guanidine	"CCMSLIB00000213789"
-guanidine	"CCMSLIB00000213791"
-guanidine	"CCMSLIB00000213793"
-guanidine	"CCMSLIB00000213795"
-guanidine	"CCMSLIB00000213797"
-guanidine	"CCMSLIB00000220975"
-guanidine	"CCMSLIB00000220977"
-guanidine	"CCMSLIB00000221888"
-guanine	"CCMSLIB00000216178"
-guanine	"CCMSLIB00000216180"
-guanine	"CCMSLIB00000216274"
-guanine	"CCMSLIB00000216276"
-guanine	"CCMSLIB00000222968"
-guanine	"CCMSLIB00000213781"
-guanine	"CCMSLIB00000213782"
-guanine	"CCMSLIB00000213784"
-guanine	"CCMSLIB00000220973"
-guanine	"CCMSLIB00000221887"
-guanosine	"CCMSLIB00000222969"
-guanosine	"CCMSLIB00000222970"
-guanosine	"CCMSLIB00000213787"
-guanosine	"CCMSLIB00000213789"
-guanosine	"CCMSLIB00000213791"
-guanosine	"CCMSLIB00000213793"
-guanosine	"CCMSLIB00000213795"
-guanosine	"CCMSLIB00000213797"
-guanosine	"CCMSLIB00000220975"
-guanosine	"CCMSLIB00000220977"
-guanosine	"CCMSLIB00000221888"
-haplopine	"CCMSLIB00000211072"
-harmaline	"CCMSLIB00000222900"
-harmaline	"CCMSLIB00000222901"
-harman	"CCMSLIB00000579110"
-harman	"CCMSLIB00000579111"
-harman	"CCMSLIB00000222053"
-harman	"CCMSLIB00000222055"
-harmane	"CCMSLIB00000222172"
-harmane	"CCMSLIB00000222275"
-harmane	"CCMSLIB00000222277"
-harmane	"CCMSLIB00000222279"
-harmane	"CCMSLIB00000222281"
-harmane	"CCMSLIB00000222283"
-heptadecane	"CCMSLIB00000219834"
-heptanoic acid	"CCMSLIB00000213911"
-heptanoic acid	"CCMSLIB00000213913"
-heptanoic acid	"CCMSLIB00000213915"
-hesperetin	"CCMSLIB00000217424"
-hesperetin	"CCMSLIB00000217426"
-hesperetin	"CCMSLIB00000217428"
-hesperetin	"CCMSLIB00000217430"
-hesperetin	"CCMSLIB00000217432"
-hesperetin	"CCMSLIB00000217434"
-hesperetin	"CCMSLIB00000217436"
-hesperetin	"CCMSLIB00000217438"
-hesperetin	"CCMSLIB00000222320"
-hesperidin	"CCMSLIB00000223178"
-hesperidin	"CCMSLIB00000217942"
-hesperidin	"CCMSLIB00000217944"
-hesperidin	"CCMSLIB00000217946"
-hesperidin	"CCMSLIB00000217948"
-hesperidin	"CCMSLIB00000217950"
-hesperidin	"CCMSLIB00000217952"
-hesperidin	"CCMSLIB00000221404"
-hesperidin	"CCMSLIB00000222376"
-hesperidin methyl chalcone	"CCMSLIB00000222524"
-hesperidin methyl chalcone	"CCMSLIB00000222526"
-hesperidin methyl chalcone	"CCMSLIB00000222528"
-heteroauxin	"CCMSLIB00000222978"
-heteroauxin	"CCMSLIB00000222979"
-heteroauxin	"CCMSLIB00000213937"
-heteroauxin	"CCMSLIB00000213939"
-heteroauxin	"CCMSLIB00000213941"
-heteroauxin	"CCMSLIB00000213945"
-heteroauxin	"CCMSLIB00000213946"
-heteroauxin	"CCMSLIB00000220991"
-heteroauxin	"CCMSLIB00000220993"
-heteroauxin	"CCMSLIB00000221905"
-hexanoic acid	"CCMSLIB00000213917"
-hippuric acid	"CCMSLIB00000219037"
-hippuric acid	"CCMSLIB00000219039"
-hippuric acid	"CCMSLIB00000219041"
-hippuric acid	"CCMSLIB00000219043"
-hippuric acid	"CCMSLIB00000219045"
-hippuric acid	"CCMSLIB00000219047"
-hirsutrin	"CCMSLIB00000222794"
-hirsutrin	"CCMSLIB00000222795"
-hirsutrin	"CCMSLIB00000222796"
-hirsutrin	"CCMSLIB00000222797"
-hirsutrin	"CCMSLIB00000223081"
-hirsutrin	"CCMSLIB00000223350"
-hirsutrin	"CCMSLIB00000215662"
-hirsutrin	"CCMSLIB00000215664"
-hirsutrin	"CCMSLIB00000215666"
-hirsutrin	"CCMSLIB00000215668"
-hirsutrin	"CCMSLIB00000215670"
-hirsutrin	"CCMSLIB00000215672"
-hirsutrin	"CCMSLIB00000215674"
-hirsutrin	"CCMSLIB00000215676"
-hirsutrin	"CCMSLIB00000215678"
-hirsutrin	"CCMSLIB00000215680"
-hirsutrin	"CCMSLIB00000215682"
-hirsutrin	"CCMSLIB00000215684"
-hirsutrin	"CCMSLIB00000221197"
-hirsutrin	"CCMSLIB00000222115"
-hispaglabridin a	"CCMSLIB00000212302"
-hispaglabridin b	"CCMSLIB00000212306"
-histamine	"CCMSLIB00000218773"
-histamine	"CCMSLIB00000218776"
-histamine	"CCMSLIB00000218778"
-histamine	"CCMSLIB00000218780"
-histamine	"CCMSLIB00000218782"
-histamine	"CCMSLIB00000222902"
-histamine	"CCMSLIB00000212928"
-histamine	"CCMSLIB00000212931"
-histamine	"CCMSLIB00000212933"
-histamine	"CCMSLIB00000220841"
-histidine	"CCMSLIB00000221719"
-histidine	"CCMSLIB00000221721"
-histidine	"CCMSLIB00000221723"
-histidine	"CCMSLIB00000221725"
-homogentisic acid	"CCMSLIB00000216382"
-homogentisic acid	"CCMSLIB00000216384"
-homogentisic acid	"CCMSLIB00000222194"
-homoorientin	"CCMSLIB00000223073"
-homoorientin	"CCMSLIB00000215502"
-homoorientin	"CCMSLIB00000215504"
-homoorientin	"CCMSLIB00000215506"
-homoorientin	"CCMSLIB00000215508"
-homoorientin	"CCMSLIB00000215510"
-homoorientin	"CCMSLIB00000221181"
-homoorientin	"CCMSLIB00000222098"
-homoserine	"CCMSLIB00000218633"
-homoserine	"CCMSLIB00000218635"
-homoserine	"CCMSLIB00000218637"
-homoserine	"CCMSLIB00000218639"
-hymecromone	"CCMSLIB00000222846"
-hymecromone	"CCMSLIB00000222870"
-hymecromone	"CCMSLIB00000212445"
-hymecromone	"CCMSLIB00000212447"
-hymecromone	"CCMSLIB00000212449"
-hymecromone	"CCMSLIB00000212450"
-hymecromone	"CCMSLIB00000212452"
-hymecromone	"CCMSLIB00000212635"
-hymecromone	"CCMSLIB00000212637"
-hymecromone	"CCMSLIB00000212639"
-hymecromone	"CCMSLIB00000212641"
-hymecromone	"CCMSLIB00000212643"
-hymecromone	"CCMSLIB00000212645"
-hymecromone	"CCMSLIB00000212646"
-hymecromone	"CCMSLIB00000212649"
-hymecromone	"CCMSLIB00000220731"
-hymecromone	"CCMSLIB00000220779"
-hymecromone	"CCMSLIB00000221749"
-hymecromone	"CCMSLIB00000221772"
-hymecromone	"CCMSLIB00000221773"
-hyoscyamine	"CCMSLIB00000218731"
-hyoscyamine	"CCMSLIB00000218733"
-hyoscyamine	"CCMSLIB00000218735"
-hyoscyamine	"CCMSLIB00000218737"
-hyoscyamine	"CCMSLIB00000218739"
-hyoscyamine	"CCMSLIB00000221219"
-hyperin	"CCMSLIB00000223080"
-hyperin	"CCMSLIB00000223305"
-hyperin	"CCMSLIB00000215638"
-hyperin	"CCMSLIB00000215640"
-hyperin	"CCMSLIB00000215642"
-hyperin	"CCMSLIB00000215644"
-hyperin	"CCMSLIB00000215646"
-hyperin	"CCMSLIB00000215648"
-hyperin	"CCMSLIB00000215650"
-hyperin	"CCMSLIB00000215652"
-hyperin	"CCMSLIB00000215654"
-hyperin	"CCMSLIB00000215656"
-hyperin	"CCMSLIB00000215659"
-hyperin	"CCMSLIB00000215660"
-hyperin	"CCMSLIB00000216051"
-hyperin	"CCMSLIB00000216053"
-hyperin	"CCMSLIB00000216055"
-hyperin	"CCMSLIB00000216057"
-hyperin	"CCMSLIB00000216059"
-hyperin	"CCMSLIB00000216061"
-hyperin	"CCMSLIB00000216063"
-hyperin	"CCMSLIB00000216065"
-hyperin	"CCMSLIB00000216067"
-hyperin	"CCMSLIB00000216069"
-hyperin	"CCMSLIB00000216070"
-hyperin	"CCMSLIB00000216072"
-hyperin	"CCMSLIB00000221195"
-hyperin	"CCMSLIB00000221232"
-hyperin	"CCMSLIB00000222113"
-hyperin	"CCMSLIB00000222158"
-hyperoside	"CCMSLIB00000222790"
-hyperoside	"CCMSLIB00000222791"
-hyperoside	"CCMSLIB00000222792"
-hyperoside	"CCMSLIB00000222793"
-hyperoside	"CCMSLIB00000223080"
-hyperoside	"CCMSLIB00000223305"
-hyperoside	"CCMSLIB00000215638"
-hyperoside	"CCMSLIB00000215640"
-hyperoside	"CCMSLIB00000215642"
-hyperoside	"CCMSLIB00000215644"
-hyperoside	"CCMSLIB00000215646"
-hyperoside	"CCMSLIB00000215648"
-hyperoside	"CCMSLIB00000215650"
-hyperoside	"CCMSLIB00000215652"
-hyperoside	"CCMSLIB00000215654"
-hyperoside	"CCMSLIB00000215656"
-hyperoside	"CCMSLIB00000215659"
-hyperoside	"CCMSLIB00000215660"
-hyperoside	"CCMSLIB00000216051"
-hyperoside	"CCMSLIB00000216053"
-hyperoside	"CCMSLIB00000216055"
-hyperoside	"CCMSLIB00000216057"
-hyperoside	"CCMSLIB00000216059"
-hyperoside	"CCMSLIB00000216061"
-hyperoside	"CCMSLIB00000216063"
-hyperoside	"CCMSLIB00000216065"
-hyperoside	"CCMSLIB00000216067"
-hyperoside	"CCMSLIB00000216069"
-hyperoside	"CCMSLIB00000216070"
-hyperoside	"CCMSLIB00000216072"
-hyperoside	"CCMSLIB00000221195"
-hyperoside	"CCMSLIB00000221232"
-hyperoside	"CCMSLIB00000222113"
-hyperoside	"CCMSLIB00000222158"
-hypoxanthine	"CCMSLIB00000216543"
-hypoxanthine	"CCMSLIB00000216545"
-hypoxanthine	"CCMSLIB00000218662"
-hypoxanthine	"CCMSLIB00000218664"
-hypoxanthine	"CCMSLIB00000218666"
-hypoxanthine	"CCMSLIB00000218668"
-hypoxanthine	"CCMSLIB00000218670"
-hypoxanthine	"CCMSLIB00000213925"
-hypoxanthine	"CCMSLIB00000213927"
-hypoxanthine	"CCMSLIB00000213929"
-icariin	"CCMSLIB00000223357"
-indole	"CCMSLIB00000222884"
-indole	"CCMSLIB00000220805"
-indole-3-acetonitrile	"CCMSLIB00000222441"
-indole-3-acetonitrile	"CCMSLIB00000222443"
-indole-3-acetonitrile	"CCMSLIB00000222445"
-indole-3-acetonitrile	"CCMSLIB00000222880"
-indole-3-acetonitrile	"CCMSLIB00000222881"
-indole-3-acetonitrile	"CCMSLIB00000212705"
-indole-3-acetonitrile	"CCMSLIB00000220797"
-indole-3-acetonitrile	"CCMSLIB00000220799"
-indole-3-carboxaldehyde	"CCMSLIB00000220807"
-indole-3-carboxaldehyde	"CCMSLIB00000221621"
-indole-3-carboxaldehyde	"CCMSLIB00000221783"
-indole-3-carboxaldehyde	"CCMSLIB00000221785"
-indole-3-carboxaldehyde	"CCMSLIB00000222612"
-indole-3-carboxaldehyde	"CCMSLIB00000222614"
-inosine	"CCMSLIB00000222980"
-inosine	"CCMSLIB00000222981"
-inosine	"CCMSLIB00000213948"
-inosine	"CCMSLIB00000213950"
-inosine	"CCMSLIB00000213952"
-inosine	"CCMSLIB00000213954"
-inosine	"CCMSLIB00000213956"
-inosine	"CCMSLIB00000213958"
-inosine	"CCMSLIB00000213960"
-inosine	"CCMSLIB00000213962"
-inosine	"CCMSLIB00000213964"
-inosine	"CCMSLIB00000213966"
-inosine	"CCMSLIB00000213969"
-inosine	"CCMSLIB00000220995"
-inosine	"CCMSLIB00000220997"
-inosine	"CCMSLIB00000221907"
-isoamylamine	"CCMSLIB00000218953"
-isoamylamine	"CCMSLIB00000218955"
-isoamylamine	"CCMSLIB00000218958"
-isoamylamine	"CCMSLIB00000218960"
-isoamylamine	"CCMSLIB00000218962"
-isobetanin	"CCMSLIB00000209950"
-isobetanin	"CCMSLIB00000211627"
-isobutyric acid	"CCMSLIB00000219513"
-isobutyric acid	"CCMSLIB00000219515"
-isocitric acid	"CCMSLIB00000216474"
-isocitric acid	"CCMSLIB00000216476"
-isocitric acid	"CCMSLIB00000216478"
-isoguvacine	"CCMSLIB00000218892"
-isoguvacine	"CCMSLIB00000218894"
-isoguvacine	"CCMSLIB00000218896"
-isoguvacine	"CCMSLIB00000218898"
-isoguvacine	"CCMSLIB00000218900"
-isoleucine	"CCMSLIB00000221663"
-isoleucine	"CCMSLIB00000221665"
-isoleucine	"CCMSLIB00000221667"
-isoleucine	"CCMSLIB00000221669"
-isoliquiritin	"CCMSLIB00000212283"
-isomaltose	"CCMSLIB00000216348"
-isoorientin	"CCMSLIB00000222769"
-isoorientin	"CCMSLIB00000222770"
-isoorientin	"CCMSLIB00000222771"
-isoorientin	"CCMSLIB00000223073"
-isoorientin	"CCMSLIB00000215502"
-isoorientin	"CCMSLIB00000215504"
-isoorientin	"CCMSLIB00000215506"
-isoorientin	"CCMSLIB00000215508"
-isoorientin	"CCMSLIB00000215510"
-isoorientin	"CCMSLIB00000221181"
-isoorientin	"CCMSLIB00000222098"
-isoquercetin	"CCMSLIB00000222794"
-isoquercetin	"CCMSLIB00000222795"
-isoquercetin	"CCMSLIB00000222796"
-isoquercetin	"CCMSLIB00000222797"
-isoquercetin	"CCMSLIB00000223081"
-isoquercetin	"CCMSLIB00000215662"
-isoquercetin	"CCMSLIB00000215664"
-isoquercetin	"CCMSLIB00000215666"
-isoquercetin	"CCMSLIB00000215668"
-isoquercetin	"CCMSLIB00000215670"
-isoquercetin	"CCMSLIB00000215672"
-isoquercetin	"CCMSLIB00000215674"
-isoquercetin	"CCMSLIB00000215676"
-isoquercetin	"CCMSLIB00000215678"
-isoquercetin	"CCMSLIB00000215680"
-isoquercetin	"CCMSLIB00000215682"
-isoquercetin	"CCMSLIB00000215684"
-isoquercetin	"CCMSLIB00000221197"
-isoquercetin	"CCMSLIB00000222115"
-isorhamnetin	"CCMSLIB00000222679"
-isorhamnetin	"CCMSLIB00000222681"
-isorhamnetin	"CCMSLIB00000223054"
-isorhamnetin	"CCMSLIB00000212003"
-isorhamnetin	"CCMSLIB00000215133"
-isorhamnetin	"CCMSLIB00000215135"
-isorhamnetin	"CCMSLIB00000215137"
-isorhamnetin	"CCMSLIB00000215139"
-isorhamnetin	"CCMSLIB00000221144"
-isorhamnetin	"CCMSLIB00000222044"
-isorhamnetin-3-beta-d-galactopyranoside	"CCMSLIB00000221170"
-isorhamnetin-3-beta-d-galactopyranoside	"CCMSLIB00000222075"
-isorhamnetin-3-beta-d-galactopyranoside	"CCMSLIB00000222077"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000222740"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000222742"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000223067"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000215362"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000215364"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000215366"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000215368"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000215370"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000215372"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000215374"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000215376"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000215378"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000215380"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000215382"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000221170"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000222075"
-isorhamnetin-3-o-glucoside	"CCMSLIB00000222077"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000222744"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000222746"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000222748"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000222750"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000223068"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000215384"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000215386"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000215388"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000215390"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000215392"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000215394"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000215397"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000215398"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000215400"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000215402"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000215404"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000215406"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000221172"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000222079"
-isorhamnetin-3-o-rutinoside	"CCMSLIB00000222081"
-isosakuranetin	"CCMSLIB00000217954"
-isosakuranetin	"CCMSLIB00000217956"
-isosakuranetin	"CCMSLIB00000217958"
-isosakuranetin	"CCMSLIB00000217960"
-isosakuranetin	"CCMSLIB00000217962"
-isosakuranetin	"CCMSLIB00000217964"
-isovaleric acid	"CCMSLIB00000219049"
-juniperic acid	"CCMSLIB00000221745"
-kaempferide	"CCMSLIB00000222687"
-kaempferide	"CCMSLIB00000222689"
-kaempferide	"CCMSLIB00000223056"
-kaempferide	"CCMSLIB00000215150"
-kaempferide	"CCMSLIB00000215152"
-kaempferide	"CCMSLIB00000215154"
-kaempferide	"CCMSLIB00000215156"
-kaempferide	"CCMSLIB00000215157"
-kaempferide	"CCMSLIB00000215159"
-kaempferide	"CCMSLIB00000215161"
-kaempferide	"CCMSLIB00000215163"
-kaempferide	"CCMSLIB00000221148"
-kaempferide	"CCMSLIB00000222048"
-kaempferitrin	"CCMSLIB00000221226"
-kaempferitrin	"CCMSLIB00000221493"
-kaempferitrin	"CCMSLIB00000221627"
-kaempferitrin	"CCMSLIB00000222148"
-kaempferitrin	"CCMSLIB00000222150"
-kaempferitrin	"CCMSLIB00000222488"
-kaempferitrin	"CCMSLIB00000222620"
-kaempferol	"CCMSLIB00000221567"
-kaempferol	"CCMSLIB00000221569"
-kaempferol	"CCMSLIB00000221571"
-kaempferol	"CCMSLIB00000221573"
-kaempferol	"CCMSLIB00000222188"
-kaempferol	"CCMSLIB00000222191"
-kaempferol	"CCMSLIB00000222193"
-kaempferol	"CCMSLIB00000222212"
-kaempferol	"CCMSLIB00000222214"
-kaempferol	"CCMSLIB00000222216"
-kaempferol	"CCMSLIB00000222218"
-kaempferol	"CCMSLIB00000222220"
-kaempferol	"CCMSLIB00000222683"
-kaempferol	"CCMSLIB00000222685"
-kaempferol	"CCMSLIB00000223055"
-kaempferol	"CCMSLIB00000212009"
-kaempferol	"CCMSLIB00000215141"
-kaempferol	"CCMSLIB00000215143"
-kaempferol	"CCMSLIB00000215145"
-kaempferol	"CCMSLIB00000215147"
-kaempferol	"CCMSLIB00000221146"
-kaempferol	"CCMSLIB00000222046"
-kaempferol-3-o-glucoside	"CCMSLIB00000222760"
-kaempferol-3-o-glucoside	"CCMSLIB00000222761"
-kaempferol-3-o-glucoside	"CCMSLIB00000222762"
-kaempferol-3-o-glucoside	"CCMSLIB00000223070"
-kaempferol-3-o-glucoside	"CCMSLIB00000223316"
-kaempferol-3-o-glucoside	"CCMSLIB00000215432"
-kaempferol-3-o-glucoside	"CCMSLIB00000215434"
-kaempferol-3-o-glucoside	"CCMSLIB00000215436"
-kaempferol-3-o-glucoside	"CCMSLIB00000215438"
-kaempferol-3-o-glucoside	"CCMSLIB00000215440"
-kaempferol-3-o-glucoside	"CCMSLIB00000215442"
-kaempferol-3-o-glucoside	"CCMSLIB00000215444"
-kaempferol-3-o-glucoside	"CCMSLIB00000215446"
-kaempferol-3-o-glucoside	"CCMSLIB00000215448"
-kaempferol-3-o-glucoside	"CCMSLIB00000215449"
-kaempferol-3-o-glucoside	"CCMSLIB00000215452"
-kaempferol-3-o-glucoside	"CCMSLIB00000221175"
-kaempferol-3-o-glucoside	"CCMSLIB00000222087"
-kaempferol-3-o-glucoside	"CCMSLIB00000222089"
-kaempferol-3-rhamnoside	"CCMSLIB00000223300"
-kaempferol-3-rhamnoside	"CCMSLIB00000223315"
-kaempferol-3-rhamnoside	"CCMSLIB00000218774"
-kaempferol-3-rhamnoside	"CCMSLIB00000218775"
-kaempferol-3-rhamnoside	"CCMSLIB00000218777"
-kaempferol-3-rhamnoside	"CCMSLIB00000218779"
-kaempferol-3-rhamnoside	"CCMSLIB00000218781"
-kaempferol-3-rhamnoside	"CCMSLIB00000218784"
-kaempferol-3-rhamnoside	"CCMSLIB00000218785"
-kaempferol-3-rhamnoside	"CCMSLIB00000218787"
-kaempferol-3-rhamnoside	"CCMSLIB00000218789"
-kaempferol-3-rhamnoside	"CCMSLIB00000218791"
-kaempferol-3-rhamnoside	"CCMSLIB00000221473"
-kaempferol-3-rhamnoside	"CCMSLIB00000222467"
-kinetin	"CCMSLIB00000221982"
-kinetin	"CCMSLIB00000221984"
-kinetin	"CCMSLIB00000221986"
-kinetin	"CCMSLIB00000221988"
-kinetin	"CCMSLIB00000222327"
-kinetin	"CCMSLIB00000222329"
-kinetin	"CCMSLIB00000222331"
-kinetin	"CCMSLIB00000211507"
-kynurenic acid	"CCMSLIB00000223230"
-kynurenic acid	"CCMSLIB00000219356"
-kynurenic acid	"CCMSLIB00000219358"
-kynurenic acid	"CCMSLIB00000219360"
-kynurenic acid	"CCMSLIB00000219362"
-kynurenic acid	"CCMSLIB00000219364"
-kynurenic acid	"CCMSLIB00000219366"
-kynurenic acid	"CCMSLIB00000221548"
-kynurenic acid	"CCMSLIB00000222559"
-kynurenine	"CCMSLIB00000219054"
-kynurenine	"CCMSLIB00000219056"
-kynurenine	"CCMSLIB00000219057"
-kynurenine	"CCMSLIB00000219059"
-kynurenine	"CCMSLIB00000219061"
-kynurenine	"CCMSLIB00000221227"
-l-alanine	"CCMSLIB00000216588"
-l-alanine	"CCMSLIB00000216590"
-l-alanine	"CCMSLIB00000216592"
-l-alanine	"CCMSLIB00000216594"
-l-alanine	"CCMSLIB00000216596"
-l-alanine	"CCMSLIB00000214057"
-l-alanine	"CCMSLIB00000214059"
-l-alanine	"CCMSLIB00000214061"
-l-alanine	"CCMSLIB00000214063"
-l-alanine	"CCMSLIB00000214065"
-l-alpha-alanine	"CCMSLIB00000214057"
-l-alpha-alanine	"CCMSLIB00000214059"
-l-alpha-alanine	"CCMSLIB00000214061"
-l-alpha-alanine	"CCMSLIB00000214063"
-l-alpha-alanine	"CCMSLIB00000214065"
-lanosterol	"CCMSLIB00000218496"
-l-arginine	"CCMSLIB00000216099"
-l-arginine	"CCMSLIB00000216101"
-l-arginine	"CCMSLIB00000216461"
-l-arginine	"CCMSLIB00000216463"
-l-arginine	"CCMSLIB00000216466"
-l-arginine	"CCMSLIB00000222987"
-l-arginine	"CCMSLIB00000222988"
-l-asparagine	"CCMSLIB00000216042"
-l-asparagine	"CCMSLIB00000216044"
-l-asparagine	"CCMSLIB00000216387"
-l-asparagine	"CCMSLIB00000216389"
-l-asparagine	"CCMSLIB00000216391"
-l-asparagine	"CCMSLIB00000214079"
-l-asparagine	"CCMSLIB00000214081"
-l-asparagine	"CCMSLIB00000214082"
-l-aspartic acid	"CCMSLIB00000216046"
-l-aspartic acid	"CCMSLIB00000216048"
-l-aspartic acid	"CCMSLIB00000216419"
-l-aspartic acid	"CCMSLIB00000216609"
-l-aspartic acid	"CCMSLIB00000216611"
-l-aspartic acid	"CCMSLIB00000216613"
-l-aspartic acid	"CCMSLIB00000216616"
-l-aspartic acid	"CCMSLIB00000216617"
-l-aspartic acid	"CCMSLIB00000214084"
-laudanosine	"CCMSLIB00000222333"
-laudanosine	"CCMSLIB00000222335"
-laudanosine	"CCMSLIB00000222337"
-leucine	"CCMSLIB00000221657"
-leucine	"CCMSLIB00000221659"
-leucine	"CCMSLIB00000221661"
-levodopa	"CCMSLIB00000216188"
-levodopa	"CCMSLIB00000216325"
-levodopa	"CCMSLIB00000222921"
-levodopa	"CCMSLIB00000222922"
-levodopa	"CCMSLIB00000213208"
-levodopa	"CCMSLIB00000213210"
-levodopa	"CCMSLIB00000213212"
-levodopa	"CCMSLIB00000220880"
-levodopa	"CCMSLIB00000220882"
-l-histidine	"CCMSLIB00000218622"
-l-histidine	"CCMSLIB00000218624"
-l-histidine	"CCMSLIB00000218627"
-l-histidine	"CCMSLIB00000218629"
-l-histidine	"CCMSLIB00000218631"
-l-histidine	"CCMSLIB00000222859"
-l-histidine	"CCMSLIB00000222860"
-l-histidine	"CCMSLIB00000223146"
-l-histidine	"CCMSLIB00000212546"
-l-histidine	"CCMSLIB00000212548"
-l-histidine	"CCMSLIB00000212549"
-l-histidine	"CCMSLIB00000212552"
-l-histidine	"CCMSLIB00000217166"
-l-histidine	"CCMSLIB00000217168"
-l-histidine	"CCMSLIB00000217170"
-l-histidine	"CCMSLIB00000217172"
-l-histidine	"CCMSLIB00000220756"
-l-histidine	"CCMSLIB00000220758"
-l-histidine	"CCMSLIB00000221339"
-l-histidine	"CCMSLIB00000221760"
-l-histidine	"CCMSLIB00000222288"
-l-homocysteine	"CCMSLIB00000216050"
-l-homocysteine	"CCMSLIB00000216457"
-l-homocysteine	"CCMSLIB00000216459"
-l-homoserine	"CCMSLIB00000216162"
-l-homoserine	"CCMSLIB00000216164"
-l-homoserine	"CCMSLIB00000216381"
-l-homoserine	"CCMSLIB00000216383"
-l-homoserine	"CCMSLIB00000223120"
-l-homoserine	"CCMSLIB00000216589"
-l-homoserine	"CCMSLIB00000216591"
-l-homoserine	"CCMSLIB00000216593"
-l-homoserine	"CCMSLIB00000221290"
-l-homoserine	"CCMSLIB00000222230"
-licochalcone b	"CCMSLIB00000212285"
-lignoceric acid	"CCMSLIB00000223261"
-lignoceric acid	"CCMSLIB00000217002"
-lignoceric acid	"CCMSLIB00000217007"
-lignoceric acid	"CCMSLIB00000221633"
-linarin	"CCMSLIB00000223180"
-linarin	"CCMSLIB00000217990"
-linarin	"CCMSLIB00000217993"
-linarin	"CCMSLIB00000217995"
-linarin	"CCMSLIB00000217997"
-linarin	"CCMSLIB00000217999"
-linarin	"CCMSLIB00000218001"
-linarin	"CCMSLIB00000218003"
-linarin	"CCMSLIB00000218005"
-linarin	"CCMSLIB00000218007"
-linarin	"CCMSLIB00000218009"
-linarin	"CCMSLIB00000218011"
-linarin	"CCMSLIB00000221408"
-linarin	"CCMSLIB00000222380"
-linoleic acid	"CCMSLIB00000214175"
-linoleic acid	"CCMSLIB00000214177"
-linoleic acid	"CCMSLIB00000214179"
-linoleic acid	"CCMSLIB00000214181"
-liquiritin	"CCMSLIB00000212278"
-liquiritin apioside	"CCMSLIB00000212274"
-liquiritin apioside	"CCMSLIB00000212276"
-l-leucine	"CCMSLIB00000216141"
-l-leucine	"CCMSLIB00000216143"
-l-leucine	"CCMSLIB00000216145"
-l-leucine	"CCMSLIB00000216393"
-l-leucine	"CCMSLIB00000216395"
-l-leucine	"CCMSLIB00000216397"
-l-leucine	"CCMSLIB00000219074"
-l-leucine	"CCMSLIB00000219076"
-l-leucine	"CCMSLIB00000219078"
-l-leucine	"CCMSLIB00000219080"
-l-leucine	"CCMSLIB00000219082"
-l-tyrosine	"CCMSLIB00000216184"
-l-tyrosine	"CCMSLIB00000216186"
-l-tyrosine	"CCMSLIB00000216297"
-l-tyrosine	"CCMSLIB00000216299"
-l-tyrosine	"CCMSLIB00000216301"
-l-tyrosine	"CCMSLIB00000220655"
-l-tyrosine	"CCMSLIB00000220657"
-l-tyrosine	"CCMSLIB00000220659"
-l-tyrosine	"CCMSLIB00000220661"
-l-tyrosine	"CCMSLIB00000220663"
-l-tyrosine	"CCMSLIB00000222866"
-l-tyrosine	"CCMSLIB00000222867"
-l-tyrosine	"CCMSLIB00000212591"
-l-tyrosine	"CCMSLIB00000212593"
-l-tyrosine	"CCMSLIB00000212594"
-l-tyrosine	"CCMSLIB00000212596"
-l-tyrosine	"CCMSLIB00000212598"
-l-tyrosine	"CCMSLIB00000220771"
-l-tyrosine	"CCMSLIB00000220773"
-l-tyrosine	"CCMSLIB00000221768"
-lumichrome	"CCMSLIB00000221229"
-lutein	"CCMSLIB00000205514"
-luteolin	"CCMSLIB00000222006"
-luteolin	"CCMSLIB00000222009"
-luteolin	"CCMSLIB00000222011"
-luteolin	"CCMSLIB00000222013"
-luteolin	"CCMSLIB00000222691"
-luteolin	"CCMSLIB00000222693"
-luteolin	"CCMSLIB00000223057"
-luteolin	"CCMSLIB00000223058"
-luteolin	"CCMSLIB00000212005"
-luteolin	"CCMSLIB00000215164"
-luteolin	"CCMSLIB00000215165"
-luteolin	"CCMSLIB00000215166"
-luteolin	"CCMSLIB00000215168"
-luteolin	"CCMSLIB00000215170"
-luteolin	"CCMSLIB00000215172"
-luteolin	"CCMSLIB00000215174"
-luteolin	"CCMSLIB00000215176"
-luteolin	"CCMSLIB00000215178"
-luteolin	"CCMSLIB00000221150"
-luteolin	"CCMSLIB00000221152"
-luteolin	"CCMSLIB00000222050"
-luteolin	"CCMSLIB00000222052"
-luteolin 7-beta-d-glucopyranoside	"CCMSLIB00000223348"
-luteolin-4'-o-glucoside	"CCMSLIB00000223182"
-luteolin-4'-o-glucoside	"CCMSLIB00000218037"
-luteolin-4'-o-glucoside	"CCMSLIB00000218039"
-luteolin-4'-o-glucoside	"CCMSLIB00000218041"
-luteolin-4'-o-glucoside	"CCMSLIB00000218043"
-luteolin-4'-o-glucoside	"CCMSLIB00000218045"
-luteolin-4'-o-glucoside	"CCMSLIB00000218047"
-luteolin-4'-o-glucoside	"CCMSLIB00000218049"
-luteolin-4'-o-glucoside	"CCMSLIB00000218051"
-luteolin-4'-o-glucoside	"CCMSLIB00000218053"
-luteolin-4'-o-glucoside	"CCMSLIB00000218054"
-luteolin-4'-o-glucoside	"CCMSLIB00000218056"
-luteolin-4'-o-glucoside	"CCMSLIB00000218059"
-luteolin-4'-o-glucoside	"CCMSLIB00000221411"
-luteolin-4'-o-glucoside	"CCMSLIB00000222384"
-luteolin-7-o-glucoside	"CCMSLIB00000222772"
-luteolin-7-o-glucoside	"CCMSLIB00000222773"
-luteolin-7-o-glucoside	"CCMSLIB00000222774"
-luteolin-7-o-glucoside	"CCMSLIB00000223074"
-luteolin-7-o-glucoside	"CCMSLIB00000215513"
-luteolin-7-o-glucoside	"CCMSLIB00000215514"
-luteolin-7-o-glucoside	"CCMSLIB00000215516"
-luteolin-7-o-glucoside	"CCMSLIB00000215518"
-luteolin-7-o-glucoside	"CCMSLIB00000215520"
-luteolin-7-o-glucoside	"CCMSLIB00000215522"
-luteolin-7-o-glucoside	"CCMSLIB00000215525"
-luteolin-7-o-glucoside	"CCMSLIB00000215526"
-luteolin-7-o-glucoside	"CCMSLIB00000215528"
-luteolin-7-o-glucoside	"CCMSLIB00000215530"
-luteolin-7-o-glucoside	"CCMSLIB00000215532"
-luteolin-7-o-glucoside	"CCMSLIB00000215534"
-luteolin-7-o-glucoside	"CCMSLIB00000221183"
-luteolin-7-o-glucoside	"CCMSLIB00000222100"
-luteoloside	"CCMSLIB00000223074"
-luteoloside	"CCMSLIB00000215513"
-luteoloside	"CCMSLIB00000215514"
-luteoloside	"CCMSLIB00000215516"
-luteoloside	"CCMSLIB00000215518"
-luteoloside	"CCMSLIB00000215520"
-luteoloside	"CCMSLIB00000215522"
-luteoloside	"CCMSLIB00000215525"
-luteoloside	"CCMSLIB00000215526"
-luteoloside	"CCMSLIB00000215528"
-luteoloside	"CCMSLIB00000215530"
-luteoloside	"CCMSLIB00000215532"
-luteoloside	"CCMSLIB00000215534"
-luteoloside	"CCMSLIB00000221183"
-luteoloside	"CCMSLIB00000222100"
-l-valine	"CCMSLIB00000216022"
-l-valine	"CCMSLIB00000216025"
-l-valine	"CCMSLIB00000216027"
-l-valine	"CCMSLIB00000216253"
-l-valine	"CCMSLIB00000216255"
-l-valine	"CCMSLIB00000216260"
-l-valine	"CCMSLIB00000223006"
-l-valine	"CCMSLIB00000214276"
-l-valine	"CCMSLIB00000214278"
-l-valine	"CCMSLIB00000214280"
-l-valine	"CCMSLIB00000214282"
-l-valine	"CCMSLIB00000221046"
-l-valine	"CCMSLIB00000221940"
-lycine	"CCMSLIB00000223266"
-lycine	"CCMSLIB00000223267"
-lycine	"CCMSLIB00000219928"
-lycine	"CCMSLIB00000219930"
-lycine	"CCMSLIB00000219932"
-lycine	"CCMSLIB00000219934"
-lycine	"CCMSLIB00000219936"
-lycine	"CCMSLIB00000219938"
-lycine	"CCMSLIB00000221642"
-lycine	"CCMSLIB00000221644"
-lysine	"CCMSLIB00000221727"
-lysine	"CCMSLIB00000221730"
-lysine	"CCMSLIB00000221732"
-lysine	"CCMSLIB00000221734"
-lysine	"CCMSLIB00000221736"
-lysine acid	"CCMSLIB00000216071"
-lysine acid	"CCMSLIB00000216073"
-lysine acid	"CCMSLIB00000216075"
-lysine acid	"CCMSLIB00000216291"
-lysine acid	"CCMSLIB00000219084"
-lysine acid	"CCMSLIB00000219086"
-lysine acid	"CCMSLIB00000219088"
-lysine acid	"CCMSLIB00000219090"
-lysine acid	"CCMSLIB00000219091"
-lysine acid	"CCMSLIB00000222997"
-lysine acid	"CCMSLIB00000223147"
-lysine acid	"CCMSLIB00000217174"
-lysine acid	"CCMSLIB00000217176"
-lysine acid	"CCMSLIB00000217178"
-lysine acid	"CCMSLIB00000217180"
-lysine acid	"CCMSLIB00000217182"
-lysine acid	"CCMSLIB00000221028"
-lysine acid	"CCMSLIB00000221341"
-lysine acid	"CCMSLIB00000222290"
-malonic acid	"CCMSLIB00000214284"
-malvin	"CCMSLIB00000223171"
-m-coumaric acid	"CCMSLIB00000217369"
-m-coumaric acid	"CCMSLIB00000217371"
-m-coumaric acid	"CCMSLIB00000217373"
-m-coumaric acid	"CCMSLIB00000222309"
-m-coumaric acid	"CCMSLIB00000222311"
-melatonin	"CCMSLIB00000219389"
-melatonin	"CCMSLIB00000219391"
-melatonin	"CCMSLIB00000219393"
-melatonin	"CCMSLIB00000219395"
-melatonin	"CCMSLIB00000219397"
-melatonin	"CCMSLIB00000221260"
-melatonin	"CCMSLIB00000220682"
-melatonin	"CCMSLIB00000220684"
-melatonin	"CCMSLIB00000220686"
-melatonin	"CCMSLIB00000220688"
-melatonin	"CCMSLIB00000220691"
-meletin	"CCMSLIB00000223060"
-meletin	"CCMSLIB00000215231"
-meletin	"CCMSLIB00000215233"
-meletin	"CCMSLIB00000215235"
-meletin	"CCMSLIB00000215237"
-meletin	"CCMSLIB00000215239"
-meletin	"CCMSLIB00000221155"
-meletin	"CCMSLIB00000222056"
-mesaconic acid	"CCMSLIB00000212739"
-mesaconic acid	"CCMSLIB00000212741"
-mesaconic acid	"CCMSLIB00000212743"
-mesaconic acid	"CCMSLIB00000212745"
-mesaconic acid	"CCMSLIB00000217321"
-mesaconic acid	"CCMSLIB00000217323"
-mesaconic acid	"CCMSLIB00000217328"
-mesaconic acid	"CCMSLIB00000217330"
-mesaconic acid	"CCMSLIB00000217332"
-mesaconic acid	"CCMSLIB00000221787"
-mesaconic acid	"CCMSLIB00000222300"
-methionine	"CCMSLIB00000216080"
-methionine	"CCMSLIB00000216082"
-methionine	"CCMSLIB00000216084"
-methionine	"CCMSLIB00000216341"
-methionine	"CCMSLIB00000216343"
-methionine	"CCMSLIB00000216345"
-methionine	"CCMSLIB00000221756"
-methionine	"CCMSLIB00000221758"
-methionine	"CCMSLIB00000221761"
-methionine	"CCMSLIB00000221763"
-methyl dihydrojasmonate	"CCMSLIB00000218491"
-methyl dihydrojasmonate	"CCMSLIB00000222427"
-methyl octadecanoate	"CCMSLIB00000216193"
-methyl octadecanoate	"CCMSLIB00000216194"
-methyl salicylate	"CCMSLIB00000220510"
-methyl salicylate	"CCMSLIB00000222739"
-methyl stearate	"CCMSLIB00000216193"
-methyl stearate	"CCMSLIB00000216194"
-methylprednisolone	"CCMSLIB00000209908"
-methylprednisolone	"CCMSLIB00000209910"
-methylprednisolone	"CCMSLIB00000209912"
-methylprednisolone	"CCMSLIB00000209914"
-methylprednisolone	"CCMSLIB00000209916"
-methylprednisolone	"CCMSLIB00000209918"
-methylprednisolone	"CCMSLIB00000209920"
-methylprednisolone	"CCMSLIB00000209923"
-methylprednisolone	"CCMSLIB00000209925"
-methylprednisolone	"CCMSLIB00000209927"
-methylprednisolone	"CCMSLIB00000209929"
-methylprednisolone	"CCMSLIB00000209931"
-methylprednisolone	"CCMSLIB00000209933"
-methylprednisolone	"CCMSLIB00000209935"
-metolachlor	"CCMSLIB00000207918"
-metolachlor	"CCMSLIB00000207919"
-metolachlor	"CCMSLIB00000207920"
-metolachlor	"CCMSLIB00000207921"
-metolachlor	"CCMSLIB00000207922"
-metolachlor	"CCMSLIB00000207923"
-metolachlor	"CCMSLIB00000207924"
-metolachlor	"CCMSLIB00000207925"
-metolachlor	"CCMSLIB00000207926"
-metolachlor	"CCMSLIB00000207927"
-metolachlor	"CCMSLIB00000207928"
-metolachlor	"CCMSLIB00000207929"
-metolachlor	"CCMSLIB00000207930"
-metolachlor	"CCMSLIB00000207931"
-metolachlor	"CCMSLIB00000223511"
-metolachlor	"CCMSLIB00000223512"
-metolachlor	"CCMSLIB00000223513"
-metolachlor	"CCMSLIB00000223514"
-miltirone	"CCMSLIB00000212272"
-miscanthoside	"CCMSLIB00000223066"
-miscanthoside	"CCMSLIB00000215338"
-miscanthoside	"CCMSLIB00000215340"
-miscanthoside	"CCMSLIB00000215343"
-miscanthoside	"CCMSLIB00000215345"
-miscanthoside	"CCMSLIB00000215346"
-miscanthoside	"CCMSLIB00000215348"
-miscanthoside	"CCMSLIB00000215350"
-miscanthoside	"CCMSLIB00000215352"
-miscanthoside	"CCMSLIB00000215354"
-miscanthoside	"CCMSLIB00000215356"
-miscanthoside	"CCMSLIB00000215359"
-miscanthoside	"CCMSLIB00000215361"
-miscanthoside	"CCMSLIB00000221168"
-miscanthoside	"CCMSLIB00000222074"
-monodydroxytanshinone i	"CCMSLIB00000212253"
-morin	"CCMSLIB00000211996"
-morphine	"CCMSLIB00000210680"
-morphine	"CCMSLIB00000210682"
-morphine	"CCMSLIB00000210684"
-morphine	"CCMSLIB00000210686"
-morphine	"CCMSLIB00000210688"
-morphine	"CCMSLIB00000210690"
-morphine	"CCMSLIB00000210692"
-morphine	"CCMSLIB00000210694"
-morphine	"CCMSLIB00000210696"
-morphine	"CCMSLIB00000210698"
-morphine	"CCMSLIB00000210700"
-morphine	"CCMSLIB00000210702"
-morphine	"CCMSLIB00000210705"
-morphine	"CCMSLIB00000210707"
-mucic acid	"CCMSLIB00000219509"
-mucic acid	"CCMSLIB00000219511"
-mucic acid	"CCMSLIB00000222585"
-myo-inositol	"CCMSLIB00000212602"
-myricetin	"CCMSLIB00000222695"
-myricetin	"CCMSLIB00000222697"
-myricetin	"CCMSLIB00000212007"
-myricetin	"CCMSLIB00000215184"
-myricetin	"CCMSLIB00000215186"
-myricetin	"CCMSLIB00000215188"
-myricetin	"CCMSLIB00000215190"
-myricetin	"CCMSLIB00000215192"
-myricetin	"CCMSLIB00000215194"
-myricetin	"CCMSLIB00000215195"
-myricetin	"CCMSLIB00000215197"
-myricitrin	"CCMSLIB00000222775"
-myricitrin	"CCMSLIB00000222776"
-myricitrin	"CCMSLIB00000222777"
-myricitrin	"CCMSLIB00000223075"
-myricitrin	"CCMSLIB00000223318"
-myricitrin	"CCMSLIB00000215536"
-myricitrin	"CCMSLIB00000215538"
-myricitrin	"CCMSLIB00000215540"
-myricitrin	"CCMSLIB00000215542"
-myricitrin	"CCMSLIB00000215544"
-myricitrin	"CCMSLIB00000215546"
-myricitrin	"CCMSLIB00000215548"
-myricitrin	"CCMSLIB00000215550"
-myricitrin	"CCMSLIB00000215552"
-myricitrin	"CCMSLIB00000215554"
-myricitrin	"CCMSLIB00000215556"
-myricitrin	"CCMSLIB00000218841"
-myricitrin	"CCMSLIB00000218842"
-myricitrin	"CCMSLIB00000218845"
-myricitrin	"CCMSLIB00000218847"
-myricitrin	"CCMSLIB00000218849"
-myricitrin	"CCMSLIB00000218851"
-myricitrin	"CCMSLIB00000218853"
-myricitrin	"CCMSLIB00000218856"
-myricitrin	"CCMSLIB00000218858"
-myricitrin	"CCMSLIB00000218859"
-myricitrin	"CCMSLIB00000221185"
-myricitrin	"CCMSLIB00000221479"
-myricitrin	"CCMSLIB00000222102"
-myricitrin	"CCMSLIB00000222473"
-narcissin	"CCMSLIB00000222744"
-narcissin	"CCMSLIB00000222746"
-narcissin	"CCMSLIB00000222748"
-narcissin	"CCMSLIB00000222750"
-narcissin	"CCMSLIB00000223068"
-narcissin	"CCMSLIB00000215384"
-narcissin	"CCMSLIB00000215386"
-narcissin	"CCMSLIB00000215388"
-narcissin	"CCMSLIB00000215390"
-narcissin	"CCMSLIB00000215392"
-narcissin	"CCMSLIB00000215394"
-narcissin	"CCMSLIB00000215397"
-narcissin	"CCMSLIB00000215398"
-narcissin	"CCMSLIB00000215400"
-narcissin	"CCMSLIB00000215402"
-narcissin	"CCMSLIB00000215404"
-narcissin	"CCMSLIB00000215406"
-narcissin	"CCMSLIB00000218568"
-narcissin	"CCMSLIB00000218570"
-narcissin	"CCMSLIB00000218572"
-narcissin	"CCMSLIB00000218574"
-narcissin	"CCMSLIB00000218576"
-narcissin	"CCMSLIB00000218578"
-narcissin	"CCMSLIB00000218580"
-narcissin	"CCMSLIB00000218582"
-narcissin	"CCMSLIB00000218584"
-narcissin	"CCMSLIB00000218585"
-narcissin	"CCMSLIB00000218587"
-narcissin	"CCMSLIB00000218589"
-narcissin	"CCMSLIB00000221172"
-narcissin	"CCMSLIB00000221454"
-narcissin	"CCMSLIB00000222079"
-narcissin	"CCMSLIB00000222081"
-narcissin	"CCMSLIB00000222434"
-narcissin	"CCMSLIB00000222436"
-naringenin	"CCMSLIB00000221551"
-naringenin	"CCMSLIB00000221553"
-naringenin	"CCMSLIB00000221555"
-naringenin	"CCMSLIB00000221557"
-naringenin	"CCMSLIB00000222698"
-naringenin	"CCMSLIB00000222701"
-naringenin	"CCMSLIB00000215199"
-naringenin	"CCMSLIB00000215201"
-naringenin	"CCMSLIB00000215203"
-naringenin	"CCMSLIB00000215205"
-naringenin	"CCMSLIB00000215207"
-naringenin	"CCMSLIB00000215209"
-naringenin	"CCMSLIB00000215211"
-naringenin	"CCMSLIB00000215213"
-naringenin	"CCMSLIB00000215215"
-naringenin	"CCMSLIB00000215217"
-naringenin	"CCMSLIB00000218109"
-naringenin	"CCMSLIB00000218112"
-naringenin	"CCMSLIB00000218114"
-naringenin	"CCMSLIB00000218115"
-naringenin	"CCMSLIB00000218117"
-naringenin	"CCMSLIB00000218119"
-naringenin	"CCMSLIB00000218121"
-naringenin	"CCMSLIB00000218123"
-naringenin	"CCMSLIB00000218125"
-naringenin	"CCMSLIB00000218127"
-naringenin-7-o-glucoside	"CCMSLIB00000222778"
-naringenin-7-o-glucoside	"CCMSLIB00000222779"
-naringenin-7-o-glucoside	"CCMSLIB00000222780"
-naringenin-7-o-glucoside	"CCMSLIB00000222781"
-naringenin-7-o-glucoside	"CCMSLIB00000223076"
-naringenin-7-o-glucoside	"CCMSLIB00000215558"
-naringenin-7-o-glucoside	"CCMSLIB00000215560"
-naringenin-7-o-glucoside	"CCMSLIB00000215562"
-naringenin-7-o-glucoside	"CCMSLIB00000215564"
-naringenin-7-o-glucoside	"CCMSLIB00000215567"
-naringenin-7-o-glucoside	"CCMSLIB00000215568"
-naringenin-7-o-glucoside	"CCMSLIB00000215571"
-naringenin-7-o-glucoside	"CCMSLIB00000215572"
-naringenin-7-o-glucoside	"CCMSLIB00000215574"
-naringenin-7-o-glucoside	"CCMSLIB00000215576"
-naringenin-7-o-glucoside	"CCMSLIB00000215579"
-naringenin-7-o-glucoside	"CCMSLIB00000221187"
-naringenin-7-o-glucoside	"CCMSLIB00000222104"
-naringin	"CCMSLIB00000222023"
-naringin	"CCMSLIB00000222025"
-naringin	"CCMSLIB00000222026"
-naringin	"CCMSLIB00000222029"
-naringin	"CCMSLIB00000222031"
-naringin	"CCMSLIB00000222033"
-naringin	"CCMSLIB00000222035"
-naringin	"CCMSLIB00000222243"
-naringin	"CCMSLIB00000222245"
-naringin	"CCMSLIB00000222247"
-naringin	"CCMSLIB00000222249"
-naringin	"CCMSLIB00000222251"
-neoeriocitrin	"CCMSLIB00000218153"
-neoeriocitrin	"CCMSLIB00000218154"
-neoeriocitrin	"CCMSLIB00000218157"
-neoeriocitrin	"CCMSLIB00000218158"
-neoeriocitrin	"CCMSLIB00000218160"
-neoeriocitrin	"CCMSLIB00000218162"
-neoeriocitrin	"CCMSLIB00000218164"
-neoeriocitrin	"CCMSLIB00000218166"
-neoeriocitrin	"CCMSLIB00000218168"
-neoeriocitrin	"CCMSLIB00000218170"
-neohesperidin	"CCMSLIB00000218172"
-neohesperidin	"CCMSLIB00000218174"
-neohesperidin	"CCMSLIB00000218176"
-neohesperidin	"CCMSLIB00000218177"
-neohesperidin	"CCMSLIB00000218179"
-neohesperidin	"CCMSLIB00000218181"
-neohesperidin	"CCMSLIB00000218183"
-neohesperidin	"CCMSLIB00000218185"
-neohesperidin	"CCMSLIB00000218187"
-neohesperidin	"CCMSLIB00000218189"
-neohesperidin	"CCMSLIB00000218191"
-niacinamide	"CCMSLIB00000223010"
-niacinamide	"CCMSLIB00000223011"
-niacinamide	"CCMSLIB00000223225"
-niacinamide	"CCMSLIB00000223226"
-niacinamide	"CCMSLIB00000214374"
-niacinamide	"CCMSLIB00000214376"
-niacinamide	"CCMSLIB00000214378"
-niacinamide	"CCMSLIB00000214380"
-niacinamide	"CCMSLIB00000219298"
-niacinamide	"CCMSLIB00000219299"
-niacinamide	"CCMSLIB00000219302"
-niacinamide	"CCMSLIB00000219303"
-niacinamide	"CCMSLIB00000219305"
-niacinamide	"CCMSLIB00000221056"
-niacinamide	"CCMSLIB00000221058"
-niacinamide	"CCMSLIB00000221539"
-niacinamide	"CCMSLIB00000221541"
-nicotiflorin	"CCMSLIB00000222763"
-nicotiflorin	"CCMSLIB00000222764"
-nicotiflorin	"CCMSLIB00000222765"
-nicotiflorin	"CCMSLIB00000222766"
-nicotiflorin	"CCMSLIB00000223071"
-nicotiflorin	"CCMSLIB00000215454"
-nicotiflorin	"CCMSLIB00000215456"
-nicotiflorin	"CCMSLIB00000215457"
-nicotiflorin	"CCMSLIB00000215459"
-nicotiflorin	"CCMSLIB00000215461"
-nicotiflorin	"CCMSLIB00000215463"
-nicotiflorin	"CCMSLIB00000215465"
-nicotiflorin	"CCMSLIB00000215467"
-nicotiflorin	"CCMSLIB00000215469"
-nicotiflorin	"CCMSLIB00000215471"
-nicotiflorin	"CCMSLIB00000215473"
-nicotiflorin	"CCMSLIB00000215475"
-nicotiflorin	"CCMSLIB00000221177"
-nicotiflorin	"CCMSLIB00000222091"
-nicotiflorin	"CCMSLIB00000222093"
-nicotinamide	"CCMSLIB00000219694"
-nicotinamide	"CCMSLIB00000219696"
-nicotinamide	"CCMSLIB00000219698"
-nicotinamide	"CCMSLIB00000219700"
-nicotinamide	"CCMSLIB00000219702"
-nicotinamide	"CCMSLIB00000223010"
-nicotinamide	"CCMSLIB00000223011"
-nicotinamide	"CCMSLIB00000223225"
-nicotinamide	"CCMSLIB00000223226"
-nicotinamide	"CCMSLIB00000214374"
-nicotinamide	"CCMSLIB00000214376"
-nicotinamide	"CCMSLIB00000214378"
-nicotinamide	"CCMSLIB00000214380"
-nicotinamide	"CCMSLIB00000219298"
-nicotinamide	"CCMSLIB00000219299"
-nicotinamide	"CCMSLIB00000219302"
-nicotinamide	"CCMSLIB00000219303"
-nicotinamide	"CCMSLIB00000219305"
-nicotinamide	"CCMSLIB00000221056"
-nicotinamide	"CCMSLIB00000221058"
-nicotinamide	"CCMSLIB00000221539"
-nicotinamide	"CCMSLIB00000221541"
-nicotine	"CCMSLIB00000219734"
-nicotine	"CCMSLIB00000219736"
-nicotine	"CCMSLIB00000219738"
-nicotine	"CCMSLIB00000219740"
-nicotine	"CCMSLIB00000219742"
-nicotinic acid	"CCMSLIB00000222876"
-nicotinic acid	"CCMSLIB00000222877"
-nicotinic acid	"CCMSLIB00000212682"
-nicotinic acid	"CCMSLIB00000212684"
-nicotinic acid	"CCMSLIB00000212686"
-nicotinic acid	"CCMSLIB00000220791"
-nicotinic acid	"CCMSLIB00000221777"
-noradrenaline	"CCMSLIB00000219755"
-noradrenaline	"CCMSLIB00000219757"
-noradrenaline	"CCMSLIB00000219759"
-noradrenaline	"CCMSLIB00000219761"
-noradrenaline	"CCMSLIB00000219763"
-norvaline	"CCMSLIB00000219714"
-norvaline	"CCMSLIB00000219716"
-norvaline	"CCMSLIB00000219718"
-norvaline	"CCMSLIB00000219719"
-norvaline	"CCMSLIB00000219721"
-notoginsenoside r1	"CCMSLIB00000210068"
-o-aminophenol	"CCMSLIB00000217033"
-o-aminophenol	"CCMSLIB00000217035"
-o-aminophenol	"CCMSLIB00000217037"
-o-aminophenol	"CCMSLIB00000217039"
-o-aminophenol	"CCMSLIB00000217041"
-o-coumaric acid	"CCMSLIB00000223014"
-o-coumaric acid	"CCMSLIB00000214425"
-o-coumaric acid	"CCMSLIB00000214427"
-o-coumaric acid	"CCMSLIB00000214429"
-o-coumaric acid	"CCMSLIB00000214431"
-o-coumaric acid	"CCMSLIB00000221063"
-o-coumaric acid	"CCMSLIB00000221951"
-oenin	"CCMSLIB00000223172"
-oenin	"CCMSLIB00000217780"
-oenin	"CCMSLIB00000217782"
-oenin	"CCMSLIB00000217784"
-oenin	"CCMSLIB00000217786"
-oenin	"CCMSLIB00000217788"
-oenin	"CCMSLIB00000217790"
-oenin	"CCMSLIB00000221391"
-oenin	"CCMSLIB00000222357"
-oleic acid	"CCMSLIB00000214433"
-oleic acid	"CCMSLIB00000214436"
-ononin	"CCMSLIB00000222015"
-ononin	"CCMSLIB00000222017"
-ononin	"CCMSLIB00000222019"
-ononin	"CCMSLIB00000222021"
-ononin	"CCMSLIB00000223186"
-ononin	"CCMSLIB00000218216"
-ononin	"CCMSLIB00000218218"
-ononin	"CCMSLIB00000218220"
-ononin	"CCMSLIB00000218222"
-ononin	"CCMSLIB00000218224"
-ononin	"CCMSLIB00000218226"
-ononin	"CCMSLIB00000221419"
-ononin	"CCMSLIB00000222392"
-ononin	"CCMSLIB00000222394"
-o-phenylenediol	"CCMSLIB00000215078"
-o-phenylenediol	"CCMSLIB00000215080"
-o-phenylenediol	"CCMSLIB00000222034"
-o-phenylenediol	"CCMSLIB00000222036"
-orientin	"CCMSLIB00000218228"
-orientin	"CCMSLIB00000218230"
-orientin	"CCMSLIB00000218232"
-orientin	"CCMSLIB00000218234"
-orientin	"CCMSLIB00000218236"
-orientin	"CCMSLIB00000218237"
-orientin	"CCMSLIB00000218240"
-orientin	"CCMSLIB00000218241"
-orientin	"CCMSLIB00000218243"
-orientin	"CCMSLIB00000218245"
-orotic acid	"CCMSLIB00000223015"
-oxalacetic acid	"CCMSLIB00000216173"
-oxalacetic acid	"CCMSLIB00000216175"
-paeoniflorin	"CCMSLIB00000223361"
-paeonin	"CCMSLIB00000223281"
-paeonin	"CCMSLIB00000221691"
-paeonin	"CCMSLIB00000222716"
-palmatine	"CCMSLIB00000220153"
-palmatine	"CCMSLIB00000220156"
-palmatine	"CCMSLIB00000220158"
-palmatine	"CCMSLIB00000220160"
-palmatine	"CCMSLIB00000220162"
-palmatine	"CCMSLIB00000221340"
-palmitoleic acid	"CCMSLIB00000216388"
-palmitoleic acid	"CCMSLIB00000216390"
-pantothenic acid	"CCMSLIB00000219913"
-pantothenic acid	"CCMSLIB00000219915"
-pantothenic acid	"CCMSLIB00000219917"
-pantothenic acid	"CCMSLIB00000219919"
-pantothenic acid	"CCMSLIB00000219921"
-pantothenic acid	"CCMSLIB00000221329"
-p-coumaric acid	"CCMSLIB00000223088"
-p-coumaric acid	"CCMSLIB00000212063"
-p-coumaric acid	"CCMSLIB00000212065"
-p-coumaric acid	"CCMSLIB00000219902"
-p-coumaric acid	"CCMSLIB00000219904"
-p-coumaric acid	"CCMSLIB00000219906"
-p-coumaric acid	"CCMSLIB00000219908"
-p-coumaric acid	"CCMSLIB00000219910"
-p-coumaric acid	"CCMSLIB00000219912"
-p-coumaric acid	"CCMSLIB00000222635"
-p-coumaric acid	"CCMSLIB00000222637"
-pelargonidin	"CCMSLIB00000216414"
-pentanoate	"CCMSLIB00000214421"
-pentanoate	"CCMSLIB00000214423"
-pentanoic acid	"CCMSLIB00000214421"
-pentanoic acid	"CCMSLIB00000214423"
-peonidin	"CCMSLIB00000220250"
-peonidin	"CCMSLIB00000220252"
-peonidin	"CCMSLIB00000222694"
-peoniflorin	"CCMSLIB00000223361"
-peonin	"CCMSLIB00000223281"
-peonin	"CCMSLIB00000220369"
-peonin	"CCMSLIB00000220371"
-peonin	"CCMSLIB00000220373"
-peonin	"CCMSLIB00000220374"
-peonin	"CCMSLIB00000220376"
-peonin	"CCMSLIB00000220378"
-peonin	"CCMSLIB00000221691"
-peonin	"CCMSLIB00000222716"
-petunidin	"CCMSLIB00000223272"
-petunidin	"CCMSLIB00000220258"
-petunidin	"CCMSLIB00000220259"
-petunidin	"CCMSLIB00000220261"
-petunidin	"CCMSLIB00000221673"
-phenethylamine	"CCMSLIB00000220002"
-phenethylamine	"CCMSLIB00000220004"
-phenethylamine	"CCMSLIB00000220005"
-phenethylamine	"CCMSLIB00000220007"
-phenethylamine	"CCMSLIB00000220009"
-phenethylamine	"CCMSLIB00000220112"
-phenethylamine	"CCMSLIB00000220114"
-phenethylamine	"CCMSLIB00000220116"
-phenethylamine	"CCMSLIB00000220118"
-phenethylamine	"CCMSLIB00000220120"
-phenylalanine	"CCMSLIB00000221688"
-phenylalanine	"CCMSLIB00000221690"
-phenylalanine	"CCMSLIB00000221693"
-phenylalanine	"CCMSLIB00000222453"
-phenylalanine	"CCMSLIB00000222455"
-phenylalanine	"CCMSLIB00000222457"
-phloretic acid	"CCMSLIB00000219943"
-phloretin	"CCMSLIB00000221999"
-phloretin	"CCMSLIB00000222000"
-phloretin	"CCMSLIB00000222002"
-phloretin	"CCMSLIB00000222004"
-phloretin	"CCMSLIB00000223349"
-phloridzin	"CCMSLIB00000218247"
-phloridzin	"CCMSLIB00000218249"
-phloridzin	"CCMSLIB00000218251"
-phloridzin	"CCMSLIB00000218253"
-phloridzin	"CCMSLIB00000218255"
-phloridzin	"CCMSLIB00000218257"
-phloridzin	"CCMSLIB00000218259"
-phloridzin	"CCMSLIB00000218261"
-phloridzin	"CCMSLIB00000218263"
-phloridzin	"CCMSLIB00000218265"
-phloridzin	"CCMSLIB00000218267"
-phlorizin	"CCMSLIB00000222511"
-phlorizin	"CCMSLIB00000222513"
-phlorizin	"CCMSLIB00000222516"
-phlorizin	"CCMSLIB00000218247"
-phlorizin	"CCMSLIB00000218249"
-phlorizin	"CCMSLIB00000218251"
-phlorizin	"CCMSLIB00000218253"
-phlorizin	"CCMSLIB00000218255"
-phlorizin	"CCMSLIB00000218257"
-phlorizin	"CCMSLIB00000218259"
-phlorizin	"CCMSLIB00000218261"
-phlorizin	"CCMSLIB00000218263"
-phlorizin	"CCMSLIB00000218265"
-phlorizin	"CCMSLIB00000218267"
-phosphoenolpyruvate	"CCMSLIB00000216149"
-phosphoenolpyruvate	"CCMSLIB00000216151"
-phosphoenolpyruvate	"CCMSLIB00000216153"
-phosphoenolpyruvate	"CCMSLIB00000216399"
-phosphoenolpyruvate	"CCMSLIB00000216401"
-phosphoenolpyruvate	"CCMSLIB00000216403"
-phosphoenolpyruvate	"CCMSLIB00000219873"
-phosphoenolpyruvate	"CCMSLIB00000219875"
-phosphoenolpyruvate	"CCMSLIB00000219877"
-phosphoenolpyruvate	"CCMSLIB00000219879"
-phosphoenolpyruvate	"CCMSLIB00000219881"
-phosphoenolpyruvate	"CCMSLIB00000216552"
-phosphoenolpyruvate	"CCMSLIB00000216554"
-phosphoenolpyruvate	"CCMSLIB00000222227"
-p-hydroxybenzoic acid	"CCMSLIB00000223016"
-p-hydroxybenzoic acid	"CCMSLIB00000223241"
-p-hydroxybenzoic acid	"CCMSLIB00000219485"
-p-hydroxybenzoic acid	"CCMSLIB00000219487"
-p-hydroxybenzoic acid	"CCMSLIB00000221570"
-pipecolic acid	"CCMSLIB00000220012"
-pipecolic acid	"CCMSLIB00000220014"
-pipecolic acid	"CCMSLIB00000220015"
-pipecolic acid	"CCMSLIB00000220018"
-pipecolic acid	"CCMSLIB00000220020"
-pipecolic acid	"CCMSLIB00000223259"
-pipecolic acid	"CCMSLIB00000223260"
-pipecolic acid	"CCMSLIB00000219808"
-pipecolic acid	"CCMSLIB00000219810"
-pipecolic acid	"CCMSLIB00000219812"
-pipecolic acid	"CCMSLIB00000219814"
-pipecolic acid	"CCMSLIB00000219816"
-pipecolic acid	"CCMSLIB00000219818"
-pipecolic acid	"CCMSLIB00000221629"
-pipecolic acid	"CCMSLIB00000221631"
-pipecolic acid	"CCMSLIB00000222623"
-piperazine	"CCMSLIB00000219992"
-piperazine	"CCMSLIB00000219994"
-piperazine	"CCMSLIB00000219996"
-piperazine	"CCMSLIB00000219998"
-piperazine	"CCMSLIB00000220000"
-piperazine	"CCMSLIB00000212770"
-piperazine	"CCMSLIB00000212772"
-piperazine	"CCMSLIB00000212774"
-piperazine	"CCMSLIB00000212776"
-piperidine	"CCMSLIB00000219933"
-piperidine	"CCMSLIB00000219935"
-piperidine	"CCMSLIB00000219937"
-piperidine	"CCMSLIB00000219940"
-piperidine	"CCMSLIB00000219942"
-piperidine	"CCMSLIB00000223018"
-piperidine	"CCMSLIB00000214495"
-piperidine	"CCMSLIB00000214497"
-piperidine	"CCMSLIB00000214499"
-piperidine	"CCMSLIB00000214501"
-piperidine	"CCMSLIB00000214503"
-piperidine	"CCMSLIB00000221071"
-p-methoxycinnamic acid	"CCMSLIB00000217389"
-p-methoxycinnamic acid	"CCMSLIB00000217390"
-p-methoxycinnamic acid	"CCMSLIB00000217392"
-polyprenol	"CCMSLIB00000223198"
-polyprenol	"CCMSLIB00000221442"
-polyprenol	"CCMSLIB00000222421"
-poncirin	"CCMSLIB00000223187"
-poncirin	"CCMSLIB00000218269"
-poncirin	"CCMSLIB00000218271"
-poncirin	"CCMSLIB00000218273"
-poncirin	"CCMSLIB00000218275"
-poncirin	"CCMSLIB00000218276"
-poncirin	"CCMSLIB00000218277"
-poncirin	"CCMSLIB00000218279"
-poncirin	"CCMSLIB00000218281"
-poncirin	"CCMSLIB00000218283"
-poncirin	"CCMSLIB00000218285"
-poncirin	"CCMSLIB00000218287"
-poncirin	"CCMSLIB00000218289"
-poncirin	"CCMSLIB00000221421"
-poncirin	"CCMSLIB00000222396"
-poncirin	"CCMSLIB00000222398"
-procyanidin b1	"CCMSLIB00000223093"
-procyanidin b1	"CCMSLIB00000209688"
-procyanidin b1	"CCMSLIB00000215930"
-procyanidin b1	"CCMSLIB00000215932"
-procyanidin b1	"CCMSLIB00000215934"
-procyanidin b1	"CCMSLIB00000215936"
-procyanidin b1	"CCMSLIB00000215938"
-procyanidin b1	"CCMSLIB00000221220"
-procyanidin b1	"CCMSLIB00000222143"
-procyanidin b2	"CCMSLIB00000223092"
-procyanidin b2	"CCMSLIB00000209690"
-procyanidin b2	"CCMSLIB00000215920"
-procyanidin b2	"CCMSLIB00000215922"
-procyanidin b2	"CCMSLIB00000215924"
-procyanidin b2	"CCMSLIB00000215926"
-procyanidin b2	"CCMSLIB00000215928"
-procyanidin b2	"CCMSLIB00000221218"
-procyanidin b2	"CCMSLIB00000222141"
-procyanidin b3	"CCMSLIB00000209692"
-procyanidin b4	"CCMSLIB00000209694"
-procyanidin c1	"CCMSLIB00000220234"
-procyanidin c1	"CCMSLIB00000220236"
-procyanidin c1	"CCMSLIB00000220238"
-procyanidin c1	"CCMSLIB00000220240"
-procyanidin c1	"CCMSLIB00000220242"
-procyanidin c1	"CCMSLIB00000222690"
-progoitrin	"CCMSLIB00000223251"
-progoitrin	"CCMSLIB00000216254"
-progoitrin	"CCMSLIB00000216256"
-progoitrin	"CCMSLIB00000216257"
-progoitrin	"CCMSLIB00000219629"
-progoitrin	"CCMSLIB00000219631"
-progoitrin	"CCMSLIB00000219633"
-progoitrin	"CCMSLIB00000219635"
-progoitrin	"CCMSLIB00000219637"
-progoitrin	"CCMSLIB00000221600"
-progoitrin	"CCMSLIB00000222600"
-proline	"CCMSLIB00000221776"
-proline	"CCMSLIB00000221778"
-proline	"CCMSLIB00000221780"
-propranolol	"CCMSLIB00000207230"
-propranolol	"CCMSLIB00000207231"
-propranolol	"CCMSLIB00000207232"
-propranolol	"CCMSLIB00000207233"
-propranolol	"CCMSLIB00000207234"
-propranolol	"CCMSLIB00000207235"
-propranolol	"CCMSLIB00000207236"
-propranolol	"CCMSLIB00000207237"
-propranolol	"CCMSLIB00000207238"
-propranolol	"CCMSLIB00000207239"
-propranolol	"CCMSLIB00000207240"
-propranolol	"CCMSLIB00000207241"
-propranolol	"CCMSLIB00000207242"
-propranolol	"CCMSLIB00000207243"
-propranolol	"CCMSLIB00000223645"
-propranolol	"CCMSLIB00000223646"
-propranolol	"CCMSLIB00000223647"
-propranolol	"CCMSLIB00000223648"
-prostaglandin e1	"CCMSLIB00000220244"
-prostaglandin e1	"CCMSLIB00000220246"
-prostaglandin e1	"CCMSLIB00000220248"
-prostaglandin e1	"CCMSLIB00000222692"
-protocatechuic acid	"CCMSLIB00000214545"
-protocatechuic acid	"CCMSLIB00000221967"
-protopine	"CCMSLIB00000222149"
-protopine	"CCMSLIB00000222151"
-prunin	"CCMSLIB00000222778"
-prunin	"CCMSLIB00000222779"
-prunin	"CCMSLIB00000222780"
-prunin	"CCMSLIB00000222781"
-prunin	"CCMSLIB00000223076"
-prunin	"CCMSLIB00000215558"
-prunin	"CCMSLIB00000215560"
-prunin	"CCMSLIB00000215562"
-prunin	"CCMSLIB00000215564"
-prunin	"CCMSLIB00000215567"
-prunin	"CCMSLIB00000215568"
-prunin	"CCMSLIB00000215571"
-prunin	"CCMSLIB00000215572"
-prunin	"CCMSLIB00000215574"
-prunin	"CCMSLIB00000215576"
-prunin	"CCMSLIB00000215579"
-prunin	"CCMSLIB00000221187"
-prunin	"CCMSLIB00000222104"
-puerarin	"CCMSLIB00000222784"
-puerarin	"CCMSLIB00000222785"
-puerarin	"CCMSLIB00000223078"
-puerarin	"CCMSLIB00000215593"
-puerarin	"CCMSLIB00000215595"
-puerarin	"CCMSLIB00000215597"
-puerarin	"CCMSLIB00000215599"
-puerarin	"CCMSLIB00000215601"
-puerarin	"CCMSLIB00000215603"
-puerarin	"CCMSLIB00000215605"
-puerarin	"CCMSLIB00000215607"
-puerarin	"CCMSLIB00000215609"
-puerarin	"CCMSLIB00000215611"
-puerarin	"CCMSLIB00000215613"
-puerarin	"CCMSLIB00000221191"
-puerarin	"CCMSLIB00000222108"
-putrescine	"CCMSLIB00000217340"
-putrescine	"CCMSLIB00000217341"
-putrescine	"CCMSLIB00000217343"
-putrescine	"CCMSLIB00000217346"
-putrescine	"CCMSLIB00000217348"
-putrescine	"CCMSLIB00000222869"
-putrescine	"CCMSLIB00000212623"
-putrescine	"CCMSLIB00000212625"
-putrescine	"CCMSLIB00000220777"
-pyridine	"CCMSLIB00000219969"
-pyridine	"CCMSLIB00000219972"
-pyridine	"CCMSLIB00000219974"
-pyridine	"CCMSLIB00000219976"
-pyridine	"CCMSLIB00000219978"
-pyridoxine	"CCMSLIB00000220031"
-pyridoxine	"CCMSLIB00000220033"
-pyridoxine	"CCMSLIB00000220035"
-pyridoxine	"CCMSLIB00000220037"
-pyridoxine	"CCMSLIB00000220039"
-pyridoxine	"CCMSLIB00000223024"
-pyridoxine	"CCMSLIB00000214557"
-pyridoxine	"CCMSLIB00000214559"
-pyridoxine	"CCMSLIB00000214561"
-pyridoxine	"CCMSLIB00000214562"
-pyridoxine	"CCMSLIB00000221082"
-pyridoxine	"CCMSLIB00000221969"
-pyrocatechol	"CCMSLIB00000215078"
-pyrocatechol	"CCMSLIB00000215080"
-pyrocatechol	"CCMSLIB00000222034"
-pyrocatechol	"CCMSLIB00000222036"
-pyroglutamic acid	"CCMSLIB00000219817"
-pyroglutamic acid	"CCMSLIB00000219819"
-pyroglutamic acid	"CCMSLIB00000219820"
-pyroglutamic acid	"CCMSLIB00000219822"
-pyroglutamic acid	"CCMSLIB00000219824"
-pyroglutamic acid	"CCMSLIB00000220164"
-pyroglutamic acid	"CCMSLIB00000220166"
-pyroglutamic acid	"CCMSLIB00000220168"
-pyroglutamic acid	"CCMSLIB00000220170"
-pyroglutamic acid	"CCMSLIB00000220172"
-quercetin	"CCMSLIB00000221575"
-quercetin	"CCMSLIB00000221577"
-quercetin	"CCMSLIB00000221579"
-quercetin	"CCMSLIB00000221581"
-quercetin	"CCMSLIB00000222182"
-quercetin	"CCMSLIB00000222184"
-quercetin	"CCMSLIB00000222186"
-quercetin	"CCMSLIB00000222505"
-quercetin	"CCMSLIB00000222507"
-quercetin	"CCMSLIB00000222509"
-quercetin	"CCMSLIB00000222707"
-quercetin	"CCMSLIB00000222709"
-quercetin	"CCMSLIB00000223060"
-quercetin	"CCMSLIB00000211994"
-quercetin	"CCMSLIB00000215231"
-quercetin	"CCMSLIB00000215233"
-quercetin	"CCMSLIB00000215235"
-quercetin	"CCMSLIB00000215237"
-quercetin	"CCMSLIB00000215239"
-quercetin	"CCMSLIB00000221155"
-quercetin	"CCMSLIB00000222056"
-quercetin-3-arabinoside	"CCMSLIB00000223321"
-quercetin-3-arabinoside	"CCMSLIB00000218907"
-quercetin-3-arabinoside	"CCMSLIB00000218909"
-quercetin-3-arabinoside	"CCMSLIB00000218911"
-quercetin-3-arabinoside	"CCMSLIB00000218913"
-quercetin-3-arabinoside	"CCMSLIB00000218915"
-quercetin-3-arabinoside	"CCMSLIB00000218917"
-quercetin-3-arabinoside	"CCMSLIB00000218918"
-quercetin-3-arabinoside	"CCMSLIB00000218920"
-quercetin-3-arabinoside	"CCMSLIB00000218922"
-quercetin-3-arabinoside	"CCMSLIB00000218924"
-quercetin-3-arabinoside	"CCMSLIB00000218926"
-quercetin-3-arabinoside	"CCMSLIB00000218928"
-quercetin-3-arabinoside	"CCMSLIB00000221485"
-quercetin-3-arabinoside	"CCMSLIB00000222480"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000223083"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000223324"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000223338"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000219993"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000219995"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000219997"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000219999"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000220001"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000220003"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000220006"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000220008"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000220010"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000220011"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000221650"
-quercetin-3-o-alpha-l-rhamnopyranoside	"CCMSLIB00000222649"
-quercetin-3-o-rutinoside	"CCMSLIB00000215863"
-quercetin-3-o-rutinoside	"CCMSLIB00000215865"
-quercetin-3-o-rutinoside	"CCMSLIB00000215867"
-quercetin-3-o-rutinoside	"CCMSLIB00000215869"
-quercetin-3-o-rutinoside	"CCMSLIB00000215871"
-quercetin-3-o-rutinoside	"CCMSLIB00000215873"
-quercetin-3-o-rutinoside	"CCMSLIB00000215875"
-quercetin-3-o-rutinoside	"CCMSLIB00000215877"
-quercetin-3-o-rutinoside	"CCMSLIB00000215879"
-quercetin-3-o-rutinoside	"CCMSLIB00000215881"
-quercetin-3-o-rutinoside	"CCMSLIB00000215883"
-quercetin-3-o-rutinoside	"CCMSLIB00000215885"
-quercetin-3-rhamnoside	"CCMSLIB00000223083"
-quercetin-3-rhamnoside	"CCMSLIB00000223324"
-quercetin-3-rhamnoside	"CCMSLIB00000223338"
-quercetin-3-rhamnoside	"CCMSLIB00000218952"
-quercetin-3-rhamnoside	"CCMSLIB00000218954"
-quercetin-3-rhamnoside	"CCMSLIB00000218956"
-quercetin-3-rhamnoside	"CCMSLIB00000218957"
-quercetin-3-rhamnoside	"CCMSLIB00000218959"
-quercetin-3-rhamnoside	"CCMSLIB00000218961"
-quercetin-3-rhamnoside	"CCMSLIB00000218963"
-quercetin-3-rhamnoside	"CCMSLIB00000218965"
-quercetin-3-rhamnoside	"CCMSLIB00000218967"
-quercetin-3-rhamnoside	"CCMSLIB00000218969"
-quercetin-3-rhamnoside	"CCMSLIB00000221491"
-quercetin-3-rhamnoside	"CCMSLIB00000222486"
-quercetin-4'-glucoside	"CCMSLIB00000223189"
-quercetin-4'-glucoside	"CCMSLIB00000218322"
-quercetin-4'-glucoside	"CCMSLIB00000218324"
-quercetin-4'-glucoside	"CCMSLIB00000218326"
-quercetin-4'-glucoside	"CCMSLIB00000218328"
-quercetin-4'-glucoside	"CCMSLIB00000218330"
-quercetin-4'-glucoside	"CCMSLIB00000218332"
-quercetin-4'-glucoside	"CCMSLIB00000218334"
-quercetin-4'-glucoside	"CCMSLIB00000218336"
-quercetin-4'-glucoside	"CCMSLIB00000218338"
-quercetin-4'-glucoside	"CCMSLIB00000218340"
-quercetin-4'-glucoside	"CCMSLIB00000218342"
-quercetin-4'-glucoside	"CCMSLIB00000221425"
-quercetin-4'-glucoside	"CCMSLIB00000222402"
-quercetrin	"CCMSLIB00000223083"
-quercetrin	"CCMSLIB00000223324"
-quercetrin	"CCMSLIB00000223338"
-quercetrin	"CCMSLIB00000215710"
-quercetrin	"CCMSLIB00000215712"
-quercetrin	"CCMSLIB00000215713"
-quercetrin	"CCMSLIB00000215714"
-quercetrin	"CCMSLIB00000215716"
-quercetrin	"CCMSLIB00000215718"
-quercetrin	"CCMSLIB00000215720"
-quercetrin	"CCMSLIB00000215722"
-quercetrin	"CCMSLIB00000215724"
-quercetrin	"CCMSLIB00000215726"
-quercetrin	"CCMSLIB00000215728"
-quercetrin	"CCMSLIB00000218952"
-quercetrin	"CCMSLIB00000218954"
-quercetrin	"CCMSLIB00000218956"
-quercetrin	"CCMSLIB00000218957"
-quercetrin	"CCMSLIB00000218959"
-quercetrin	"CCMSLIB00000218961"
-quercetrin	"CCMSLIB00000218963"
-quercetrin	"CCMSLIB00000218965"
-quercetrin	"CCMSLIB00000218967"
-quercetrin	"CCMSLIB00000218969"
-quercetrin	"CCMSLIB00000219993"
-quercetrin	"CCMSLIB00000219995"
-quercetrin	"CCMSLIB00000219997"
-quercetrin	"CCMSLIB00000219999"
-quercetrin	"CCMSLIB00000220001"
-quercetrin	"CCMSLIB00000220003"
-quercetrin	"CCMSLIB00000220006"
-quercetrin	"CCMSLIB00000220008"
-quercetrin	"CCMSLIB00000220010"
-quercetrin	"CCMSLIB00000220011"
-quercetrin	"CCMSLIB00000221201"
-quercetrin	"CCMSLIB00000221491"
-quercetrin	"CCMSLIB00000221650"
-quercetrin	"CCMSLIB00000222119"
-quercetrin	"CCMSLIB00000222486"
-quercetrin	"CCMSLIB00000222649"
-quercitin	"CCMSLIB00000223060"
-quercitin	"CCMSLIB00000215231"
-quercitin	"CCMSLIB00000215233"
-quercitin	"CCMSLIB00000215235"
-quercitin	"CCMSLIB00000215237"
-quercitin	"CCMSLIB00000215239"
-quercitin	"CCMSLIB00000221155"
-quercitin	"CCMSLIB00000222056"
-quercitrin	"CCMSLIB00000222801"
-quercitrin	"CCMSLIB00000222802"
-quercitrin	"CCMSLIB00000222803"
-quercitrin	"CCMSLIB00000222804"
-quercitrin	"CCMSLIB00000223083"
-quercitrin	"CCMSLIB00000223324"
-quercitrin	"CCMSLIB00000223338"
-quercitrin	"CCMSLIB00000215710"
-quercitrin	"CCMSLIB00000215712"
-quercitrin	"CCMSLIB00000215713"
-quercitrin	"CCMSLIB00000215714"
-quercitrin	"CCMSLIB00000215716"
-quercitrin	"CCMSLIB00000215718"
-quercitrin	"CCMSLIB00000215720"
-quercitrin	"CCMSLIB00000215722"
-quercitrin	"CCMSLIB00000215724"
-quercitrin	"CCMSLIB00000215726"
-quercitrin	"CCMSLIB00000215728"
-quercitrin	"CCMSLIB00000218952"
-quercitrin	"CCMSLIB00000218954"
-quercitrin	"CCMSLIB00000218956"
-quercitrin	"CCMSLIB00000218957"
-quercitrin	"CCMSLIB00000218959"
-quercitrin	"CCMSLIB00000218961"
-quercitrin	"CCMSLIB00000218963"
-quercitrin	"CCMSLIB00000218965"
-quercitrin	"CCMSLIB00000218967"
-quercitrin	"CCMSLIB00000218969"
-quercitrin	"CCMSLIB00000219993"
-quercitrin	"CCMSLIB00000219995"
-quercitrin	"CCMSLIB00000219997"
-quercitrin	"CCMSLIB00000219999"
-quercitrin	"CCMSLIB00000220001"
-quercitrin	"CCMSLIB00000220003"
-quercitrin	"CCMSLIB00000220006"
-quercitrin	"CCMSLIB00000220008"
-quercitrin	"CCMSLIB00000220010"
-quercitrin	"CCMSLIB00000220011"
-quercitrin	"CCMSLIB00000221201"
-quercitrin	"CCMSLIB00000221491"
-quercitrin	"CCMSLIB00000221650"
-quercitrin	"CCMSLIB00000222119"
-quercitrin	"CCMSLIB00000222486"
-quercitrin	"CCMSLIB00000222649"
-quercitroside	"CCMSLIB00000223083"
-quercitroside	"CCMSLIB00000223324"
-quercitroside	"CCMSLIB00000223338"
-quercitroside	"CCMSLIB00000215710"
-quercitroside	"CCMSLIB00000215712"
-quercitroside	"CCMSLIB00000215713"
-quercitroside	"CCMSLIB00000215714"
-quercitroside	"CCMSLIB00000215716"
-quercitroside	"CCMSLIB00000215718"
-quercitroside	"CCMSLIB00000215720"
-quercitroside	"CCMSLIB00000215722"
-quercitroside	"CCMSLIB00000215724"
-quercitroside	"CCMSLIB00000215726"
-quercitroside	"CCMSLIB00000215728"
-quercitroside	"CCMSLIB00000218952"
-quercitroside	"CCMSLIB00000218954"
-quercitroside	"CCMSLIB00000218956"
-quercitroside	"CCMSLIB00000218957"
-quercitroside	"CCMSLIB00000218959"
-quercitroside	"CCMSLIB00000218961"
-quercitroside	"CCMSLIB00000218963"
-quercitroside	"CCMSLIB00000218965"
-quercitroside	"CCMSLIB00000218967"
-quercitroside	"CCMSLIB00000218969"
-quercitroside	"CCMSLIB00000219993"
-quercitroside	"CCMSLIB00000219995"
-quercitroside	"CCMSLIB00000219997"
-quercitroside	"CCMSLIB00000219999"
-quercitroside	"CCMSLIB00000220001"
-quercitroside	"CCMSLIB00000220003"
-quercitroside	"CCMSLIB00000220006"
-quercitroside	"CCMSLIB00000220008"
-quercitroside	"CCMSLIB00000220010"
-quercitroside	"CCMSLIB00000220011"
-quercitroside	"CCMSLIB00000221201"
-quercitroside	"CCMSLIB00000221491"
-quercitroside	"CCMSLIB00000221650"
-quercitroside	"CCMSLIB00000222119"
-quercitroside	"CCMSLIB00000222486"
-quercitroside	"CCMSLIB00000222649"
-querciturone	"CCMSLIB00000221487"
-querciturone	"CCMSLIB00000222482"
-quinone	"CCMSLIB00000216604"
-quisqualic acid	"CCMSLIB00000223025"
-quisqualic acid	"CCMSLIB00000214565"
-quisqualic acid	"CCMSLIB00000214567"
-quisqualic acid	"CCMSLIB00000214568"
-quisqualic acid	"CCMSLIB00000221084"
-raffinose	"CCMSLIB00000219828"
-raffinose	"CCMSLIB00000219830"
-raffinose	"CCMSLIB00000219832"
-raffinose	"CCMSLIB00000222627"
-raphanin	"CCMSLIB00000223249"
-raphanin	"CCMSLIB00000223331"
-raphanin	"CCMSLIB00000219623"
-raphanin	"CCMSLIB00000219625"
-raphanin	"CCMSLIB00000221595"
-raphanin	"CCMSLIB00000222597"
-reserpine	"CCMSLIB00000204816"
-reserpine	"CCMSLIB00000204826"
-reserpine	"CCMSLIB00000204834"
-reserpine	"CCMSLIB00000210222"
-reserpine	"CCMSLIB00000210224"
-reserpine	"CCMSLIB00000210226"
-reserpine	"CCMSLIB00000210228"
-reserpine	"CCMSLIB00000210230"
-reserpine	"CCMSLIB00000210233"
-reserpine	"CCMSLIB00000210235"
-reserpine	"CCMSLIB00000210236"
-reserpine	"CCMSLIB00000210238"
-reserpine	"CCMSLIB00000210240"
-reserpine	"CCMSLIB00000210243"
-reserpine	"CCMSLIB00000210245"
-reserpine	"CCMSLIB00000210247"
-reserpine	"CCMSLIB00000210249"
-reserpine	"CCMSLIB00000222265"
-reserpine	"CCMSLIB00000222267"
-reserpine	"CCMSLIB00000222269"
-reserpine	"CCMSLIB00000222271"
-reserpine	"CCMSLIB00000222273"
-resveratrol	"CCMSLIB00000221990"
-resveratrol	"CCMSLIB00000221992"
-resveratrol	"CCMSLIB00000221994"
-resveratrol	"CCMSLIB00000221996"
-resveratrol	"CCMSLIB00000222530"
-resveratrol	"CCMSLIB00000222532"
-resveratrol	"CCMSLIB00000222534"
-resveratrol	"CCMSLIB00000217481"
-resveratrol	"CCMSLIB00000217483"
-resveratrol	"CCMSLIB00000217485"
-resveratrol	"CCMSLIB00000217487"
-resveratrol	"CCMSLIB00000217489"
-resveratrol	"CCMSLIB00000217491"
-retinol	"CCMSLIB00000220557"
-retinol	"CCMSLIB00000220559"
-reynoutrin	"CCMSLIB00000221648"
-reynoutrin	"CCMSLIB00000222648"
-rhamnetin	"CCMSLIB00000222711"
-rhamnetin	"CCMSLIB00000222713"
-rhamnetin	"CCMSLIB00000223061"
-rhamnetin	"CCMSLIB00000215241"
-rhamnetin	"CCMSLIB00000215243"
-rhamnetin	"CCMSLIB00000215245"
-rhamnetin	"CCMSLIB00000215247"
-rhamnetin	"CCMSLIB00000221157"
-rhamnetin	"CCMSLIB00000222058"
-rhoifolin	"CCMSLIB00000222719"
-rhoifolin	"CCMSLIB00000222721"
-rhoifolin	"CCMSLIB00000223063"
-rhoifolin	"CCMSLIB00000215282"
-rhoifolin	"CCMSLIB00000215284"
-rhoifolin	"CCMSLIB00000215286"
-rhoifolin	"CCMSLIB00000215288"
-rhoifolin	"CCMSLIB00000215290"
-rhoifolin	"CCMSLIB00000215292"
-rhoifolin	"CCMSLIB00000215294"
-rhoifolin	"CCMSLIB00000215296"
-rhoifolin	"CCMSLIB00000215298"
-rhoifolin	"CCMSLIB00000215300"
-rhoifolin	"CCMSLIB00000215302"
-rhoifolin	"CCMSLIB00000215304"
-rhoifolin	"CCMSLIB00000221161"
-rhoifolin	"CCMSLIB00000222064"
-rhoifolin	"CCMSLIB00000222066"
-ribitol	"CCMSLIB00000216231"
-ribitol	"CCMSLIB00000216233"
-ribitol	"CCMSLIB00000216235"
-ribitol	"CCMSLIB00000216517"
-ribitol	"CCMSLIB00000216519"
-ribitol	"CCMSLIB00000216521"
-ribitol	"CCMSLIB00000213329"
-riboflavin	"CCMSLIB00000204770"
-riboflavin	"CCMSLIB00000204775"
-riboflavin	"CCMSLIB00000204780"
-ricinine	"CCMSLIB00000204812"
-ricinine	"CCMSLIB00000204823"
-robinin	"CCMSLIB00000222753"
-robinin	"CCMSLIB00000222755"
-robinin	"CCMSLIB00000222757"
-robinin	"CCMSLIB00000222759"
-robinin	"CCMSLIB00000223069"
-robinin	"CCMSLIB00000215408"
-robinin	"CCMSLIB00000215410"
-robinin	"CCMSLIB00000215412"
-robinin	"CCMSLIB00000215414"
-robinin	"CCMSLIB00000215417"
-robinin	"CCMSLIB00000215418"
-robinin	"CCMSLIB00000215420"
-robinin	"CCMSLIB00000215422"
-robinin	"CCMSLIB00000215424"
-robinin	"CCMSLIB00000215426"
-robinin	"CCMSLIB00000215428"
-robinin	"CCMSLIB00000215430"
-robinin	"CCMSLIB00000221173"
-robinin	"CCMSLIB00000222083"
-robinin	"CCMSLIB00000222085"
-rosmarinic acid	"CCMSLIB00000222810"
-rosmarinic acid	"CCMSLIB00000222811"
-rosmarinic acid	"CCMSLIB00000222812"
-rosmarinic acid	"CCMSLIB00000215841"
-rosmarinic acid	"CCMSLIB00000215843"
-rosmarinic acid	"CCMSLIB00000215845"
-rosmarinic acid	"CCMSLIB00000215847"
-rosmarinic acid	"CCMSLIB00000215849"
-rosmarinic acid	"CCMSLIB00000215851"
-rosmarinic acid	"CCMSLIB00000215853"
-rosmarinic acid	"CCMSLIB00000215855"
-rosmarinic acid	"CCMSLIB00000222133"
-rotenone	"CCMSLIB00000222259"
-rotenone	"CCMSLIB00000222261"
-rotenone	"CCMSLIB00000222263"
-rutin	"CCMSLIB00000222076"
-rutin	"CCMSLIB00000222078"
-rutin	"CCMSLIB00000222080"
-rutin	"CCMSLIB00000222082"
-rutin	"CCMSLIB00000222499"
-rutin	"CCMSLIB00000222501"
-rutin	"CCMSLIB00000222503"
-rutin	"CCMSLIB00000223363"
-rutin	"CCMSLIB00000215863"
-rutin	"CCMSLIB00000215865"
-rutin	"CCMSLIB00000215867"
-rutin	"CCMSLIB00000215869"
-rutin	"CCMSLIB00000215871"
-rutin	"CCMSLIB00000215873"
-rutin	"CCMSLIB00000215875"
-rutin	"CCMSLIB00000215877"
-rutin	"CCMSLIB00000215879"
-rutin	"CCMSLIB00000215881"
-rutin	"CCMSLIB00000215883"
-rutin	"CCMSLIB00000215885"
-sabinene	"CCMSLIB00000223199"
-sabinene	"CCMSLIB00000223200"
-sabinene	"CCMSLIB00000218483"
-sabinene	"CCMSLIB00000221444"
-sabinene	"CCMSLIB00000221446"
-salicylic acid	"CCMSLIB00000219051"
-salicylic acid	"CCMSLIB00000219053"
-salicylic acid	"CCMSLIB00000219055"
-salsolinol	"CCMSLIB00000222153"
-salsolinol	"CCMSLIB00000222155"
-sanguinarine	"CCMSLIB00000222157"
-sanguinarine	"CCMSLIB00000222159"
-saponarin	"CCMSLIB00000218302"
-saponarin	"CCMSLIB00000218303"
-saponarin	"CCMSLIB00000218305"
-saponarin	"CCMSLIB00000218307"
-saponarin	"CCMSLIB00000222400"
-sarcosine	"CCMSLIB00000220493"
-sarcosine	"CCMSLIB00000220495"
-sarcosine	"CCMSLIB00000220497"
-sarcosine	"CCMSLIB00000220499"
-sarcosine	"CCMSLIB00000220501"
-sarcosine	"CCMSLIB00000214596"
-sarcosine	"CCMSLIB00000214598"
-sarcosine	"CCMSLIB00000214600"
-sarcosine	"CCMSLIB00000214602"
-sarcosine	"CCMSLIB00000214604"
-sarsasapogenin	"CCMSLIB00000218498"
-sarsasapogenin	"CCMSLIB00000218500"
-sarsasapogenin	"CCMSLIB00000218502"
-sarsasapogenin	"CCMSLIB00000218504"
-sativin	"CCMSLIB00000223249"
-sativin	"CCMSLIB00000223331"
-sativin	"CCMSLIB00000219623"
-sativin	"CCMSLIB00000219625"
-sativin	"CCMSLIB00000221595"
-sativin	"CCMSLIB00000222597"
-schisantherin a	"CCMSLIB00000212203"
-schisantherin b	"CCMSLIB00000212207"
-scopoletin	"CCMSLIB00000222161"
-scopoletin	"CCMSLIB00000222163"
-scopoletin	"CCMSLIB00000223292"
-scopoletin	"CCMSLIB00000220564"
-scopoletin	"CCMSLIB00000220566"
-scopoletin	"CCMSLIB00000220568"
-scopoletin	"CCMSLIB00000220570"
-scopoletin	"CCMSLIB00000220572"
-scopoletin	"CCMSLIB00000221716"
-scopoletin	"CCMSLIB00000222749"
-scopolin	"CCMSLIB00000211846"
-scoulerine	"CCMSLIB00000216966"
-scoulerine	"CCMSLIB00000216968"
-scoulerine	"CCMSLIB00000216970"
-scoulerine	"CCMSLIB00000216972"
-scoulerine	"CCMSLIB00000216974"
-scoulerine	"CCMSLIB00000216976"
-sebacic acid	"CCMSLIB00000214608"
-sebacic acid	"CCMSLIB00000214610"
-sebacic acid	"CCMSLIB00000214612"
-sebacic acid	"CCMSLIB00000214614"
-sebacic acid	"CCMSLIB00000214617"
-sebacic acid	"CCMSLIB00000221975"
-sennoside a	"CCMSLIB00000223356"
-serine	"CCMSLIB00000221671"
-serine	"CCMSLIB00000221674"
-serine	"CCMSLIB00000221676"
-serine	"CCMSLIB00000221678"
-serotonin	"CCMSLIB00000220554"
-serotonin	"CCMSLIB00000220556"
-serotonin	"CCMSLIB00000220558"
-serotonin	"CCMSLIB00000220561"
-serotonin	"CCMSLIB00000220563"
-serotonin	"CCMSLIB00000222101"
-serotonin	"CCMSLIB00000222103"
-serotonin	"CCMSLIB00000222105"
-serotonin	"CCMSLIB00000222107"
-serotonin	"CCMSLIB00000222847"
-serotonin	"CCMSLIB00000222848"
-sinalbin	"CCMSLIB00000221613"
-sinalbin	"CCMSLIB00000222606"
-sinapaldehyde	"CCMSLIB00000217495"
-sinapaldehyde	"CCMSLIB00000217497"
-sinapaldehyde	"CCMSLIB00000217499"
-sinapaldehyde	"CCMSLIB00000217501"
-sinapaldehyde	"CCMSLIB00000217503"
-sinapic acid	"CCMSLIB00000222923"
-sinapic acid	"CCMSLIB00000223333"
-sinapic acid	"CCMSLIB00000213214"
-sinapic acid	"CCMSLIB00000213216"
-sinapic acid	"CCMSLIB00000215857"
-sinapic acid	"CCMSLIB00000215859"
-sinapic acid	"CCMSLIB00000215861"
-sinapic acid	"CCMSLIB00000219756"
-sinapic acid	"CCMSLIB00000219758"
-sinapic acid	"CCMSLIB00000219760"
-sinapic acid	"CCMSLIB00000220884"
-sinapic acid	"CCMSLIB00000221619"
-sinapic acid	"CCMSLIB00000221822"
-sinapic acid	"CCMSLIB00000222610"
-sinapine	"CCMSLIB00000222416"
-sinapine	"CCMSLIB00000222418"
-sinapine	"CCMSLIB00000222420"
-sinapine	"CCMSLIB00000222422"
-sinapine	"CCMSLIB00000222424"
-sinapine	"CCMSLIB00000220171"
-sinapine	"CCMSLIB00000220173"
-sinapine	"CCMSLIB00000220175"
-sinapine	"CCMSLIB00000220177"
-sinapyl alcohol	"CCMSLIB00000212786"
-sinigrin	"CCMSLIB00000215249"
-sinigrin	"CCMSLIB00000215251"
-sinigrin	"CCMSLIB00000215253"
-sinigrin	"CCMSLIB00000215256"
-sinigrin	"CCMSLIB00000215257"
-sinigrin	"CCMSLIB00000222060"
-sinomenine	"CCMSLIB00000204897"
-sinomenine	"CCMSLIB00000204906"
-sissotrin	"CCMSLIB00000223188"
-sissotrin	"CCMSLIB00000218310"
-sissotrin	"CCMSLIB00000218312"
-sissotrin	"CCMSLIB00000218314"
-sissotrin	"CCMSLIB00000218316"
-sissotrin	"CCMSLIB00000218318"
-sissotrin	"CCMSLIB00000218320"
-sissotrin	"CCMSLIB00000221423"
-smilagenin	"CCMSLIB00000218506"
-smilagenin	"CCMSLIB00000218508"
-smilagenin	"CCMSLIB00000218510"
-solasodine	"CCMSLIB00000223193"
-solasodine	"CCMSLIB00000218400"
-solasodine	"CCMSLIB00000218402"
-solasodine	"CCMSLIB00000218404"
-solasodine	"CCMSLIB00000218406"
-solasodine	"CCMSLIB00000218408"
-solasodine	"CCMSLIB00000221433"
-sophoricoside	"CCMSLIB00000205204"
-sophoricoside	"CCMSLIB00000205208"
-sophoricoside	"CCMSLIB00000205211"
-sparteine	"CCMSLIB00000204784"
-sparteine	"CCMSLIB00000204794"
-sparteine	"CCMSLIB00000204804"
-spermidine	"CCMSLIB00000216058"
-spermidine	"CCMSLIB00000216060"
-spermidine	"CCMSLIB00000216062"
-spermidine	"CCMSLIB00000216529"
-spermidine	"CCMSLIB00000216531"
-spermidine	"CCMSLIB00000216533"
-spermidine	"CCMSLIB00000220461"
-spermidine	"CCMSLIB00000220464"
-spermidine	"CCMSLIB00000220466"
-spermidine	"CCMSLIB00000220467"
-spermidine	"CCMSLIB00000220470"
-spermidine	"CCMSLIB00000221844"
-spermidine	"CCMSLIB00000221846"
-spermidine	"CCMSLIB00000221848"
-spermidine	"CCMSLIB00000221850"
-spermidine	"CCMSLIB00000214626"
-spermidine	"CCMSLIB00000214630"
-spermidine	"CCMSLIB00000214632"
-spermine	"CCMSLIB00000216107"
-spermine	"CCMSLIB00000216109"
-spermine	"CCMSLIB00000216111"
-spermine	"CCMSLIB00000216535"
-spermine	"CCMSLIB00000216537"
-spermine	"CCMSLIB00000216539"
-spermine	"CCMSLIB00000220472"
-spermine	"CCMSLIB00000220475"
-spermine	"CCMSLIB00000220477"
-spermine	"CCMSLIB00000220479"
-spermine	"CCMSLIB00000220480"
-spermine	"CCMSLIB00000221352"
-spermine	"CCMSLIB00000221852"
-spermine	"CCMSLIB00000221854"
-spermine	"CCMSLIB00000221856"
-spermine	"CCMSLIB00000221858"
-spermine	"CCMSLIB00000214634"
-spermine	"CCMSLIB00000214636"
-spermine	"CCMSLIB00000214638"
-spermine	"CCMSLIB00000214640"
-spiraeoside	"CCMSLIB00000223189"
-spiraeoside	"CCMSLIB00000218322"
-spiraeoside	"CCMSLIB00000218324"
-spiraeoside	"CCMSLIB00000218326"
-spiraeoside	"CCMSLIB00000218328"
-spiraeoside	"CCMSLIB00000218330"
-spiraeoside	"CCMSLIB00000218332"
-spiraeoside	"CCMSLIB00000218334"
-spiraeoside	"CCMSLIB00000218336"
-spiraeoside	"CCMSLIB00000218338"
-spiraeoside	"CCMSLIB00000218340"
-spiraeoside	"CCMSLIB00000218342"
-spiraeoside	"CCMSLIB00000221425"
-spiraeoside	"CCMSLIB00000222402"
-styrone	"CCMSLIB00000212337"
-styrone	"CCMSLIB00000215828"
-suberic acid	"CCMSLIB00000220483"
-suberic acid	"CCMSLIB00000220485"
-suberic acid	"CCMSLIB00000220488"
-suberic acid	"CCMSLIB00000220489"
-suberic acid	"CCMSLIB00000220491"
-suberic acid	"CCMSLIB00000217521"
-suberic acid	"CCMSLIB00000217523"
-suberic acid	"CCMSLIB00000217525"
-suberic acid	"CCMSLIB00000217527"
-succinic acid	"CCMSLIB00000214641"
-succinic acid	"CCMSLIB00000221977"
-sucrose	"CCMSLIB00000212604"
-sucrose	"CCMSLIB00000212606"
-sucrose	"CCMSLIB00000221770"
-sulfanilic acid	"CCMSLIB00000208604"
-sulfanilic acid	"CCMSLIB00000208605"
-sulfanilic acid	"CCMSLIB00000208606"
-sulfanilic acid	"CCMSLIB00000208607"
-sulfanilic acid	"CCMSLIB00000208608"
-sulfanilic acid	"CCMSLIB00000208609"
-sulfanilic acid	"CCMSLIB00000208610"
-sulfanilic acid	"CCMSLIB00000208611"
-sulfanilic acid	"CCMSLIB00000208612"
-sulfanilic acid	"CCMSLIB00000208613"
-sulfanilic acid	"CCMSLIB00000208614"
-sulfanilic acid	"CCMSLIB00000208615"
-sulfanilic acid	"CCMSLIB00000208616"
-sulfanilic acid	"CCMSLIB00000208617"
-synephrine	"CCMSLIB00000220626"
-synephrine	"CCMSLIB00000220628"
-synephrine	"CCMSLIB00000220630"
-synephrine	"CCMSLIB00000220632"
-synephrine	"CCMSLIB00000220634"
-syringaldehyde	"CCMSLIB00000221966"
-syringaldehyde	"CCMSLIB00000221968"
-syringaldehyde	"CCMSLIB00000221970"
-syringaldehyde	"CCMSLIB00000221972"
-syringaldehyde	"CCMSLIB00000223332"
-syringaldehyde	"CCMSLIB00000217311"
-syringaldehyde	"CCMSLIB00000217313"
-syringaldehyde	"CCMSLIB00000217316"
-syringaldehyde	"CCMSLIB00000217317"
-syringaldehyde	"CCMSLIB00000219750"
-syringaldehyde	"CCMSLIB00000219752"
-syringaldehyde	"CCMSLIB00000219754"
-syringaldehyde	"CCMSLIB00000221617"
-syringaldehyde	"CCMSLIB00000222608"
-syringic acid	"CCMSLIB00000216752"
-syringic aldehyde	"CCMSLIB00000223332"
-syringic aldehyde	"CCMSLIB00000217311"
-syringic aldehyde	"CCMSLIB00000217313"
-syringic aldehyde	"CCMSLIB00000217316"
-syringic aldehyde	"CCMSLIB00000217317"
-syringic aldehyde	"CCMSLIB00000219750"
-syringic aldehyde	"CCMSLIB00000219752"
-syringic aldehyde	"CCMSLIB00000219754"
-syringic aldehyde	"CCMSLIB00000221617"
-syringic aldehyde	"CCMSLIB00000222608"
-syringin	"CCMSLIB00000219900"
-tamarixetin	"CCMSLIB00000212001"
-tamarixetin	"CCMSLIB00000221144"
-tamarixetin	"CCMSLIB00000222044"
-tanshindiol b	"CCMSLIB00000212225"
-tanshindiol b	"CCMSLIB00000212231"
-tanshinone i	"CCMSLIB00000212264"
-tanshinone iia	"CCMSLIB00000212270"
-tanshinone iib	"CCMSLIB00000212243"
-tanshinone vi	"CCMSLIB00000212233"
-taurine	"CCMSLIB00000216031"
-taurine	"CCMSLIB00000216033"
-taurine	"CCMSLIB00000216035"
-taurine	"CCMSLIB00000216309"
-taurine	"CCMSLIB00000216311"
-taurine	"CCMSLIB00000216313"
-taurine	"CCMSLIB00000220675"
-taurine	"CCMSLIB00000220677"
-taurine	"CCMSLIB00000220679"
-taurine	"CCMSLIB00000220681"
-taurine	"CCMSLIB00000220683"
-taurine	"CCMSLIB00000223028"
-taurine	"CCMSLIB00000214643"
-taurine	"CCMSLIB00000214645"
-taurine	"CCMSLIB00000214647"
-taurine	"CCMSLIB00000214649"
-taurine	"CCMSLIB00000214651"
-taurine	"CCMSLIB00000221091"
-taurocholic acid	"CCMSLIB00000220855"
-taurocholic acid	"CCMSLIB00000220857"
-taurocholic acid	"CCMSLIB00000220859"
-taurocholic acid	"CCMSLIB00000220861"
-taurocholic acid	"CCMSLIB00000221384"
-thebaine	"CCMSLIB00000222165"
-thebaine	"CCMSLIB00000222167"
-thebaine	"CCMSLIB00000222169"
-thebaine	"CCMSLIB00000222171"
-theobromine	"CCMSLIB00000212011"
-theobromine	"CCMSLIB00000212013"
-theobromine	"CCMSLIB00000212015"
-theobromine	"CCMSLIB00000212017"
-theophylline	"CCMSLIB00000220784"
-theophylline	"CCMSLIB00000220786"
-theophylline	"CCMSLIB00000220788"
-theophylline	"CCMSLIB00000220790"
-theophylline	"CCMSLIB00000220792"
-theophylline	"CCMSLIB00000212019"
-theophylline	"CCMSLIB00000212021"
-theophylline	"CCMSLIB00000212023"
-theophylline	"CCMSLIB00000212025"
-thiamine	"CCMSLIB00000220894"
-thiamine	"CCMSLIB00000220896"
-thiamine	"CCMSLIB00000220898"
-thiamine	"CCMSLIB00000220900"
-thiamine	"CCMSLIB00000220903"
-thiamine	"CCMSLIB00000221390"
-thiamine	"CCMSLIB00000223031"
-threonine	"CCMSLIB00000221680"
-threonine	"CCMSLIB00000221682"
-threonine	"CCMSLIB00000221684"
-threonine	"CCMSLIB00000221686"
-thymidine	"CCMSLIB00000220703"
-thymidine	"CCMSLIB00000220705"
-thymidine	"CCMSLIB00000220707"
-thymidine	"CCMSLIB00000220709"
-thymidine	"CCMSLIB00000220711"
-thymidine	"CCMSLIB00000221376"
-thymidine	"CCMSLIB00000214703"
-thymidine	"CCMSLIB00000214705"
-thymidine	"CCMSLIB00000214707"
-thymidine	"CCMSLIB00000214709"
-thymidine	"CCMSLIB00000214711"
-thymidine	"CCMSLIB00000214713"
-thymidine	"CCMSLIB00000214715"
-thymine	"CCMSLIB00000223034"
-thymine	"CCMSLIB00000223035"
-thymine	"CCMSLIB00000214780"
-thymine	"CCMSLIB00000214782"
-thymine	"CCMSLIB00000214784"
-thymine	"CCMSLIB00000221102"
-thymine	"CCMSLIB00000221104"
-thymine	"CCMSLIB00000221989"
-thymol	"CCMSLIB00000219537"
-tiliroside	"CCMSLIB00000223192"
-tiliroside	"CCMSLIB00000223314"
-tiliroside	"CCMSLIB00000218383"
-tiliroside	"CCMSLIB00000218385"
-tiliroside	"CCMSLIB00000218386"
-tiliroside	"CCMSLIB00000218388"
-tiliroside	"CCMSLIB00000218391"
-tiliroside	"CCMSLIB00000218393"
-tiliroside	"CCMSLIB00000218395"
-tiliroside	"CCMSLIB00000218397"
-tiliroside	"CCMSLIB00000218398"
-tiliroside	"CCMSLIB00000218751"
-tiliroside	"CCMSLIB00000218753"
-tiliroside	"CCMSLIB00000218756"
-tiliroside	"CCMSLIB00000218758"
-tiliroside	"CCMSLIB00000218759"
-tiliroside	"CCMSLIB00000218761"
-tiliroside	"CCMSLIB00000218763"
-tiliroside	"CCMSLIB00000218765"
-tiliroside	"CCMSLIB00000218766"
-tiliroside	"CCMSLIB00000218768"
-tiliroside	"CCMSLIB00000218770"
-tiliroside	"CCMSLIB00000218772"
-tiliroside	"CCMSLIB00000221430"
-tiliroside	"CCMSLIB00000221471"
-tiliroside	"CCMSLIB00000222410"
-tiliroside	"CCMSLIB00000222411"
-tiliroside	"CCMSLIB00000222463"
-tiliroside	"CCMSLIB00000222465"
-trans-2-hexenal	"CCMSLIB00000222889"
-trans-2-hexenal	"CCMSLIB00000220815"
-trans-aconitic acid	"CCMSLIB00000219315"
-trans-aconitic acid	"CCMSLIB00000219316"
-trans-aconitic acid	"CCMSLIB00000222553"
-trans-cinnamaldehyde	"CCMSLIB00000222890"
-trans-cinnamaldehyde	"CCMSLIB00000212788"
-trans-cinnamaldehyde	"CCMSLIB00000220817"
-trans-cinnamic acid	"CCMSLIB00000222891"
-trans-cinnamic acid	"CCMSLIB00000212790"
-trans-cinnamic acid	"CCMSLIB00000215823"
-trans-cinnamic acid	"CCMSLIB00000215826"
-trans-cinnamic acid	"CCMSLIB00000220819"
-trans-cinnamic acid	"CCMSLIB00000221793"
-triacanthine	"CCMSLIB00000212467"
-triacanthine	"CCMSLIB00000212469"
-triacanthine	"CCMSLIB00000212471"
-triacanthine	"CCMSLIB00000212473"
-triacanthine	"CCMSLIB00000212475"
-triacanthine	"CCMSLIB00000212477"
-triacanthine	"CCMSLIB00000221751"
-tribuloside	"CCMSLIB00000223192"
-tribuloside	"CCMSLIB00000223314"
-tribuloside	"CCMSLIB00000218383"
-tribuloside	"CCMSLIB00000218385"
-tribuloside	"CCMSLIB00000218386"
-tribuloside	"CCMSLIB00000218388"
-tribuloside	"CCMSLIB00000218391"
-tribuloside	"CCMSLIB00000218393"
-tribuloside	"CCMSLIB00000218395"
-tribuloside	"CCMSLIB00000218397"
-tribuloside	"CCMSLIB00000218398"
-tribuloside	"CCMSLIB00000218751"
-tribuloside	"CCMSLIB00000218753"
-tribuloside	"CCMSLIB00000218756"
-tribuloside	"CCMSLIB00000218758"
-tribuloside	"CCMSLIB00000218759"
-tribuloside	"CCMSLIB00000218761"
-tribuloside	"CCMSLIB00000218763"
-tribuloside	"CCMSLIB00000218765"
-tribuloside	"CCMSLIB00000218766"
-tribuloside	"CCMSLIB00000218768"
-tribuloside	"CCMSLIB00000218770"
-tribuloside	"CCMSLIB00000218772"
-tribuloside	"CCMSLIB00000221430"
-tribuloside	"CCMSLIB00000221471"
-tribuloside	"CCMSLIB00000222410"
-tribuloside	"CCMSLIB00000222411"
-tribuloside	"CCMSLIB00000222463"
-tribuloside	"CCMSLIB00000222465"
-trifolirhizin	"CCMSLIB00000205327"
-trifolirhizin	"CCMSLIB00000205336"
-trifolirhizin	"CCMSLIB00000205345"
-trigonelline	"CCMSLIB00000220925"
-trigonelline	"CCMSLIB00000220927"
-trigonelline	"CCMSLIB00000220929"
-trigonelline	"CCMSLIB00000220931"
-trigonelline	"CCMSLIB00000220933"
-trigonelline	"CCMSLIB00000223233"
-trigonelline	"CCMSLIB00000223234"
-trijuganone b	"CCMSLIB00000212259"
-tropine	"CCMSLIB00000220753"
-tropine	"CCMSLIB00000220755"
-tropine	"CCMSLIB00000220757"
-tropine	"CCMSLIB00000220760"
-tropine	"CCMSLIB00000220762"
-tropinone	"CCMSLIB00000220935"
-tropinone	"CCMSLIB00000220937"
-tropinone	"CCMSLIB00000220939"
-tropinone	"CCMSLIB00000220941"
-tropinone	"CCMSLIB00000220943"
-tropinone	"CCMSLIB00000216614"
-tropinone	"CCMSLIB00000216615"
-tropinone	"CCMSLIB00000216618"
-tropinone	"CCMSLIB00000216620"
-tropinone	"CCMSLIB00000216622"
-tropinone	"CCMSLIB00000216624"
-tryptamine	"CCMSLIB00000220804"
-tryptamine	"CCMSLIB00000220806"
-tryptamine	"CCMSLIB00000220808"
-tryptamine	"CCMSLIB00000220810"
-tryptamine	"CCMSLIB00000220812"
-tryptophan	"CCMSLIB00000216113"
-tryptophan	"CCMSLIB00000216115"
-tryptophan	"CCMSLIB00000216117"
-tryptophan	"CCMSLIB00000216268"
-tryptophan	"CCMSLIB00000216271"
-tryptophan	"CCMSLIB00000216272"
-tryptophan	"CCMSLIB00000220664"
-tryptophan	"CCMSLIB00000220666"
-tryptophan	"CCMSLIB00000220669"
-tryptophan	"CCMSLIB00000220671"
-tryptophan	"CCMSLIB00000220673"
-tryptophan	"CCMSLIB00000221705"
-tryptophan	"CCMSLIB00000221707"
-tryptophan	"CCMSLIB00000221709"
-tryptophan	"CCMSLIB00000221711"
-tryptophan	"CCMSLIB00000222459"
-tryptophan	"CCMSLIB00000222462"
-tryptophan	"CCMSLIB00000222464"
-tryptophan	"CCMSLIB00000210671"
-tyramine	"CCMSLIB00000216086"
-tyramine	"CCMSLIB00000216088"
-tyramine	"CCMSLIB00000216090"
-tyramine	"CCMSLIB00000216366"
-tyramine	"CCMSLIB00000216368"
-tyramine	"CCMSLIB00000216370"
-tyramine	"CCMSLIB00000220685"
-tyramine	"CCMSLIB00000220687"
-tyramine	"CCMSLIB00000220689"
-tyramine	"CCMSLIB00000220690"
-tyramine	"CCMSLIB00000220692"
-tyramine	"CCMSLIB00000221824"
-tyramine	"CCMSLIB00000221825"
-tyramine	"CCMSLIB00000221827"
-tyramine	"CCMSLIB00000221829"
-tyramine	"CCMSLIB00000221832"
-tyramine	"CCMSLIB00000222466"
-tyramine	"CCMSLIB00000222468"
-tyramine	"CCMSLIB00000222470"
-tyramine	"CCMSLIB00000223038"
-tyramine	"CCMSLIB00000209762"
-tyramine	"CCMSLIB00000214805"
-tyramine	"CCMSLIB00000214807"
-tyramine	"CCMSLIB00000214809"
-tyramine	"CCMSLIB00000214811"
-tyramine	"CCMSLIB00000214813"
-tyramine	"CCMSLIB00000214815"
-tyramine	"CCMSLIB00000221110"
-tyrosine	"CCMSLIB00000221695"
-tyrosine	"CCMSLIB00000221697"
-tyrosine	"CCMSLIB00000221699"
-tyrosine	"CCMSLIB00000221701"
-tyrosine	"CCMSLIB00000221703"
-uracil	"CCMSLIB00000222868"
-uracil	"CCMSLIB00000212608"
-uracil	"CCMSLIB00000212610"
-uracil	"CCMSLIB00000212612"
-uracil	"CCMSLIB00000220775"
-uracil	"CCMSLIB00000221771"
-uric acid	"CCMSLIB00000221482"
-uric acid	"CCMSLIB00000219918"
-uric acid	"CCMSLIB00000219920"
-uric acid	"CCMSLIB00000219922"
-uridine	"CCMSLIB00000214817"
-uridine	"CCMSLIB00000214819"
-uridine	"CCMSLIB00000214821"
-uridine	"CCMSLIB00000214823"
-uridine	"CCMSLIB00000221995"
-uridylic acid	"CCMSLIB00000214911"
-uridylic acid	"CCMSLIB00000214913"
-uridylic acid	"CCMSLIB00000214915"
-uridylic acid	"CCMSLIB00000214916"
-uridylic acid	"CCMSLIB00000214918"
-uridylic acid	"CCMSLIB00000214920"
-uridylic acid	"CCMSLIB00000214922"
-uridylic acid	"CCMSLIB00000214924"
-uridylic acid	"CCMSLIB00000214926"
-uridylic acid	"CCMSLIB00000214928"
-uridylic acid	"CCMSLIB00000214930"
-uridylic acid	"CCMSLIB00000222010"
-urocanic acid	"CCMSLIB00000223098"
-urocanic acid	"CCMSLIB00000216098"
-urocanic acid	"CCMSLIB00000216100"
-urocanic acid	"CCMSLIB00000216102"
-urocanic acid	"CCMSLIB00000216104"
-urocanic acid	"CCMSLIB00000216106"
-urocanic acid	"CCMSLIB00000216108"
-urocanic acid	"CCMSLIB00000221243"
-urocanic acid	"CCMSLIB00000222164"
-valine	"CCMSLIB00000221649"
-valine	"CCMSLIB00000221651"
-valine	"CCMSLIB00000221653"
-valine	"CCMSLIB00000221654"
-vanillin	"CCMSLIB00000217219"
-vanillin	"CCMSLIB00000217221"
-vanillin	"CCMSLIB00000217223"
-veratramine	"CCMSLIB00000205445"
-vincetoxicoside b	"CCMSLIB00000221655"
-vincetoxicoside b	"CCMSLIB00000222655"
-vitamin b1	"CCMSLIB00000220894"
-vitamin b1	"CCMSLIB00000220896"
-vitamin b1	"CCMSLIB00000220898"
-vitamin b1	"CCMSLIB00000220900"
-vitamin b1	"CCMSLIB00000220903"
-vitamin b1	"CCMSLIB00000221390"
-vitamin b1	"CCMSLIB00000223031"
-vitamin b1	"CCMSLIB00000214663"
-vitamin b1	"CCMSLIB00000214665"
-vitamin b1	"CCMSLIB00000214667"
-vitamin b1	"CCMSLIB00000214669"
-vitamin b1	"CCMSLIB00000214671"
-vitamin b1	"CCMSLIB00000214673"
-vitamin b1	"CCMSLIB00000221097"
-vitamin b1	"CCMSLIB00000221981"
-vitamin b2	"CCMSLIB00000223223"
-vitamin b2	"CCMSLIB00000219280"
-vitamin b2	"CCMSLIB00000219282"
-vitamin b2	"CCMSLIB00000219284"
-vitamin b2	"CCMSLIB00000219286"
-vitamin b2	"CCMSLIB00000221535"
-vitamin b2	"CCMSLIB00000222543"
-vitamin b5	"CCMSLIB00000222871"
-vitamin b5	"CCMSLIB00000222872"
-vitamin b5	"CCMSLIB00000223121"
-vitamin b5	"CCMSLIB00000223224"
-vitamin b5	"CCMSLIB00000212651"
-vitamin b5	"CCMSLIB00000212653"
-vitamin b5	"CCMSLIB00000212655"
-vitamin b5	"CCMSLIB00000212658"
-vitamin b5	"CCMSLIB00000212660"
-vitamin b5	"CCMSLIB00000216646"
-vitamin b5	"CCMSLIB00000216647"
-vitamin b5	"CCMSLIB00000216649"
-vitamin b5	"CCMSLIB00000216651"
-vitamin b5	"CCMSLIB00000216653"
-vitamin b5	"CCMSLIB00000219290"
-vitamin b5	"CCMSLIB00000219292"
-vitamin b5	"CCMSLIB00000219294"
-vitamin b5	"CCMSLIB00000219296"
-vitamin b5	"CCMSLIB00000219297"
-vitamin b5	"CCMSLIB00000220781"
-vitamin b5	"CCMSLIB00000220783"
-vitamin b5	"CCMSLIB00000221292"
-vitamin b5	"CCMSLIB00000221537"
-vitamin b5	"CCMSLIB00000222234"
-vitamin b5	"CCMSLIB00000222547"
-vitamin b6	"CCMSLIB00000223024"
-vitamin b6	"CCMSLIB00000223102"
-vitamin b6	"CCMSLIB00000214557"
-vitamin b6	"CCMSLIB00000214559"
-vitamin b6	"CCMSLIB00000214561"
-vitamin b6	"CCMSLIB00000214562"
-vitamin b6	"CCMSLIB00000216187"
-vitamin b6	"CCMSLIB00000216189"
-vitamin b6	"CCMSLIB00000216191"
-vitamin b6	"CCMSLIB00000221082"
-vitamin b6	"CCMSLIB00000221251"
-vitamin b6	"CCMSLIB00000221969"
-vitamin b6	"CCMSLIB00000222175"
-vitamin d2	"CCMSLIB00000223296"
-vitamin d2	"CCMSLIB00000220621"
-vitamin d2	"CCMSLIB00000220623"
-vitamin d2	"CCMSLIB00000221724"
-vitamin d3	"CCMSLIB00000220627"
-vitamin d3	"CCMSLIB00000220629"
-vitamin e	"CCMSLIB00000212388"
-vitamin e	"CCMSLIB00000212390"
-vitamin e	"CCMSLIB00000212392"
-vitamin e	"CCMSLIB00000212394"
-vitamin e	"CCMSLIB00000212396"
-vitamin e	"CCMSLIB00000212398"
-vitamin e	"CCMSLIB00000217238"
-vitamin e	"CCMSLIB00000217239"
-vitamin e	"CCMSLIB00000217241"
-vitamin e(gamma)	"CCMSLIB00000216992"
-vitamin e(gamma)	"CCMSLIB00000216994"
-vitamin e(gamma)	"CCMSLIB00000216996"
-vitamin e(gamma)	"CCMSLIB00000216998"
-vitamin e(gamma)	"CCMSLIB00000217000"
-vitamin k3	"CCMSLIB00000220625"
-vitamin p	"CCMSLIB00000223178"
-vitamin p	"CCMSLIB00000215863"
-vitamin p	"CCMSLIB00000215865"
-vitamin p	"CCMSLIB00000215867"
-vitamin p	"CCMSLIB00000215869"
-vitamin p	"CCMSLIB00000215871"
-vitamin p	"CCMSLIB00000215873"
-vitamin p	"CCMSLIB00000215875"
-vitamin p	"CCMSLIB00000215877"
-vitamin p	"CCMSLIB00000215879"
-vitamin p	"CCMSLIB00000215881"
-vitamin p	"CCMSLIB00000215883"
-vitamin p	"CCMSLIB00000215885"
-vitamin p	"CCMSLIB00000217942"
-vitamin p	"CCMSLIB00000217944"
-vitamin p	"CCMSLIB00000217946"
-vitamin p	"CCMSLIB00000217948"
-vitamin p	"CCMSLIB00000217950"
-vitamin p	"CCMSLIB00000217952"
-vitamin p	"CCMSLIB00000221404"
-vitamin p	"CCMSLIB00000222376"
-vitexin	"CCMSLIB00000223194"
-vitexin	"CCMSLIB00000218410"
-vitexin	"CCMSLIB00000218412"
-vitexin	"CCMSLIB00000218413"
-vitexin	"CCMSLIB00000218414"
-vitexin	"CCMSLIB00000218416"
-vitexin	"CCMSLIB00000218418"
-vitexin	"CCMSLIB00000218421"
-vitexin	"CCMSLIB00000218423"
-vitexin	"CCMSLIB00000218425"
-vitexin	"CCMSLIB00000218427"
-vitexin	"CCMSLIB00000221435"
-vitexin	"CCMSLIB00000222413"
-xanthine	"CCMSLIB00000222012"
-xanthohumol	"CCMSLIB00000222201"
-xanthohumol	"CCMSLIB00000222203"
-xanthohumol	"CCMSLIB00000222206"
-xanthohumol	"CCMSLIB00000222253"
-xanthohumol	"CCMSLIB00000222255"
-xanthohumol	"CCMSLIB00000222257"
-xanthopterin	"CCMSLIB00000221055"
-xanthopterin	"CCMSLIB00000221057"
-xanthopterin	"CCMSLIB00000221060"
-xanthopterin	"CCMSLIB00000221062"
-xanthopterin	"CCMSLIB00000221064"
-xanthotoxin	"CCMSLIB00000222478"
-xanthotoxin	"CCMSLIB00000222491"
-xanthotoxin	"CCMSLIB00000222493"
-xylitol	"CCMSLIB00000216377"
-xylitol	"CCMSLIB00000216379"
-zearalenone	"CCMSLIB00000223264"
-zearalenone	"CCMSLIB00000219889"
-zearalenone	"CCMSLIB00000219891"
-zearalenone	"CCMSLIB00000219893"
-zearalenone	"CCMSLIB00000219894"
-zearalenone	"CCMSLIB00000219896"
-zearalenone	"CCMSLIB00000219898"
-zearalenone	"CCMSLIB00000221638"
-zearalenone	"CCMSLIB00000222633"
-zeatin	"CCMSLIB00000221076"
-zeatin	"CCMSLIB00000221078"
-zeatin	"CCMSLIB00000221080"
-zeatin	"CCMSLIB00000221083"
-zeatin	"CCMSLIB00000221085"
-zeatin	"CCMSLIB00000221407"
-zeaxanthin	"CCMSLIB00000217215"
-zeaxanthin	"CCMSLIB00000217217"
