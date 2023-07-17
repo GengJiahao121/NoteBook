@@ -8,11 +8,8 @@
 
 Herbal MS Spectra（草药质谱图）: 质谱（Mass Spectrometry，简称MS）物质的分子结构和组成。草药质谱图谱可以提供有关草药中存在的化学成分的信息。
 
-![Alt text](./pic/image.png)
+<img src="./pic/image.png" width=50%> <img src="./pic/image-1.png" width=30%>
 
-数据统计：
-
-<img src="./pic/image-1.png" width=50%>
 
 ## 数据集文件分析
 
