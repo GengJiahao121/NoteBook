@@ -2,6 +2,12 @@
 
 # 基于子网络术语映射和深度学习的中医处方推荐
 
+## 贡献
+
+1. 提出了一个子网络术语映射方法SSTM
+
+2. 基于SSTM的中医处方推荐方法
+
 ## 数据集
 
 不公开
@@ -18,9 +24,11 @@
 
 - HSKG的构建（herbsymptom-related knowledge graph）
 
-    实体和关系类别如表所示：
+5种类型5种关系
 
-    <img src="../picture/TCMPR-HSKG.jpg" style="width: 50%" />
+实体和关系类别如表所示：
+
+<img src="../picture/TCMPR-HSKG.jpg" style="width: 50%" />
 
 ## TCMPR整个处理流程
 
