@@ -21,11 +21,11 @@
 
 处方中有 **4个中药和7个症**
 
-![Alt text](image-2.png)
+![Alt text](../picture/PTM-2.png)
 
 - 理法方药的一般过程。
 
-    ![Alt text](image-1.png)
+    ![Alt text](../picture/PTM-1.png)
 
 ## 贡献
 
