@@ -136,7 +136,7 @@ limit 1
 
 - where子句操作符
 
-<img src='image.png' width='50%'>
+<img src='picture/image.png' width='50%'>
 
 - 检查单个值
 
@@ -328,25 +328,25 @@ order by prod_name
 1. 匹配\ 为了匹配反斜杠(\)字符本身，需要使用\\\。
 2. 多数正则表达式实现使用单个反斜杠转义特殊字符，**但MySQL要求两个反斜杠**
 
-<img src='image-1.png' width='50%'>
+<img src='picture/image-1.png' width='50%'>
 
 6. 匹配字符类
 
 为更方便工作，可以使用预定义的字符集，称为字符类(character class)
 
-<img src='image-2.png' width='50%'>
+<img src='picture/image-2.png' width='50%'>
 
 7. 匹配多个实例
 
 表中的元字符在正则表达式中表示了特殊的意思
 
-<img src='image-3.png' width='50%'>
+<img src='picture/image-3.png' width='50%'>
 
 8. 定位符
 
 目前为止的所有例子都是匹配一个串中任意位置的文本。**为了匹配特定位置的文本，需要使用定位符。**
 
-<img src='image-4.png' width='50%'>
+<img src='picture/image-4.png' width='50%'>
 
 `where prod_name regexp '^[0-9\\.]'`
 
@@ -376,7 +376,7 @@ order by prod_name
 
 `select prod_id, quantity, item_price, quantity*item_price as expanded_price from orderitems where order_num = 20005`
 
-![](image-5.png)
+![](picture/image-5.png)
 
 注意：SELECT 3*2;将返回6，SELECT Trim('abc');将返回abc，而SELECT Now()利用Now()函数返回当前日期和时间。可以明白如何根据需要使用SELECT进行试验。
 
@@ -388,7 +388,7 @@ order by prod_name
 
 `select vend_name, Upper(vend_name) AS vend_name_upcase from vendors order by vend_name;`
 
-<img src = 'image-6.png' width= 50%>
+<img src = 'picture/image-6.png' width= 50%>
 
 注意：
 
@@ -408,7 +408,7 @@ where Soundex(cust_contact) = Soundex('Y Lie');
 
 **日期和时间处理函数**
 
-<img src = 'image-7.png' width = 50%>
+<img src = 'picture/image-7.png' width = 50%>
 
 特别说明：
 
@@ -436,13 +436,13 @@ where Year(order_date) = 2005 and Mouth(order_date) = 9;
 
 **数值处理函数**
 
-<img src='image-8.png' width=50%>
+<img src='picture/image-8.png' width=50%>
 
 ##  12 汇总数据
 
 **聚集函数：运行在**行组**上，计算和返回单 个值的函数。**
 
-<img src='image-9.png' width=50%>
+<img src='picture/image-9.png' width=50%>
 
 SUM()也可以用来合计计算值
 
@@ -506,7 +506,7 @@ WHERE在数据 **分组前**进行过滤，HAVING在数据**分组后**进行过
 
 **分组和排序**
 
-<img src = 'image-10.png' width = 50%>
+<img src = 'picture/image-10.png' width = 50%>
 
 GROUP BY是分组 **不排序**，所以既分组又排序的话：
 
@@ -523,7 +523,7 @@ order by 排序
 
 **select 子句顺序**
 
-<img src='image-11.png' width=50%>
+<img src='picture/image-11.png' width=50%>
 
 ## 14 使用子查询
 
@@ -871,7 +871,7 @@ where match(note_text) against('heavy -rope*' in boolean mode);
 
 ** -排除一个词，而* 是截断操作符(可想象为用于词尾的一个通配符) **
 
-<img src='image-12.png' width=50%>
+<img src='picture/image-12.png' width=50%>
 
 更多的例子：
 
@@ -2030,7 +2030,7 @@ GRANT和REVOKE可在几个层次上控制访问权限:
 - 特定的列;
 - 特定的存储过程。
 
-<img src='image-14.png' width=50%>
+<img src='picture/image-14.png' width=50%>
 
 简化多次授权 可通过列出各权限并用逗号分隔，将多条 GRANT语句串在一起，如下所示:
 
