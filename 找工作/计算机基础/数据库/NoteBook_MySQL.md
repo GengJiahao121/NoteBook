@@ -616,6 +616,14 @@ from vendors inner join products on vendors.vend_id = products.vend_id
 order by vend_name, prod_name;
 ```
 
+这样写也是可以的
+
+```
+select vend_name, prod_name, prod_price
+from vendors join products using(vend_id)
+order by vend_name, prod_name;
+```
+
 **与上面的用where的用法相同**
 
 **联结多个表**
@@ -714,6 +722,18 @@ from customers left outer join orders
 ```
 
 上述代码：在使用**OUTER JOIN**语法时，**必须使用RIGHT或LEFT关键字** 指定包括其所有行的表(RIGHT指出的是OUTER JOIN右边的表，而LEFT 指出的是OUTER JOIN左边的表)。上面的例子使用LEFT OUTER JOIN从FROM 子句的**左边表(customers表)中选择所有行。**
+
+内连接：两个表中匹配的行
+
+左连接：左表中的所有行和右表中匹配的行
+
+右连接：右表中的所有行和左表中匹配的行
+
+全外连接：左表和右表中的所有行，没有匹配的行时填充 NULL 值
+
+自连接：同一表中进行连接，通常用于在表中比较不同行之间的数据
+
+交叉连接：两个表中所有可能的组合，它不依赖于任何连接条件
 
 **使用带聚集函数的联结**
 

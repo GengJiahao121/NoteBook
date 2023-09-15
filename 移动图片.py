@@ -7,7 +7,7 @@ import os
 import re
 
 # Markdown文件路径
-markdown_file = "NoteBook_MySQL.md"
+markdown_file = "./代码随想录每日一题.md"
 # 图片文件夹路径
 image_folder = "picture/"
 
