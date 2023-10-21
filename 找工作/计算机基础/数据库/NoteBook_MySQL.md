@@ -1,3 +1,5 @@
+select 语句中关键词的的执行顺序：https://blog.csdn.net/qq_26442553/article/details/79467243
+
 # 阅读 MySQL必知必会 毕节
 
 ## 使用MySQL
