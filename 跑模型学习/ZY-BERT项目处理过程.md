@@ -28,6 +28,7 @@
    8. 开始train(args, train_dataset(并没有batchsize,只到tensor化这一步), model, tokenizer)
    
    **注：这个代码用到了多个GPU进行训练的选项，所以在进行batchsize化时，与单个gpu不太一样，多个gpu需要每个gpu一个batch,也就是一次处理gpu_number * batchsize条数据。**
+   
       1. batchsize化(通过以下三行代码进行的batchsize化)
    
          <code> args.train_batch_size = args.per_gpu_train_batch_size * max(1, args.n_gpu) # 多个GPU同时进行训练时，每个gpu每次都可以处理一个batchsize大小的数据

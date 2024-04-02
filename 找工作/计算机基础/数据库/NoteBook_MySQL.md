@@ -89,7 +89,7 @@ select为SQL语句， from为select语句的子句，有些子句是必须的，
 
 按多个列排序
 
-首先按价格，然后再按名称排序。仅在多个行具有相同的prod_price 值时才对产品按prod_name进行排序。如果prod_price列中所有的值都是唯一的，则不会按prod_name排序。
+**首先按价格，然后再按名称排序**。仅在多个行具有相同的prod_price 值时才对产品按prod_name进行排序。如果prod_price列中所有的值都是唯一的，则不会按prod_name排序。
 
 ```
 select prod_id, prod_price, prod_name
