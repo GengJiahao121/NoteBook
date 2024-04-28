@@ -7,12 +7,15 @@ import os
 import re
 
 # Markdown文件路径
-markdown_file = "./代码随想录每日一题.md"
+markdown_file = "/Users/gjh/workspaces/vscode/md/NoteBook/1.找工作/2.编程语言/Linux/g++-gdb-makefile-cmake.md"
 # 图片文件夹路径
+if not os.path.exists("picture"):
+    os.mkdir("picture")
+    
 image_folder = "picture/"
 
 # 提取图片路径的正则表达式
-image_regex1 = r"'([^']*.png)'" # 匹配<img src='*.png'>
+image_regex1 = r"'([^']*\.png)'" # 匹配<img src='*.png'>
 image_regex2 = r"\(([^)]*\.png)\)" # 匹配![](*.png)
 
 # 读取Markdown文件内容
