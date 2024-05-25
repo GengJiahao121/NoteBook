@@ -1327,6 +1327,16 @@ Cat.cpp  Cat.h  Cat.o  Dog.cpp  Dog.h  Dog.o  main  main.cpp  main.o  Makefile
 ```
 一样也是ok的。
 
+#### 条件语句
+
+```
+ifeq (${...}, 1)
+    ...
+else
+    ...
+endif
+```
+
 #### 隐藏规则
 
 上面的Makefile看起来还不错，挺简介，但是Makefile可不是搞这个麻雀型项目的，燕雀安知鸿鹄志~如果一个项目有成百上千个源文件，那岂不是要写上百行以上的gcc命令？即使有了变量，那定义起来一个个源文件列举出来也是要命，该如何是好呢？
@@ -1982,13 +1992,15 @@ gdb --version //输出
 
 ### 准备使用gdb
 
-1、在docker容器内使用GDB
+#### 1、docker内使用GDB
 
-GDB需要使用ptrace 方法发送PTRACE_ATTACH请求给被调试进程，用来监视和控制另一个进程。
+GDB需要使用ptrace 方法发送**PTRACE_ATTACH**请求给被调试进程，用来监视和控制另一个进程。
 
-Linux 系统使用
+Linux 系统使用/proc/sys/kernel/yama/ptrace_scope设置来对ptrace施加安全控制。
 
-/proc/sys/kernel/yama/ptrace_scope设置来对ptrace施加安全控制。默认ptrace_scope的设置的值是1。默认设置下，进程只能通过PTRACE_ATTACH请求，附加到子进程。当设置为0时，进程可以通过PTRACE_ATTACH请求附加到任何其它进程。
+默认ptrace_scope的设置的值是1。默认设置下，进程只能通过PTRACE_ATTACH请求，附加到子进程。
+
+**当设置为0时，进程可以通过PTRACE_ATTACH请求附加到任何其它进程。**
 
 在docker容器内，即使是root用户，仍有可能没有修改这个文件的权限。使得在使用GDB调试程序时会产生“ptrace: Operation not permitted “错误。
 
@@ -1997,15 +2009,18 @@ Linux 系统使用
 ```
 # 以特权模式运行docker容器
 docker run --privileged xxx
+
 # 进入容器，输入如下指令改变PTRACE_ATTACH请求的限制
 echo 0 > /proc/sys/kernel/yama/ptrace_scope
 ```
 
-2、启用生成core文件
+#### 2、启用生成core文件
 
 默认情况下，程序Crash是不生成core文件的，因为默认允许的core文件大小为0。
 
-为了在程序Crash时，能够生成core文件来帮助排查Crash的原因，我们需要**修改允许的core文件大小设置**
+为了在程序Crash时，能够生成core文件来帮助排查Crash的原因，我们需要
+
+**修改允许的core文件大小设置**
 
 ```
 # 查看当前core文件大小设置
@@ -2018,8 +2033,14 @@ ulimit -c 0
 
 这样，当程序Crash时，会在程序所在的目录，生成名称为core.xxx的core文件。
 
-（通过设置 core_pattern 参数来指定 core dump 文件的生成路径和文件名格式。这可以通过修改 /proc/sys/kernel/core_pattern 文件来实现，或者通过使用 sysctl 命令来动态更改：`sysctl -w kernel.core_pattern=/path/to/core/files/core.%e.%p.%h.%t
-`）
+修改core文件生成目录：
+
+这可以通过修改 /proc/sys/kernel/core_pattern 文件来实现，
+
+或者通过使用 sysctl 命令来动态更改：
+
+`sysctl -w kernel.core_pattern=/path/to/core/files/core.%e.%p.%h.%t
+`
 
 **当程序运行在Docker容器内时，在容器内进行上述设置后，程序Crash时仍然无法生成core文件**。这时需要我们在Docker容器的宿主机上，明确指定core文件的生成位置。
 
@@ -2030,17 +2051,17 @@ echo '/tmp/core.%t.%e.%p' > /proc/sys/kernel/core_pattern
 
 设置中的字段的含义如下：
 
-/tmp 存放core文件的目录
+    /tmp 存放core文件的目录
 
-core 文件名前缀
+    core 文件名前缀
 
-%t 系统时间戳
+    %t 系统时间戳
 
-%e 进程名称
+    %e 进程名称
 
-%p 进程ID
+    %p 进程ID
 
-3、生成调试符号表
+#### 3、生成调试符号表
 
 调试符号表是二进制程序和源代码的变量，函数，代码行，源文件的一个映射。一套符号表对应特定的一套二进制程序，如果程序发生了变化，那么就需要一套新的符号表。
 
@@ -2048,17 +2069,33 @@ core 文件名前缀
 
 在编译时加入-ggdb编译选项，就会在生成的二进制程序中加入符号表，此时生成的二进制程序的大小会有显著的增加。
 
--ggdb 用来生成针对gdb的调试信息，也可以使用-g来代替
+**-ggdb** **用来生成针对gdb的调试信息，也可以使用-g来代替**
 
 另外，只要条件允许，建议使用-O0来关闭编译优化，用来避免调试时，源代码和符号表对应不上的奇怪问题。
 
--O0 关闭编译优化
+**-O0 关闭编译优化**
 
-（除了上面的-E、-S、-c选项外，下面还有一些常用选项。-static：此选项对生成的文件采用静态链接-O0、-O1、-O2、-O3：编译器优化选项的4个级别，-O0表示没有优化-O3优化级别最高-w：不生成任何警告信息。-Wall：生成所有警告信息。-+filename：将生成的文件命名为filename）
+除了上面的-E、-S、-c选项外，下面还有一些常用选项。
 
-4、使用screen来恢复会话
+    -static：此选项对生成的文件采用静态链接
 
-GDB调试依赖于GDB控制台来和进程进行交互，如果我们的连接终端关闭，那么原来的控制台就没有办法再使用了。此时我们可以通过开启另一个终端，关闭之前的GDB进程，并重新attach到被调试进程，但此时的断点，监视和捕获都要重新设置。另一种方法就是使用screen。使用screen运行的程序，可以完全恢复之前的会话，包括GDB控制台。
+    -O0、-O1、-O2、-O3：编译器优化选项的4个级别，
+
+    -O0表示没有优化
+
+    -O3优化级别最高
+
+    -w：不生成任何警告信息。
+
+    -Wall：生成所有警告信息。
+
+    -+filename：将生成的文件命名为filename
+
+#### 4、使用screen来恢复会话
+
+GDB调试依赖于GDB控制台来和进程进行交互，如果我们的连接终端关闭，那么原来的控制台就没有办法再使用了。此时我们可以通过开启另一个终端，关闭之前的GDB进程，并重新attach到被调试进程，但此时的断点，监视和捕获都要重新设置。
+
+另一种方法就是**使用screen。使用screen运行的程序，可以完全恢复之前的会话，包括GDB控制台。**
 
 ```
 # 安装screen
@@ -2074,15 +2111,16 @@ screen -ls
 screen -D -r [screen session id]
 ```
 
-4、启动GDB的几种方式
+#### 5、启动GDB的几种方式
 
-1. 这是经典的使用GDB的方式。程序可以通过GDB命令的参数来加载，也可以在进入GDB控制台后，通过file命令来加载。
+##### 1. 这是经典的使用GDB的方式。程序可以通过GDB命令的参数来加载，也可以在进入GDB控制台后，通过file命令来加载。
 
     ```
-    # 使用GDB加载可执行程序
+    # 1. 使用GDB加载可执行程序
     gdb [program]
-    # 使用GDB加载可执行程序并传递命令行参数
-    gdb --args [program] [arguments]
+
+    # 2. 使用GDB加载可执行程序并传递命令行参数
+    gdb --args [program] [arguments] # `例：gdb --args server -p 10000`
 
     # 开始调试程序
     (gdb) run
@@ -2094,21 +2132,21 @@ screen -D -r [screen session id]
     (gdb) start arg1 arg2
     ```
 
-2. 附加GDB到运行中的进程
+##### 2. 附加GDB到运行中的进程
 
 GDB可以直接通过参数的方式，附加到一个运行中的进程。也可以在进入GDB控制台后，通过attach命令附加到进程。
 需要注意的是一个进程只允许附加一个调试进程，如果被调试的进程当前已经出于被调试状态，那么要么通过detach命令来解除另一个GDB进程的附加状态，要么强行结束当前附加到进程的GDB进程，否则不能通过GDB附加另一个调试进程。
 
 ```
-# 通过GDB命令附加到进程
+# 1. 通过GDB命令附加到进程
 gdb --pid [pid]
 
-# 在GDB控制台内，通过attach命令附加的进程
+# 2. 在GDB控制台内，通过attach命令附加的进程
 gdb
 (gdb) attach [pid]
 ```
 
-3. 调试core文件
+##### 3. 调试core文件
 
 在程序Crash后，如果生成了core文件，我们可以通过GDB加载core文件，调试发生异常时的程序信息。core文件是没有限制当前机器相关信息的，我们可以拷贝core文件到另一台机器进行core分析，但前提是产生core文件的程序的符号表，需要和分析core文件时加载的程序的符号表保持一致。
 
@@ -2119,7 +2157,7 @@ gdb
 gdb --core [core file] [program]
 ```
 
-4. 使用GDB加载程序并自动运行
+##### 4. 使用GDB加载程序并自动运行
 
 在自动化测试场景中，需要程序能够以非中断的方式流畅地运行，同时又希望附加GDB，以便随时可以了解程序的状态。这时我们可以使用--ex参数，指定GDB完成程序加载后，自动运行的命令。
 
@@ -2130,7 +2168,7 @@ gdb --ex r --args [program] [arguments]
 
 ### 使用gdb
 
-1、你好，GDB
+#### 1、你好，GDB
 
 例：我们先从一个Hello world的例子，通过GDB设置断点来调试程序，近距离接触下GDB。
 
@@ -2227,7 +2265,7 @@ Hello world
 (gdb) q
 ```
 
-2、Segmentation Fault问题排查
+#### 2、Segmentation Fault问题排查
 
 Segmentation Fault是进程**访问了由操作系统内存保护机制规定的受限的内存区域**触发的。当发生Segmentation Fault异常时，操作系统通过发起一个**“SIGSEGV”**信号来终止进程。此外，Segmentation Fault**不能被异常捕捉代码捕获**，是导致程序Crash的常见诱因。
 
@@ -2348,7 +2386,7 @@ $1 = {
 
 此时可以看到在main.cc代码的第15行，使用std::cout输出Employee的name属性时，employee指针指向的地址的name属性已经不再是一个有效的内存地址（0x0）。
 
-3、 程序阻塞问题排查
+#### 3、 程序阻塞问题排查
 
 程序阻塞在程序运行中是非常常见的现象。并不是所有的阻塞都是程序产生了问题，阻塞是否是一个要解决的问题，在于我们对于程序阻塞的预期。比如一个服务端程序，当完成了必要的初始化后，需要阻塞主线程的继续执行，避免服务端程序执行完main方法后退出。就是正常的符合预期的阻塞。但是如果是一个客户端程序，执行完了所有的任务后在需要退出的时候，还处于阻塞状态无法关闭进程，就是我们要处理的程序阻塞问题。除了上面提到的程序退出阻塞，程序阻塞问题一般还包括：
 
@@ -2539,7 +2577,7 @@ $1 = {<std::__mutex_base> = {_M_mutex = {__data = {__lock = 2, __count = 0,
 (gdb) 
 ```
 
-4、数据篡改问题排查
+#### 4、数据篡改问题排查
 
 数据篡改不一定会引发异常，但很可能会导致业务结果不符合预期。对于大量使用了三方库的项目来说，想知道数据在哪里被修改成了什么，并不是一件容易的事。对于C&C++来说，还存在着指针被修改后，导致指针原来指向的对象可能无法回收的问题。单纯使用日志，想要发现一个变量在何时被哪个程序修改成了什么，几乎是不可能的事，通过使用GDB的监控断点，我们可以方便地调查这类问题。
 
@@ -2701,7 +2739,7 @@ New value = "employee name change"
 
 在触发中断后，我们发现是中断位置是在modify_func方法中。正是这个方法，在内部修改了employee的name属性。至此调查完毕。
 
-5、堆内存重复释放问题排查
+#### 5、堆内存重复释放问题排查
 
 堆内存的重复释放，会导致内存泄露，被破坏的内存可以被攻击者利用，从而产生更为严重的安全问题。目标流行的C函数库(比如libc)，会在内存重复释放时，抛出“double free or corruption (fasttop)”错误，并终止程序运行。为了修复堆内存重复释放问题，我们需要找到所有释放对应堆内存的代码位置，用来判断哪一个释放堆内存的操作是不正确的。
 
@@ -2814,7 +2852,7 @@ Thread 3 "main" hit Breakpoint 2, __GI___libc_free (mem=0x5555555712e0)
 
 ```
 
-6、常用的GDB命令
+#### 6、常用的GDB命令
 
 
 |命令|缩写|命令说明|
@@ -2844,6 +2882,57 @@ Thread 3 "main" hit Breakpoint 2, __GI___libc_free (mem=0x5555555712e0)
 |ptype ‹ var›||查吞受量类型|
 |set [expression]||修改受量的值|
 |call [function call expression]||调用函数|
+
+
+## vscode c++调试
+
+需要配置文件
+
+`ctrl + shift + p` 打开命令面板 键入 `c/c++ edit...` 可以看到c/c++配置
+
+`c_cpp_properties.json` 中的内容就是上面 **c/c++配置** 中的内容
+
+
+
+
+
+### 1. tash.json(用于编译)
+
+
+
+### 2. launch.json（用于调试）
+
+```
+{
+            "name": "gjh_webserver_v1/server",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/gjh_webserver_v1/server",
+            "args": [
+                "-p","10000"
+            ],
+            "stopAtEntry": false, // 这一项控制是否在入口处暂停，默认false不暂停，改为true暂停
+            "cwd": "${workspaceFolder}/gjh_webserver_v1",
+            "environment": [],
+            "externalConsole": false, // 这一项控制是否启动外部控制台（独立的黑框）运行程序，默认false表示在集成终端中运行
+            "MIMode": "gdb", 
+            "setupCommands": [
+                {
+                    "description": "为 gdb 启用整齐打印",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "将反汇编风格设置为 Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ]
+        },
+```
+
+preLaunchTask：注意与前面tasks中配置的label名字相同！
+
 
 
 
