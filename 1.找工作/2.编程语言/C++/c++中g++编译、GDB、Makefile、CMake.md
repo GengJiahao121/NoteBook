@@ -71,6 +71,10 @@ h j k l : 左 下 上 右
    2. h j k l 
    3. d (删除)
 
+shift + zz 保存退出
+
+
+
 
 
 
@@ -81,34 +85,34 @@ h j k l : 左 下 上 右
 
     ```
     /etc目录（也称为ETC目录）是Linux和Unix系统中的一个重要目录，用于存放系统配置文件和相关数据。这些文件通常用于配置系统的行为、服务和各种应用程序。
-
+    
     以下是一些在/etc目录下常见的文件和文件夹：
-
+    
     /etc/passwd：包含系统上的用户账户信息。
-
+    
     /etc/group：包含用户组的定义和成员关系。
-
+    
     /etc/shadow：包含加密的用户密码信息。
-
+    
     /etc/hosts：用于配置系统的主机名解析，映射IP地址和主机名之间的关系。
-
+    
     /etc/resolv.conf：用于配置系统的DNS解析器的配置。
-
+    
     /etc/network/interfaces或/etc/sysconfig/
     network-scripts：包含网络接口的配置信息。
-
+    
     /etc/fstab：包含文件系统挂载点的配置。
-
+    
     /etc/ssh/sshd_config：SSH服务器的配置文件。
-
+    
     /etc/crontab：用于配置系统的定时任务（cron jobs）。
-
+    
     /etc/apt/sources.list：用于配置APT软件包管理器的软件源列表（适用于基于Debian的系统）。
-
+    
     /etc/sudoers：用于配置sudo命令的访问权限。
-
+    
     此外，/etc目录还包含许多其他系统和服务的配置文件，例如HTTP服务器（如Apache或Nginx）、数据库服务器（如MySQL或PostgreSQL）、邮件服务器（如Postfix或Sendmail）等。
-
+    
     需要注意的是，对于不同的Linux发行版和Unix操作系统，一些特定的配置文件和文件夹的位置和命名可能会有所不同。因此，具体的配置文件路径和名称可能会因系统而异。
     ```
 
@@ -657,7 +661,7 @@ root@hcss-ecs-7ebb:~/practice#
 经过多方查找，发现gcc默认加了--enable-default-pie选项（[gcc编译选项fpic/fPIC, fpie/fPIE的说明](https://blog.csdn.net/baidu_31504167/article/details/99825999?utm_medium=distribute.pc_feed_404.none-task-blog-2~default~BlogCommendFromBaidu~default-1.control404&depth_1-utm_source=distribute.pc_feed_404.none-task-blog-2~default~BlogCommendFromBaidu~default-1.control40)）：
 
         Position-Independent-Executable是Binutils,glibc和gcc的一个功能，能用来创建介于共享库和通常可执行代码之间的代码–能像共享库一样可重分配地址的程序，这种程序必须连接到Scrt1.o。标准的可执行程序需要固定的地址，并且只有被装载到这个地址时，程序才能正确执行。PIE能使程序像共享库一样在主存任何位置装载，这需要将程序编译成位置无关，并链接为ELF共享对象。
-
+    
         引入PIE的原因是让程序能装载在随机的地址，通常情况下，内核都在固定的地址运行，如果能改用位置无关，那攻击者就很难借助系统中的可执行码实施攻击了。类似缓冲区溢出之类的攻击将无法实施。而且这种安全提升的代价很小
 
 添加-no-pie选项即可关闭Position-Independent-Executable：
@@ -1534,7 +1538,7 @@ Here is a Cat
 
 ## [升级构建工具，从Makefile到CMake](https://juejin.cn/post/7058217745321558024?searchId=20240426200049D96E25ECC24161A1595E#heading-1)
 
-### CMake介绍
+### 1、CMake介绍
 
 CMake官网开头已经把CMake的作用说得很清楚了：
 
@@ -1544,7 +1548,7 @@ CMake官网开头已经把CMake的作用说得很清楚了：
 
 以下就从简单到复杂项目来谈一谈CMake如何使用，所用平台依旧是Ubuntu。
 
-### 单目录单文件
+### 2、单目录单文件
 
 首先在Demo1目录下创建源文件main.cpp：
 
@@ -1618,7 +1622,7 @@ Hello, World!
 
 没问题~~
 
-### 单目录多文件
+### 3、单目录多文件
 
 现在在原来的基础上进行调整，增加了Dog类：
 
@@ -1679,9 +1683,11 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(CmakeDemo main.cpp Dog.cpp Dog.h)
 ```
 
-这样每次增加类都要修改CMakeLists.txt，想起Makefile有变量和通配符，那CMake有没有呢？
+**这样每次增加类都要修改CMakeLists.txt，想起Makefile有变量和通配符，那CMake有没有呢？**
 
 答案是肯定的。
+
+`aux_source_directory(. DIR_SRCS)` // 查找当前目录下的所有源文件并保存到DIR_SRCS变量中
 
 ```
 #指定cmake的版本号
@@ -1705,9 +1711,9 @@ add_executable(CmakeDemo ${DIT_SRCS})
 cmake有大量内置变量，有些是用来获取当前环境信息的，比如获取系统版本的CMAKE_SYSTEM_VERSION，有些用来获取当前工程信息的，比如获取工程目录的PROJECT_SOURCE_DIR，有些是用来改变构建过程的，比如编译 C++ 文件时的选项CMAKE_CXX_FLAGS。
 官方变量文档就介绍了这些内置变量：[cmake-variables](https://cmake.org/cmake/help/latest/manual/cmake-variables.7.html)
 
-### 多目录多文件
+### 4、多目录多文件
 
-还是刚才的工程源文件，不过将Dog类放到lib目录下，lib目录下创建一个CMakeLists.txt文件，用将Dog类打包为一个动态链接库，然后交给main.cpp链接为一个可执行文件。
+还是刚才的工程源文件，不过将Dog类放到lib目录下，lib目录下创建一个CMakeLists.txt文件。用**将Dog类打包为一个动态链接库，然后交给main.cpp链接**为一个可执行文件。
 
 ![Alt text](picture/image-19.png)
 
@@ -1752,26 +1758,33 @@ target_link_libraries(Demo Animal)
 多目录这里重点有三个：
 
 1. 添加头文件目录： 因为当前根目录的main.cpp需要引用到Dog.h头文件，所以需要通过include_directories引用头文件目录，注意CMakeLists的目录是相对于当前CMakeLists文件而言的。
-2. add_subdirectory，官方的说明是
+   
+    `include_directories(lib)`
 
-`Add a subdirectory to the build.`
+2. add_subdirectory，官方的说明是`Add a subdirectory to the build.`
 
-就是要让当前的CMakeLists可以执行到执指定子目录的CMakeLists进而构建子目录中的源文件，在这里就是通过子目录构建处对应的动态链接库libAnimal.so。
+    `add_subdirectory(lib)` 
+
+就是要让当前的CMakeLists可以执行到指定子目录的CMakeLists进而构建子目录中的源文件，在这里就是通过子目录构建处对应的动态链接库libAnimal.so。
 
 3. 链接操作：
 
-`target_link_libraries(Demo Animal)
-`
+    `target_link_libraries(Demo Animal)`
 
 将生成的Demo可执行文件和动态链接库进行链接（当然这里还不是真正的链接，因为动态链接库是在运行时链接的）
 
-#### 多目录多文件标准化
+
+#### 4.1、多目录多文件标准化
 
 上面的工程结构不太规范，比如CMake产生的文件和源文件放在一起，导致这一部分文件不方便统一处理，现在一般标准的工程结构是这样的：
 
 ![Alt text](picture/image-20.png)
 
-一个build目录专门用于存放CMake产生的文件，工程源文件和库源文件分开存放在src和lib目录，工程根目录有个CMakeLists.txt用于管理全局的CMakeLists文件。
+一个build目录专门用于存放CMake产生的文件；
+
+工程源文件和库源文件分开存放在src和lib目录；
+
+工程根目录有个CMakeLists.txt用于管理全局的CMakeLists文件。
 
 根目录的CMakeLists.txt：
 
@@ -1792,23 +1805,26 @@ src的CMakeLists.txt：
 ```
 #指定可执行文件输出路径为执行CMake的目录下的/scr/bin（/home/ubuntu/study/projects/CmakeDemo/Demo4/build/src/bin）
 SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
+
 # 添加 lib 子目录
 include_directories(../lib)
+
 #添加头文件目录
 include_directories(../lib)
+
 # 查找目录下的所有源文件
 # 并将名称保存到 DIR_SRCS 变量
 aux_source_directory(. DIR_SRCS)
+
 Message("DIR_SRCS = ${DIR_SRCS}")
 Message("PROJECT_SOURCE_DIR = ${PROJECT_SOURCE_DIR}")
 Message("PROJECT_BINARY_DIR = ${PROJECT_BINARY_DIR}")
 
 #指定生成可执行文件的源文件
 add_executable(Demo ${DIR_SRCS})
+
 # 添加链接库
 target_link_libraries(Demo Animal)
-
-
 ```
 
 lib的CMakeLists.txt：
@@ -1817,8 +1833,10 @@ lib的CMakeLists.txt：
 # 查找当前目录下的所有源文件
 # 并将名称保存到 DIR_LIB_SRCS 变量
 aux_source_directory(. DIR_LIB_SRCS)
+
 #指定库的输出路径为lib（/home/ubuntu/study/projects/CmakeDemo/Demo4/build/lib）
 SET(LIBRARY_OUTPUT_PATH ${PROJECT_BINARY_DIR}/lib)
+
 # 指定生成 Animal链接库
 add_library (Animal SHARED ${DIR_LIB_SRCS})
 ```
@@ -1847,8 +1865,6 @@ PROJECT_BINARY_DIR = /home/ubuntu/study/projects/CmakeDemo/Demo4/build/src
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/ubuntu/study/projects/CmakeDemo/Demo4/build
-
-
 ```
 
 此时build文件已经生成构建文件Makefile和对应的构建结果文件lib和src，并且lib和src已经分别生成了各自对应的Makefile文件
@@ -1948,6 +1964,10 @@ ubuntu@VM-20-7-ubuntu:~/study/projects/CmakeDemo/Demo4$ tree
 
 
 ```
+
+### 5、add_custom_command
+
+
 
 ### 总结
 
@@ -2052,13 +2072,13 @@ echo '/tmp/core.%t.%e.%p' > /proc/sys/kernel/core_pattern
 设置中的字段的含义如下：
 
     /tmp 存放core文件的目录
-
+    
     core 文件名前缀
-
+    
     %t 系统时间戳
-
+    
     %e 进程名称
-
+    
     %p 进程ID
 
 #### 3、生成调试符号表
@@ -2078,17 +2098,17 @@ echo '/tmp/core.%t.%e.%p' > /proc/sys/kernel/core_pattern
 除了上面的-E、-S、-c选项外，下面还有一些常用选项。
 
     -static：此选项对生成的文件采用静态链接
-
+    
     -O0、-O1、-O2、-O3：编译器优化选项的4个级别，
-
+    
     -O0表示没有优化
-
+    
     -O3优化级别最高
-
+    
     -w：不生成任何警告信息。
-
+    
     -Wall：生成所有警告信息。
-
+    
     -+filename：将生成的文件命名为filename
 
 #### 4、使用screen来恢复会话
@@ -2118,10 +2138,10 @@ screen -D -r [screen session id]
     ```
     # 1. 使用GDB加载可执行程序
     gdb [program]
-
+    
     # 2. 使用GDB加载可执行程序并传递命令行参数
     gdb --args [program] [arguments] # `例：gdb --args server -p 10000`
-
+    
     # 开始调试程序
     (gdb) run
     # 传递命令行参数并开始调试程序
